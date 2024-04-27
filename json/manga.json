@@ -1,0 +1,72 @@
+[
+    {
+        "id" : 1,
+        "name" : "Alderamin On The Sky ",
+        "tomes" : 7 ,
+        "terminer" : "V",
+        "tomes_jap" : 7 ,
+        "terminer_jap" : "V",
+        "editeur" : "Ototo",
+        "rangement" : "Grande Etagère",
+        "prioritaire" : "X",
+        "lu" : "V",
+        "link" : "https://www.manga-news.com/index.php/serie/Alderamin-on-the-sky",
+        "image_path" : "./ressource/manga/alderamin-1-ototo.webp"
+    },
+    {
+        "id" : 2,
+        "name" : "Aprés la pluie",
+        "tomes" : 10 ,
+        "terminer" : "V",
+        "tomes_jap" : 10 ,
+        "terminer_jap" : "V",
+        "editeur" : "Kana",
+        "rangement" : "Grande Etagère",
+        "prioritaire" : "X",
+        "lu" : "V",
+        "link" : "https://www.manga-news.com/index.php/serie/Apres-la-pluie",
+        "image_path" : "./ressource/manga/apres-la-pluie-1-kana.webp"
+    },
+    {
+        "id" : 3,
+        "name" : "Arifureta : De Zéro à Héros",
+        "tomes" : 3 ,
+        "terminer" : "X",
+        "tomes_jap" : 12 ,
+        "terminer_jap" : "X",
+        "editeur" : "Delcourt/ Tonkam",
+        "rangement" : "Etagère 1",
+        "prioritaire" : "V",
+        "lu" : "X",
+        "link" : "https://www.manga-news.com/index.php/serie/Arifureta-De-zero-a-Heros",
+        "image_path" : "./ressource/manga/arifureta-1-delcourt.webp"
+    },
+    {
+        "id" : 4,
+        "name" : "Ash Le Batisseur de Civilisation",
+        "tomes" : 5 ,
+        "terminer" : "X",
+        "tomes_jap" : 6 ,
+        "terminer_jap" : "X",
+        "editeur" : "Komikku Editions",
+        "rangement" : "Etagère 1",
+        "prioritaire" : "V",
+        "lu" : "X",
+        "link" : "https://www.manga-news.com/index.php/serie/Ash-le-Batisseur-de-civilisation",
+        "image_path" : "./ressource/manga/ash-batisseur-civilisation-1-komikku.webp"
+    },
+    {
+        "id" : 5,
+        "name" : "Assassination Classroom",
+        "tomes" : 21 ,
+        "terminer" : "V",
+        "tomes_jap" : 21 ,
+        "terminer_jap" : "V",
+        "editeur" : "Kana",
+        "rangement" : "Grande Etagère",
+        "prioritaire" : "V",
+        "lu" : "V",
+        "link" : "https://www.manga-news.com/index.php/serie/Assassination-classroom",
+        "image_path" : "./ressource/manga/assassination-classroom-1-kana.webp"
+    }
+]
