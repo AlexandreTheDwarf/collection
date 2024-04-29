@@ -4,42 +4,52 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(data => {
             // Trie les données par ordre alphabétique ascendant sur la propriété "name"
             data.sort((a, b) => a.name.localeCompare(b.name));
-            displayManga(data);
-        });
 
-    document.getElementById('apply_filters').addEventListener('click', () => {
-        const editors = Array.from(document.querySelectorAll('.editor-checkbox:checked')).map(checkbox => checkbox.value);
-        const rangements = Array.from(document.querySelectorAll('.rangement-checkbox:checked')).map(checkbox => checkbox.value);
-        const terminer = document.getElementById('terminer').checked ? 'V' : 'X';
-        const terminerJapon = document.getElementById('terminer_japon').checked ? 'V' : 'X';
-        const prioritaire = document.getElementById('prioritaire').checked ? 'V' : 'X';
-        const lu = document.getElementById('lu').checked ? 'V' : 'X';
+            const container = document.getElementById('cards_container');
+            let filteredData = data; // initialise les données filtrées avec toutes les données
 
-        fetch('./json/manga.json')
-            .then(response => response.json())
-            .then(data => {
-                let filteredData = data.filter(manga => {
-                    return (editors.length === 0 || editors.includes(manga.editeur)) &&
-                           (rangements.length === 0 || rangements.includes(manga.rangement))  &&
-                           (terminer === 'X' || manga.terminer === terminer) &&
-                           (terminerJapon === 'X' || manga.terminer_jap === terminerJapon) &&
-                           (prioritaire === 'X' || manga.prioritaire === prioritaire) &&
-                           (lu === 'X' || manga.lu === lu);
+            function applyFilters() {
+                const editors = document.querySelectorAll('.editor-checkbox:checked');
+                const shelves = document.querySelectorAll('.rangement-checkbox:checked');
+                const finish = document.getElementById('terminer').checked;
+                const finishJap = document.getElementById('terminer_japon').checked;
+                const priority = document.getElementById('prioritaire').checked;
+                const read = document.getElementById('lu').checked;
+
+                filteredData = data.filter(item => {
+                    let passesEditor = true;
+                    let passesShelves = true;
+
+                    if (editors.length > 0) {
+                        passesEditor = Array.from(editors).some(editor => item.editeur === editor.value);
+                    }
+
+                    if (shelves.length > 0) {
+                        passesShelves = Array.from(shelves).some(shelf => item.rangement === shelf.value);
+                    }
+
+                    return passesEditor && passesShelves && (!finish || item.terminer === "V") &&
+                           (!finishJap || item.terminer_jap === "V") && (!priority || item.prioritaire === "V") &&
+                           (!read || item.lu === "V");
                 });
-                displayManga(filteredData);
-            });
-    });
 
-    function displayManga(data) {
-        const container = document.getElementById('cards_container');
-        container.innerHTML = ''; // Clear existing manga cards
-        data.forEach(item => {
-            const card = document.createElement('div');
-            card.className = 'card_manga';
-            card.innerHTML = `<img src="${item.image_path}" alt="${item.name}">`;
-            container.appendChild(card);
+                renderCards();
+            }
+
+            function renderCards() {
+                container.innerHTML = ''; // vide le conteneur
+                filteredData.forEach(item => {
+                    const card = document.createElement('div');
+                    card.className = 'card_manga';
+                    card.innerHTML = `<img src="${item.image_path}" alt="${item.name}">`;
+                    card.addEventListener('click', () => {
+                        window.location.href = '/details.html?id=' + item.id; 
+                    });
+                    container.appendChild(card);
+                });
+            }
+
+            document.getElementById('apply_filters').addEventListener('click', applyFilters);
+            renderCards(); // affiche toutes les cartes initialement
         });
-    }
 });
-
-
