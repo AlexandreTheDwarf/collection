@@ -14,9 +14,80 @@
             <li><a href="manga.html">Manga</a></li>
         </ul>  
     </nav>
-    <h1>Manga</h1>
-    <section id="cards_container">
-        
+    <section class="manga">
+        <div id="filter">
+            <h3>Filtres :</h3>
+            <div class="filter-section">
+                <label>Éditeur:</label><br>
+                <input type="checkbox" id="Akata" value="Akata" class="editor-checkbox">
+                <label for="Akata">Akata</label><br>
+                <input type="checkbox" id="Delcourt_Tonkam" value="Delcourt/Tonkam" class="editor-checkbox">
+                <label for="Delcourt_Tonkam">Delcourt / Tonkam</label><br>
+                <input type="checkbox" id="Doki_Doki" value="Doki Doki" class="editor-checkbox">
+                <label for="Doki_Doki">Doki Doki</label><br>
+                <input type="checkbox" id="France_Loisirs" value="France Loisirs" class="editor-checkbox">
+                <label for="France_Loisirs">France Loisirs</label><br>
+                <input type="checkbox" id="Glénat" value="Glénat" class="editor-checkbox">
+                <label for="Glénat">Glénat</label><br>
+                <input type="checkbox" id="Hot_Manga" value="Hot Manga" class="editor-checkbox">
+                <label for="Hot_Manga">Hot Manga</label><br>
+                <input type="checkbox" id="Kana" value="Kana" class="editor-checkbox">
+                <label for="Kana">Kana</label><br>
+                <input type="checkbox" id="Kaze" value="Kaze" class="editor-checkbox">
+                <label for="Kaze">Kaze</label><br>
+                <input type="checkbox" id="Ki_oon" value="Ki-oon" class="editor-checkbox">
+                <label for="Ki_oon">Ki-oon</label><br>
+                <input type="checkbox" id="Komikku_Editions" value="Komikku Editions" class="editor-checkbox">
+                <label for="Komikku_Editions">Komikku Editions</label><br>
+                <input type="checkbox" id="Kurokawa" value="Kurokawa" class="editor-checkbox">
+                <label for="Kurokawa">Kurokawa</label><br>
+                <input type="checkbox" id="Mana_Books" value="Mana Books" class="editor-checkbox">
+                <label for="Mana_Books">Mana Books</label><br>
+                <input type="checkbox" id="Meian" value="Meian" class="editor-checkbox">
+                <label for="Meian">Meian</label><br>
+                <input type="checkbox" id="Nazca" value="Nazca" class="editor-checkbox">
+                <label for="Nazca">Nazca</label><br>
+                <input type="checkbox" id="Ototo" value="Ototo" class="editor-checkbox">
+                <label for="Ototo">Ototo</label><br>
+                <input type="checkbox" id="Pika" value="Pika" class="editor-checkbox">
+                <label for="Pika">Pika</label><br>
+                <input type="checkbox" id="Soleil" value="Soleil" class="editor-checkbox">
+                <label for="Soleil">Soleil</label><br>
+                <input type="checkbox" id="Niho_Niba" value="Niho Niba" class="editor-checkbox">
+                <label for="Niho_Niba">Niho Niba</label><br>
+            </div>
+            <div class="filter-section">
+                <label for="rangement">Rangement:</label><br>
+                <input type="checkbox" id="etagere_1" value="Etagère 1" class="rangement-checkbox">
+                <label for="etagere_1">Etagère 1</label><br>             
+                <input type="checkbox" id="Etagère 2" value="Etagère 2" class="rangement-checkbox">
+                <label for="Etagère 2">Etagère 2</label><br>
+                <input type="checkbox" id="Etagère 3" value="Etagère 3" class="rangement-checkbox">
+                <label for="Etagère 3">Etagère 3</label><br>
+                <input type="checkbox" id="Grande Etagère" value="Grande Etagère" class="rangement-checkbox">
+                <label for="Grande Etagère">Grande Etagère</label><br>
+            </div>          
+            <div class="filter-section">
+                <label>Terminer ?</label>
+                <input type="checkbox" id="terminer" value="V">
+            </div>
+            <div class="filter-section">
+                <label>Terminer au Japon ?</label>
+                <input type="checkbox" id="terminer_japon" value="V">
+            </div>
+            <div class="filter-section">
+                <label>Prioritaire ?</label>
+                <input type="checkbox" id="prioritaire" value="V">
+            </div>
+            <div class="filter-section">
+                <label>Lu ?</label>
+                <input type="checkbox" id="lu" value="V">
+            </div>
+            <button id="apply_filters">Appliquer les filtres</button>
+        </div>
+        <div id="cards_container">
+            
+        </div>
     </section>
 </body>
 <script src="./script/manga.js"></script>

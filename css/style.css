@@ -1,3 +1,4 @@
+@charset "UTF-8";
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -170,12 +171,40 @@ nav ul li a:hover {
   margin: 20px 0;
 }
 
-#cards_container {
+.manga {
+  display: flex;
+  flex-direction: row;
+}
+.manga #filter {
+  width: 15%;
+  -webkit-appearance: auto;
+     -moz-appearance: auto;
+          appearance: auto;
+  background-color: lightgrey;
+  height: 90vh;
+}
+.manga #filter input[type=checkbox] {
+  -webkit-appearance: none; /* Annuler l'apparence par défaut */
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #fff; /* Couleur de fond */
+  border: 2px solid #555; /* Bordure */
+  padding: 5px; /* Padding pour la taille */
+  border-radius: 3px; /* Coins arrondis */
+  display: inline-block; /* Permet d'aligner avec le label */
+  position: relative;
+  top: 3px; /* Alignement vertical avec le texte */
+  cursor: pointer; /* Cursor pointer pour indiquer qu'il s'agit d'un élément cliquable */
+}
+.manga #filter input[type=checkbox]:checked {
+  background-color: rgba(85, 85, 85, 0.3333333333); /* Couleur de fond quand elle est cochée */
+}
+.manga #cards_container {
+  width: 85%;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: left;
   gap: 5px;
-  align-items: center;
   margin: 0;
   padding: 0 20px;
 }/*# sourceMappingURL=style.css.map */
