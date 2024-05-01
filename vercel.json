@@ -4,7 +4,19 @@
       {
         "src": "*.html",
         "use": "@vercel/static"
+      },
+      {
+        "src": "script/**",
+        "use": "@vercel/static"
+      },
+      {
+        "src": "json/**",
+        "use": "@vercel/static"
+      },
+      {
+        "src": "css/**",
+        "use": "@vercel/static"
       }
     ]
-  }
+}
   
