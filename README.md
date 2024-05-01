@@ -20,11 +20,11 @@ Le projet "Collection" est conçu pour transformer un fichier Google Sheets en u
 
 ## Exemples :
 
-<img src="./public/Capture d’écran 2024-05-01 111800.png" width="200px">
+<img src="./public/Capture d’écran 2024-05-01 111800.png" width="860px">
 
-<img src="./public/Capture d’écran 2024-05-01 111831.png" width="200px">
+<img src="./public/Capture d’écran 2024-05-01 111831.png" width="860px">
 
-<img src="./public/Capture d’écran 2024-05-01 111841.png" width="200px">
+<img src="./public/Capture d’écran 2024-05-01 111841.png" width="860px">
 
 ## Dépendances :
 
