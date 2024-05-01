@@ -1,0 +1,25 @@
+#filter{
+    width: 15%;
+    appearance: auto;
+    background-color: lightgrey;
+    height: 90vh;
+
+    input[type="checkbox"] {
+        -webkit-appearance: none;  /* Annuler l'apparence par défaut */
+        -moz-appearance: none;
+        appearance: none;
+        background-color: #fff;   /* Couleur de fond */
+        border: 2px solid #555;   /* Bordure */
+        padding: 5px;             /* Padding pour la taille */
+        border-radius: 3px;       /* Coins arrondis */
+        display: inline-block;    /* Permet d'aligner avec le label */
+        position: relative;
+        top: 3px;                 /* Alignement vertical avec le texte */
+        cursor: pointer;          /* Cursor pointer pour indiquer qu'il s'agit d'un élément cliquable */
+
+        &:checked {
+            background-color: #5555;  /* Couleur de fond quand elle est cochée */
+        }   
+    }
+         
+}

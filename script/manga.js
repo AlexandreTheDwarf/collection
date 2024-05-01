@@ -2,11 +2,14 @@ document.addEventListener('DOMContentLoaded', function() {
     fetch('./json/manga.json')
         .then(response => response.json())
         .then(data => {
-            // Trie les données par ordre alphabétique ascendant sur la propriété "name"
             data.sort((a, b) => a.name.localeCompare(b.name));
 
+            const itemsPerPage = 12;
+            let currentPage = 1;
+            let filteredData = data;
+
             const container = document.getElementById('cards_container');
-            let filteredData = data; // initialise les données filtrées avec toutes les données
+            const pageInfo = document.getElementById('current_page_info');
 
             function applyFilters() {
                 const editors = document.querySelectorAll('.editor-checkbox:checked');
@@ -37,8 +40,11 @@ document.addEventListener('DOMContentLoaded', function() {
             }
 
             function renderCards() {
-                container.innerHTML = ''; // vide le conteneur
-                filteredData.forEach(item => {
+                container.innerHTML = ''; // Clear the container
+                const startIndex = (currentPage - 1) * itemsPerPage;
+                const selectedData = filteredData.slice(startIndex, startIndex + itemsPerPage);
+                
+                selectedData.forEach(item => {
                     const card = document.createElement('div');
                     card.className = 'card_manga';
                     card.innerHTML = `<img src="${item.image_path}" alt="${item.name}">`;
@@ -47,9 +53,29 @@ document.addEventListener('DOMContentLoaded', function() {
                     });
                     container.appendChild(card);
                 });
+
+                pageInfo.textContent = `Page ${currentPage} sur ${Math.ceil(filteredData.length / itemsPerPage)}`;
+            }
+
+            function nextPage() {
+                if (currentPage * itemsPerPage < filteredData.length) {
+                    currentPage++;
+                    renderCards();
+                }
+            }
+
+            function prevPage() {
+                if (currentPage > 1) {
+                    currentPage--;
+                    renderCards();
+                }
             }
 
             document.getElementById('apply_filters').addEventListener('click', applyFilters);
-            renderCards(); // affiche toutes les cartes initialement
+            document.getElementById('next_page').addEventListener('click', nextPage);
+            document.getElementById('prev_page').addEventListener('click', prevPage);
+
+            renderCards(); // Initial render
         });
 });
+
