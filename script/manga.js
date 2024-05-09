@@ -14,10 +14,14 @@ document.addEventListener('DOMContentLoaded', function() {
             function applyFilters() {
                 const editors = document.querySelectorAll('.editor-checkbox:checked');
                 const shelves = document.querySelectorAll('.rangement-checkbox:checked');
-                const finish = document.getElementById('terminer').checked;
-                const finishJap = document.getElementById('terminer_japon').checked;
-                const priority = document.getElementById('prioritaire').checked;
-                const read = document.getElementById('lu').checked;
+                const finishYes = document.getElementById('terminer_yes').checked;
+                const finishNo = document.getElementById('terminer_no').checked;
+                const finishJapYes = document.getElementById('terminer_japon_yes').checked;
+                const finishJapNo = document.getElementById('terminer_japon_no').checked;
+                const priorityYes = document.getElementById('prioritaire_yes').checked;
+                const priorityNo = document.getElementById('prioritaire_no').checked;
+                const readYes = document.getElementById('lu_yes').checked;
+                const readNo = document.getElementById('lu_no').checked;
 
                 filteredData = data.filter(item => {
                     let passesEditor = true;
@@ -31,9 +35,11 @@ document.addEventListener('DOMContentLoaded', function() {
                         passesShelves = Array.from(shelves).some(shelf => item.rangement === shelf.value);
                     }
 
-                    return passesEditor && passesShelves && (!finish || item.terminer === "V") &&
-                           (!finishJap || item.terminer_jap === "V") && (!priority || item.prioritaire === "V") &&
-                           (!read || item.lu === "V");
+                    return passesEditor && passesShelves &&
+                           ((finishYes && item.terminer === "V") || (finishNo && item.terminer !== "V") || (!finishYes && !finishNo)) &&
+                           ((finishJapYes && item.terminer_jap === "V") || (finishJapNo && item.terminer_jap !== "V") || (!finishJapYes && !finishJapNo)) &&
+                           ((priorityYes && item.prioritaire === "V") || (priorityNo && item.prioritaire !== "V") || (!priorityYes && !priorityNo)) &&
+                           ((readYes && item.lu === "V") || (readNo && item.lu !== "V") || (!readYes && !readNo));
                 });
 
                 renderCards();
@@ -78,4 +84,3 @@ document.addEventListener('DOMContentLoaded', function() {
             renderCards(); // Initial render
         });
 });
-
