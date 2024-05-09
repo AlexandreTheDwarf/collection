@@ -16,9 +16,9 @@
     </nav>
     <section class="manga">
         <div id="filter">
-            <h3>Filtres :</h3>
+            <h2>Filtres :</h3>
             <div class="filter-section">
-                <label>Éditeur:</label><br>
+                <label class="Filter-title">Éditeur:</label><br>
                 <input type="checkbox" id="Akata" value="Akata" class="editor-checkbox">
                 <label for="Akata">Akata</label><br>
                 <input type="checkbox" id="Delcourt_Tonkam" value="Delcourt/ Tonkam" class="editor-checkbox">
@@ -57,7 +57,7 @@
                 <label for="Niho_Niba">Niho Niba</label><br>
             </div>
             <div class="filter-section">
-                <label for="rangement">Rangement:</label><br>
+                <label class="Filter-title" for="rangement">Rangement:</label><br>
                 <input type="checkbox" id="etagere_1" value="Etagère 1" class="rangement-checkbox">
                 <label for="etagere_1">Etagère 1</label><br>             
                 <input type="checkbox" id="Etagère 2" value="Etagère 2" class="rangement-checkbox">
@@ -66,22 +66,23 @@
                 <label for="Etagère 3">Etagère 3</label><br>
                 <input type="checkbox" id="Grande Etagère" value="Grande Etagère" class="rangement-checkbox">
                 <label for="Grande Etagère">Grande Etagère</label><br>
-            </div>          
+            </div>  
+            <h3 class="Filter-title">Divers :</h3>        
             <div class="filter-section">
-                <label>Terminer ?</label>
                 <input type="checkbox" id="terminer" value="V">
+                <label>Terminer ?</label>
             </div>
             <div class="filter-section">
-                <label>Terminer au Japon ?</label>
                 <input type="checkbox" id="terminer_japon" value="V">
+                <label>Terminer au Japon ?</label>
             </div>
             <div class="filter-section">
-                <label>Prioritaire ?</label>
                 <input type="checkbox" id="prioritaire" value="V">
+                <label>Prioritaire ?</label>
             </div>
             <div class="filter-section">
-                <label>Lu ?</label>
                 <input type="checkbox" id="lu" value="V">
+                <label>Lu ?</label>
             </div>
             <button id="apply_filters">Appliquer les filtres</button>
         </div>

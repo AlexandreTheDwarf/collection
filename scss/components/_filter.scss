@@ -4,6 +4,25 @@
     background-color: lightgrey;
     height: 90vh;
 
+    h2 {
+        font-size: 20px; // Taille du titre principal
+        font-weight: bold; // Gras
+        margin-bottom: 10px; // Espacement en bas
+    }
+
+    .Filter-title {
+        font-size: 18px; // Taille des sous-titres
+        font-weight: bold; // Gras
+        color: #000000;
+        margin-top: 5px;
+    }
+
+    label{
+        font-size: 14px; // Taille de la police
+        font-weight: bold; // Gras
+        color: #333; // Couleur du texte
+    }
+
     input[type="checkbox"] {
         -webkit-appearance: none;  /* Annuler l'apparence par défaut */
         -moz-appearance: none;

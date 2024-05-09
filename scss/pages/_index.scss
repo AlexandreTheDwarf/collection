@@ -1,0 +1,57 @@
+.index{
+    #container {
+        max-width: 960px;
+        margin: auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    header {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 32px;
+        font-weight: bold;
+    }
+    
+    section {
+        margin: 30px 100px;
+        line-height: 1.5;
+        
+        h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+    
+        ul {
+            margin-left: 20px;
+            list-style-type: disc;
+        }
+    
+        ol {
+            margin-left: 20px;
+            list-style-type: disc;
+        }
+    
+        a {
+            color: #007bff;
+            text-decoration: none;
+    
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+    
+    footer {
+        text-align: center;
+        margin-top: 50px;
+    
+        h3 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+    }    
+    
+}
