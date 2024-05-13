@@ -2,7 +2,408 @@
     {
         "id" : 1,
         "name" : "Overlord",
+        "name_vo" : "Overlord",
+        "saison" : 4,
+        "nb_episode" : 52,
+        "genre" : [
+            "Action",
+            "Fantastique"
+        ],
+        "synopsis" : "Nous sommes en l’an 2138. Yggdrasil, le célèbre MMORPG à succès, est sur le point de fermer. Momonga, le fondateur de la guilde dont la renommée n’est plus à faire, attend seul l’arrêt du jeu. Cependant au moment où le jeu est censé prendre fin, Momonga n'est pas déconnecté. Il reste seul et devient captif de l'univers du jeu, alors que les personnages non-jouables se retrouvent peu à peu dotés d’une conscience… Un nouveau monde dont les règles sont encore inconnues est sur le point de faire son apparition.",
+        "image_path" : "./ressource/anime/MV5BMjYxZjFkNTEtZjYzNC00MTdhLThiM2ItYmRiOWJiYTJkYzMxXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Am I Actually The Strongest ?",
+        "name_vo" : "Jitsu wa Ore, Saikyô deshita?",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Comedie",
+            "Fantastique"
+        ],
+        "synopsis" : "Après son décès, Haruto se réincarne en bébé, qui plus est, un prince ! Malheureusement, il est abandonné dans une forêt le jour de sa naissance à cause de son faible niveau de magie... Quel sera le destin de Haruto à qui la déesse de la réincarnation a donné, par inadvertance, mille fois plus de magie que la normale, sans que personne ne s'en aperçoive ?",
+        "image_path" : "./ressource/anime/Am_I_actually_the_Strongest_anime.webp"
+    },
+    {
+        "id" : 3,
+        "name" : "Bofuri : Je suis pas venue ici pour souffrir alors j'ai tout mis en défense",
+        "name_vo": "Itai no wa Iya nanode Bogyo-Ryoku ni Kyokufuri Shitai to Omoimasu",
+        "saison" : 2,
+        "nb_episode" : 24,
+        "genre" : [
+            "Comedie",
+            "Fantastique"
+        ],
+        "synopsis" : "Un nouveau gros joueur est apparu sur le fameux VRMMO NewWorld Online ! Aucune attaque ne peut l’atteindre, et grâce à son talent de poison létal, les monstres comme les autres joueurs se font tous démolir ! Qui se cache derrière ce personnage qui, de par son style de combat original, se fait surnommer « la forteresse vivante » ou encore « le boss final » ? Une jeune fille débutante ! Maple commence à peine le jeu, sur les conseils de son amie Sally. N’y connaissant pas grand-chose, elle a mis tous ses premiers points de compétence en VIT (défense). Dès qu’elle a rencontré des petits monstres de base, elle s’est fait ridiculiser… mais ça ne lui a pas fait le moindre mal ? Ils ont beau l’envoyer valser, elle ne reçoit aucun dégât ! En plus, elle a eu la chance de tomber sur une compétence de contre qui tue l’ennemi en un coup. Et grâce à l’aide de camarades aux mêmes préférences qu’elle, Maple ne va cesser de progresser. Que l’aventure à zéro dégât commence !",
+        "image_path" : "./ressource/anime/bofuri-anime.webp"
+    },
+    {
+        "id" : 4,
+        "name" : "Fire Force",
+        "name_vo" : "Enn Enn no Shouboutai",
+        "saison" : 2,
+        "nb_episode" : 48,
+        "genre" : [
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis" : "L'humanité est terrifiée par le phénomène de combustion humaine. Des brigades spéciales Fire Force ont donc été mises en place avec pour mission de trouver la cause de ce mystérieux phénomène ! Le jeune Shinra, nouvelle recrue surnommée le Démon, rêve de devenir un héros. Mais le chemin sera long et il devra, avec ses camarades, apprendre à affronter quotidiennement des Torches humaines !! (synopsis du manga)",
+        "image_path" : "./ressource/anime/Fire-Force-saison-2-anime-visual-2.webp"
+    },
+    {
+        "id" : 5,
+        "name" : "How a Realist Hero Rebuilt the Kingdom",
+        "name_vo": "Genjitsu Shugi Yûsha no Ôkoku Saikenki",
+        "saison" : 2,
+        "nb_episode" : 26,
+        "genre" : [
+            "Aventure",
+            "Heroic-fantasy"
+        ],
+        "synopsis" : "Kazuya Sôma est un jeune homme sans histoire aspirant à une vie tranquille. Peu après avoir perdu son grand-père, la seule famille qu’il lui restait, il se retrouve propulsé dans un autre monde. Là-bas, il apprend qu’il est le héros invoqué par le royaume d’Elfrieden pour venir en aide au pays. Hélas, il va vite s’apercevoir que son destin de héros s’annonce tout sauf héroïque…",
+        "image_path" : "./ressource/anime/MV5BZTNhNDAxNjItYjdlNS00Zjk0LTk2MDYtNjZiMzQ5YzQxZmZjXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Parallel World Pharmacy",
+        "name_vo" : "Isekai Yakkyoku",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Fantastique",
+            "Tranche-de-vie"
+        ],
+        "synopsis" : "Un jeune pharmacien renaît dans un autre monde où il ouvre une boutique pour aider un village local.",
+        "image_path" : "./ressource/anime/Parallel_World_Pharmacy_affiche.webp"
+    },
+    {
+        "id" : 7,
+        "name" : "KamiKatsu Working for God in a Godless World",
+        "name_vo" : "Kaminaki Sekai no Kamisama Katsudô",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Comedie",
+            "Fantastique"
+        ],
+        "synopsis" : "Fils héritier du chef d’une secte, Yukito mène une vie centrée autour de la mystérieuse déesse Mitama. Mais lorsqu'il meurt au cours d'un rituel qui a mal tourné, Yukito renaît dans un monde où la notion de dieu n'existe pas ! Ici, la vie et la mort sont décidées par l'État impérial. Tandis que Yukito se bat pour protéger le village où il vit désormais, sa vie passée le rattrape…",
+        "image_path" : "./ressource/anime/kamisama_operation_divine.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "She Professed Herself Pupil of the Wise Man",
+        "name_vo" : "Kenja no Deshi wo Nanoru Kenja",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Aventure",
+            "Heroic-fantasy"
+        ],
+        "synopsis" : "Dans son jeu MMO préféré, Sakimori Kagami incarne Dunbalf, un sorcier ultra-puissant reconnu par tous les autres joueurs. Un jour, après s’être endormi connecté, il se retrouve bloqué dans le jeu... Et, comble de malchance, il venait de tester une version féminine de son personnage et reste coincé dans le corps d'une femme ! Pour retrouver la renommée de son ancien personnage, il se fera désormais passer pour la disciple de Dunbalf !",
+        "image_path" : "./ressource/anime/She_professed_herself_pupil_of_the_wise_man_anime.webp"
+    },
+    {
+        "id" : 9,
+        "name" : "Demon Slayer",
+        "name_vo" : "Kimetsu no Yaiba",
+        "saison" : 4,
+        "nb_episode" : 67,
+        "genre" : [
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis" : "Le Japon, au début du XXe siecle. Un petit marchand de charbon nommé Tanjiro vit une vie sans histoire dans les montagnes. Jusqu’au jour tragique où, après une courte absence, il retrouve son village et sa famille massacrés par un ogre ! La seule survivante de cette tragédie est sa jeune sœur Nezuko. Hélas, au contact de la bête, celle-ci s’est à son tour métamorphosée en monstre... Afin de renverser le processus et de venger sa famille, Tanjiro décide de partir en quête de vérité. Pour le jeune héros et sa sœur, c’est une longue aventure de sang et d’acier qui commence !",
+        "image_path" : "./ressource/anime/demon-slayer-anime-visual-4.webp"
+    },
+    {
+        "id" : 10,
+        "name" : "Konosuba - God's blessing on this wonderful world!",
+        "name_vo" : "Kono Subarashii Sekai ni Shukufuku wo!",
         "saison" : 3,
-        "image_path" : "./ressource/anime/overlord-anime.webp"
+        "nb_episode" : 32,
+        "genre" : [
+            "Comedie",
+            "Fantastique"
+        ],
+        "synopsis" : "Après avoir perdu la vie dans un accident de la route, Kazuma Satô voit apparaître devant lui une ravissante déesse, Aqua. Elle lui propose d’être réincarné dans un autre monde et d’emporter une seule chose avec lui. Kazuma choisit… la déesse ! Les voici transportés dans un pays sous la coupe d’un terrible roi démon. C’est le début de nombreuses aventures car si Kazuma n’aspire qu’à la paix et au calme, Aqua se préoccupe beaucoup des problèmes des gens qu’ils croisent. Et cela ne plaît pas du tout au roi…",
+        "image_path" : "./ressource/anime/konosuba-anime-saison-2.webp"
+    },
+    {
+        "id" : 11,
+        "name" : "Kuma Kuma Kuma Bear",
+        "name_vo" : "The Bears Bear a Bare Kuma",
+        "saison" : 2,
+        "nb_episode" : 24,
+        "genre" : [
+            "Comedie",
+            "Aventure"
+        ],
+        "synopsis" : "Yuna est une adolescente qui profite pleinement de sa vie de recluse et qui passe son temps à jouer au VRMMORPG, « World Fantasy Online ». Un jour, alors qu'elle s'y connecte comme d'habitude, quelque chose cloche. Yuna se retrouve dans un monde étrange équipée d’un nouvel attirail : des « Gants d'ours », des « Chaussures d'ours » et un « Costume d'ours » ! Toutefois, ce n'est pas un ours ordinaire. C'est un ours drôlement balèze doté de magie et des compétences les plus puissantes du monde ! Ainsi, même la conquête du monde semble possible... Mais quel est le but de la surpuissante fille ourse ? Profiter de la vie et vivre librement dans ce monde aussi ! Venez découvrir le quotidien ursin de l'invincible Yuna !",
+        "image_path" : "./ressource/anime/Kuma-Kuma-Kuma-Bear_S2-anime.webp"
+    },
+    {
+        "id" : 12,
+        "name" : "Ascendance of a Bookworm",
+        "name_vo" : "Honzuki no Gekokujô",
+        "saison" : 3,
+        "nb_episode" : 36,
+        "genre" : [
+            "Fantastique",
+            "Tranche-de-vie"
+        ],
+        "synopsis" : "Étudiante et passionnée par les livres, Motosu Urano venait d'apprendre qu'elle allait enfin travailler comme bibliothécaire, ce dont elle avait toujours rêvé. Mais la vie en a décidé autrement et un tragique accident l'a emportée. Pourtant, elle s'est réincarnée dans le corps de Myne, la petite fille d'un soldat. Mais elle ne se laisse pas abattre pour autant. Après tout, tant qu'elle peut lire, elle n'a besoin de rien d'autre. Cependant, dans ce monde dominé par la magie, seuls les nobles et les puissants ont accès aux livres. Le taux d'alphabétisation est ainsi très bas et peu d'ouvrages sont d'imprimés. Comme ils sont hors de portée pour quelqu'un de pauvre comme Myne, elle décide alors d'essayer de créer des livres en rassemblant toutes les connaissances acquises au cours de ses lectures...",
+        "image_path" : "./ressource/anime/ascendance-of-a-bookworm-anime.webp"
+    },
+    {
+        "id" : 13,
+        "name" : "In the Land of Leadale",
+        "name_vo" : "Leadale no Daichi Nite",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Aventure",
+            "Heroic-fantasy"
+        ],
+        "synopsis" : "À cause d’un terrible accident, Keina Kagami a été placée sous assistance respiratoire. Son seul espace de liberté est le VR-MMORPG Leadale. Un jour, l’appareil qui la maintient en vie cesse de fonctionner et Keina s'éteint. Mais lorsqu'elle se réveille, elle se retrouve dans le monde de Leadale, 200 ans dans le futur. Elle incarne désormais la demi-elfe Cayna et possède des compétences et des statuts oubliés. Elle se rapproche alors des autres habitants de ce monde, notamment des enfants qu’elle avait créés en même temps que son personnage. Ce n’est que le début d’une grande aventure dans le pays de Leadale…",
+        "image_path" : "./ressource/anime/In_the_Land_of_Leadale_anime_visual_1.webp"
+    },
+    {
+        "id" : 14,
+        "name" : "Made in Abyss",
+        "name_vo" : "Made in Abyss",
+        "saison" : 2,
+        "nb_episode" : 24,
+        "genre" : [
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis" : "À la surface de cette planète, un seul endroit demeure encore mystérieux et inexploré : un trou gigantesque surnommé « L’Abysse ». Dans cette crevasse sans fond dorment des trésors que l’humanité ne semble plus pouvoir reproduire. La fascination et l’émerveillement que représente L’Abysse poussent de nombreuses personnes à s’y aventurer.",
+        "image_path" : "./ressource/anime/Made_in_Abyss_S2_anime_affiche.webp"
+    },
+    {
+        "id" : 15,
+        "name" : "The Dawn of the Witch",
+        "name_vo" : "Mahôtsukai Reimeiki",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis" : "Seville est un étudiant d'une académie de magie qui ne se souvient de rien avant d'avoir rejoint l'école. Ne comprenant pas pourquoi il est là, le temps lui semble bien long, d’autant que ses notes ne sont pas fameuses. Un jour, le directeur de l’établissement l’envoie faire la promotion de la magie dans une région où l’on n’aime pas les sorcières. Dans un monde où la guerre entre l’église et les sorcières a pourtant pris fin depuis pas mal d’années, Seville va devoir convaincre ceux qui sont restés ancrés dans leurs préjugés.",
+        "image_path" : "./ressource/anime/Dawn_of_the_Witch-anime-visual.webp"
+    },
+    {
+        "id" : 16,
+        "name" : "Masamune-kun's Revenge",
+        "name_vo" : "Masamune-kun's Revenge",
+        "saison" : 2,
+        "nb_episode" : 24,
+        "genre" : [
+            "Comedie",
+            "Tranche-de-vie"
+        ],
+        "synopsis" : "Lorsqu’il était enfant, Masamune Makabe était un garçon rondouillard dont se moquait souvent une fille, Aki Adagaki. Il a fini par décider de se prendre en main et, quelques années plus tard, le voilà devenu un beau jeune homme intelligent et athlétique. À présent, il est prêt à prendre sa revanche sur ceux qui l’ont humilié ! Et il compte bien profiter d’un changement d’école pour mettre ses projets en œuvre…",
+        "image_path" : "./ressource/anime/4a14232f9a00d313fbef0ff664ebd58f.jpeg"
+    },
+    {
+        "id" : 17,
+        "name" : "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+        "name_vo" : "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis" : "Al Wayne est un jeune fermier dont le seul souhait est de continuer à vivre une vie paisible à la campagne en cultivant ses légumes. À son grand désarroi, les choses vont prendre une tout autre direction lorsque ses compétences agricoles seront arrivées à leur niveau maximum et qu’une armée de démons attaquera le royaume...",
+        "image_path" : "./ressource/anime/MV5BYWFjNDcxNzctZGNkMi00ODNhLWI5YjctYmYzMTU5ZDhkMTBmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+        "id" : 18,
+        "name" : "Reincarnated as a sword",
+        "name_vo" : "Tensei Shitara Ken Deshita",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis" : "Le protagoniste s'est retrouvé réincarné dans un monde différent. Pas comme un humain normal, mais comme une épée. Il est surpris, mais est déterminé à vivre comme une épée. Tout en chassant les démons en utilisant sa capacité à flotter, il vérifie la situation autour de lui. Au moment où il plante son épée dans le sol pour faire une pause, la capacité cesse de fonctionner. Alors qu'il est désemparé, une fille aux oreilles de chat, Fran, apparaît soudain devant lui...",
+        "image_path" : "./ressource/anime/Reincarnated_as_Sword-anime-visual.jpg"
+    },
+    {
+        "id" : 19,
+        "name" : "The Saint's Magic Power is Omnipotent",
+        "name_vo" : "Seijo no Maryoku wa Bannô desu",
+        "saison" : 2,
+        "nb_episode" : 24,
+        "genre" : [
+            "Romance",
+            "Heroic-fantasy"
+        ],
+        "synopsis" : "Sei, une jeune employée de bureau japonaise d'une vingtaine d'années, est transportée dans un autre monde. Malheureusement pour elle, dans le cercle d'invocation, conçu pour faire venir en ces lieux un Saint qui bannira la magie noire, se trouve une autre fille. À sa grande surprise, tout le monde semble lui préférer cette seconde personne, mais c'est bien loin de déplaire à Sei, qui quitte le palais afin d'ouvrir une boutique de potions et cosmétiques grâce à son pouvoir. Son affaire est fructueuse et sa vie pourrait être agréable... si seulement Sa (supposée) Sainteté ne venait pas la hanter très régulièrement !",
+        "image_path" : "./ressource/anime/MV5BMjM4NDFmOWUtYmQxZi00ZjYzLWIzYzItNzBjMjc1ODdlZTRjXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"
+    },
+    {
+        "id" : 20,
+        "name" : "Shangri-La Frontier",
+        "name_vo" : "Shangri-La Frontier",
+        "saison" : 1,
+        "nb_episode" : 25,
+        "genre" : [
+            "Aventure",
+            "Fantastique",
+            "Action"
+        ],
+        "synopsis" : "Passionné de jeux vidéo un peu particulier, Sunraku voue sa vie à s'essayer aux pires “bouses“ : scénario bancal, bugs dans tous les sens... il se délecte à déjouer tous ces pièges ! Mais lorsqu'il décide pour une fois de s’attaquer au MMORPG Shangri-La Frontier, un Greatest Of All Times aux trente millions de membres inscrits, il ne se doute pas qu'il va devoir faire preuve de tous ses talents pour venir à bout d'une épreuve encore plus corsée. Et tout ceci, affublé d'un masque ridicule ! Suivez notre héros pour vous aventurer avec lui dans un monde de fantasy, vous mesurer aux monstres légendaires, (faire un peu de levelling entre deux missions), collaborer avec les meilleurs joueurs... et surtout n'oubliez pas de sauvegarder avant que vos points de vie n'arrivent à zéro !",
+        "image_path" : "./ressource/anime/2995bef133df4020b3acbfe7a694cbdf.jpeg"
+    },
+    {
+        "id" : 21,
+        "name" : "The Greatest Demon Lord Is Reborn as a Typical Nobody",
+        "name_vo" : "Shijou Saikyou no Dai Maou, Murabito A ni Tensei suru",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Action",
+            "Comedie",
+            "Ecchi",
+            "Fantastique",
+            "Romance"
+        ],
+        "synopsis" : "Varvatos est le roi démon le plus puissant de l'histoire, célèbre jusque dans la mythologie. Ayant accompli sa vie de roi, il aspire désormais à une vie ordinaire et, des milliers d'années plus tard, il se réincarne en un villageois nommé Ard. Avec le temps, sa magie s'est un peu dégradée mais il n'en reste pas moins extrêmement puissant. Les rumeurs se répandent, de nombreuses femmes viennent lui demander de les épouser, la royauté tente de faire de lui le prochain souverain, et même d'anciens subordonnés tentent désormais de le tuer, mais le Grand Roi Démon se contente d'ignorer tous ces gens et continue de suivre sa propre voie.",
+        "image_path" : "./ressource/anime/shijou_saikyou_no_dai_maou_murabito_a_ni_tensei_suru_10126.webp"
+    },
+    {
+        "id" : 22,
+        "name" : "The Strongest Sage with the Weakest Crest",
+        "name_vo" : "Shikkakumon no Saikyou Kenja - Sekai Saikyou no Kenja ga Sara ni Tsuyoku Naru Tame ni Tensei Shimashita",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "School Life"
+        ],
+        "synopsis" : "Sa force étant limitée par le symbole magique avec lequel il est né, Mathias, le sage le plus puissant du monde, décide que la réincarnation est nécessaire pour devenir le plus fort de tous. À sa renaissance en tant que jeune garçon, Mathias est ravi de découvrir dès son premier essai qu'il est né avec le symbole optimal pour les combats magiques ! Malheureusement, ce monde a des standards extrêmement médiocres en matière de magie, et tout le monde pense qu'il sera toujours voué à échouer. Maintenant, c'est à Mathias de prouver que tout le monde a tort… car il est le sage le plus fort du monde !",
+        "image_path" : "./ressource/anime/The_Strongest_Sage_with_the_Weakest_Crest_anime_visual.webp"
+    },
+    {
+        "id" : 23,
+        "name" : "Banished from the Hero’s Party - I Decided to Live a Quiet Life in the Countryside",
+        "name_vo" : "Shin no Nakama",
+        "saison" : 2,
+        "nb_episode" : 24,
+        "genre" : [
+            "Action",
+            "Aventure",
+            "Comedie",
+            "Fantastique",
+            "Romance",
+            "Tranche-de-vie"
+        ],
+        "synopsis" : "Né avec des pouvoirs incroyables, Red semblait être le candidat idéal pour rejoindre les meilleurs héros dans la lutte pour sauver le monde. Mais personne ne veut de lui. Démoralisé, il décide de se la couler douce en devenant apothicaire en province. Ainsi commence sa nouvelle vie !",
+        "image_path" : "./ressource/anime/Banished_From_The_Heroes_Party_visual_2.webp"
+    },
+    {
+        "id" : 24,
+        "name" : "The Fruit of Evolution - Before I Knew It My Life Had It Made",
+        "name_vo" : "Shinka no Mi - Shiranai Uchi ni Kachigumi",
+        "saison" : 2,
+        "nb_episode" : 24,
+        "genre" : [
+            "Aventure",
+            "Comedie",
+            "Drame",
+            "Fantastique",
+            "Romance"
+        ],
+        "synopsis" : "Le lycéen Seiichi Hiiragi est malmené par ses camarades de classe qui le considèrent comme un loser. Un jour, toute son école est soudainement transportée dans un monde d'épée et de magie, semblable à un jeu vidéo. Lorsqu'il mange par hasard le Fruit de l'Évolution, il commence une nouvelle vie de gagnant...",
+        "image_path" : "./ressource/anime/The_Fruit_of_Evolution_anime.webp"
+    },
+    {
+        "id" : 25,
+        "name" : "Summoned to Another World for a Second Time",
+        "name_vo" : "Isekai Shôkan wa Nidome Desu",
+        "saison" : 1,
+        "nb_episode" : 12,
+        "genre" : [
+            "Action",
+            "Aventure",
+            "Comedie",
+            "Ecchi",
+            "Fantastique",
+            "Isekai"
+        ],
+        "synopsis" : "Il était une fois un héros qui a été invoqué dans un autre monde pour le sauver, et il l'a fait. Cependant, l'homme a été pris dans un « piège » et a été renvoyé de force dans son monde d'origine. En plus de cela, il a dû tout recommencer depuis le début, en tant que bébé… C'est l'histoire d'un voyage fou dans un autre monde où un ancien héros qui s'est réincarné en un lycéen un peu morose est « réinvoqué » dans ce même monde ! Il y a de quoi faire mieux quand c'est la deuxième fois, hein ♪",
+        "image_path" : "./ressource/anime/Summoned-to-Another-World-for-a-Second-Time-anime.webp"
+    },
+    {
+        "id" : 26,
+        "name" : "My Isekai Life - I Gained a Second Character Class and Became the Strongest Sage in the World!",
+        "name_vo" : "Tensei Kenja no Isekai Life - Dai-2 no Shokugyo wo Ete, Sekai Saikyô ni Narimashita",
+        "saison" : 1,
+        "nb_episode" : 11,
+        "genre" : [
+            "Action",
+            "Action",
+            "Comedie",
+            "Fantastique",
+            "Isekai"
+        ],
+        "synopsis" : "Alors qu’il est en train d’achever son travail, Yuji Sano reçoit une notification sur son ordinateur, le félicitant d’avoir été convoqué dans un autre monde ! Dans ce nouveau monde, il exerce désormais le métier de dresseur de monstres, un métier considéré comme particulièrement difficile pour un aventurier. Très vite, il se rend compte de la difficulté de son travail et ne parvient à dresser que de simples slimes. Toutefois, grâce à une capacité spéciale détenue par l’une des créatures, il réussit à lire un livre magique considéré jusqu’à ce jour comme indéchiffrable ! Grâce à cet exploit, il lui est désormais possible d’apprendre un second métier : celui de sage. Avec cette nouvelle vocation, et sans vraiment s’en rendre compte, il obtient un gigantesque pouvoir magique, le faisant devenir ni plus ni moins que l’être le plus puissant du monde.",
+        "image_path" : "./ressource/anime/my-isekai-life-anime-visual.webp"
+    },
+    {
+        "id" : 27,
+        "name" : "",
+        "saison" : 0,
+        "nb_episode" : 0,
+        "genre" : [
+            "",
+            ""
+        ],
+        "synopsis" : "",
+        "image_path" : "./"
+    },
+    {
+        "id" : 28,
+        "name" : "",
+        "saison" : 0,
+        "nb_episode" : 0,
+        "genre" : [
+            "",
+            ""
+        ],
+        "synopsis" : "",
+        "image_path" : "./"
+    },
+    {
+        "id" : 29,
+        "name" : "",
+        "saison" : 0,
+        "nb_episode" : 0,
+        "genre" : [
+            "",
+            ""
+        ],
+        "synopsis" : "",
+        "image_path" : "./"
+    },
+    {
+        "id" : 30,
+        "name" : "",
+        "saison" : 0,
+        "nb_episode" : 0,
+        "genre" : [
+            "",
+            ""
+        ],
+        "synopsis" : "",
+        "image_path" : "./"
     }
 ]

@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const container = document.getElementById('detail-container');
                 container.innerHTML = `<div class="detail-card">
                                         <h1 class="manga_title">${item.name}</h1>
-                                            <div class="manga_info">
+                                            <div class="manga_detail">
                                                 <img class="manga_img" src="${item.image_path}" alt="${item.name}">
                                                 <div class="manga_info">
                                                     <p>Editeur : ${item.editeur}</p>

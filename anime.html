@@ -15,9 +15,48 @@
             <li><a href="anime.html">Anime</a></li>
         </ul>  
     </nav>
-    <h1>Anime</h1>
-    <section id="cards_container">
+    <section class="anime">
+        <div id="filter">
+            <h2>Filtres :</h2>
+            <label for="name_filter">Filtrer par nom :</label><br>
+            <input type="text" id="name_filter" placeholder="Entrez un nom">
         
+            <fieldset>
+                <legend>Filtrer par genre :</legend>
+                <input type="checkbox" id="action_filter" class="genre-checkbox" value="action">
+                <label for="action_filter">Action</label><br>
+                <input type="checkbox" id="aventure_filter" class="genre-checkbox" value="aventure">
+                <label for="aventure_filter">Aventure</label><br>
+                <input type="checkbox" id="Comedie_filter" class="genre-checkbox" value="Comedie">
+                <label for="Comedie_filter">Comedie</label><br>
+                <input type="checkbox" id="Drame_filter" class="genre-checkbox" value="Drame">
+                <label for="Drame_filter">Drame</label><br>
+                <input type="checkbox" id="Ecchi_filter" class="genre-checkbox" value="Ecchi">
+                <label for="Ecchi_filter">Ecchi</label><br>
+                <input type="checkbox" id="Fantastique_filter" class="genre-checkbox" value="Fantastique">
+                <label for="Fantastique_filter">Fantastique</label><br>
+                <input type="checkbox" id="heroic-fantasy_filter" class="genre-checkbox" value="heroic-fantasy">
+                <label for="heroic-fantasy_filter">Heroic-fantasy</label><br>
+                <input type="checkbox" id="Isekai_filter" class="genre-checkbox" value="Isekai">
+                <label for="Isekai_filter">Isekai</label><br>
+                <input type="checkbox" id="romance_filter" class="genre-checkbox" value="Romance">
+                <label for="Romance_filter">Romance</label><br>
+                <input type="checkbox" id="School_Life_filter" class="genre-checkbox" value="School Life">
+                <label for="School_Life_filter">School Life</label><br>
+                <input type="checkbox" id="Tranche-de-vie_filter" class="genre-checkbox" value="Tranche-de-vie">
+                <label for="Tranche-de-vie_filter">Tranche-de-vie</label><br>
+            </fieldset>
+        </div>
+        <div class="anime_show">
+            <div id="cards_container">
+                
+            </div>
+            <div id="pagination_controls">
+                <button id="prev_page">Page précédente</button>
+                <span id="current_page_info"></span>
+                <button id="next_page">Page suivante</button>
+            </div>
+        </div>
     </section>
 </body>
 <script src="./script/anime.js"></script>

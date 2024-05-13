@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     card.className = 'card_manga';
                     card.innerHTML = `<img src="${item.image_path}" alt="${item.name}">`;
                     card.addEventListener('click', () => {
-                        window.location.href = '/details.html?id=' + item.id; 
+                        window.location.href = '/details_manga.html?id=' + item.id; 
                     });
                     container.appendChild(card);
                 });
