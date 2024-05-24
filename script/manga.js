@@ -12,6 +12,10 @@ document.addEventListener('DOMContentLoaded', function() {
             const pageInfo = document.getElementById('current_page_info');
 
             function applyFilters() {
+
+                // Reset currentPage to 1 when filters are applied
+                currentPage = 1;
+                
                 const editors = document.querySelectorAll('.editor-checkbox:checked');
                 const shelves = document.querySelectorAll('.rangement-checkbox:checked');
                 const finishYes = document.getElementById('terminer_yes').checked;

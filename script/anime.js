@@ -16,13 +16,11 @@ document.addEventListener('DOMContentLoaded', function() {
         const container = document.getElementById('cards_container');
         container.innerHTML = ''; // Vide le conteneur
 
-        // Filtres
         const nameFilter = document.getElementById('name_filter').value.toLowerCase();
         const selectedGenres = Array.from(document.querySelectorAll('.genre-checkbox:checked')).map(checkbox => checkbox.value.toLowerCase());
 
-        // Filtrer les données des animes en fonction des filtres choisis
         let filteredData = animeData.filter(item => {
-            const nameMatch = (item.name && item.name.toLowerCase().includes(nameFilter)) || (item.name_vo && item.name_vo.toLowerCase().includes(nameFilter)); // Vérifie d'abord si les propriétés existent
+            const nameMatch = (item.name && item.name.toLowerCase().includes(nameFilter)) || (item.name_vo && item.name_vo.toLowerCase().includes(nameFilter));
             return nameMatch;
         });        
 
@@ -30,14 +28,16 @@ document.addEventListener('DOMContentLoaded', function() {
             filteredData = filteredData.filter(item => selectedGenres.some(genre => item.genre.map(g => g.toLowerCase()).includes(genre)));
         }
 
-        // Trier les données filtrées par nom
         filteredData.sort((a, b) => a.name.localeCompare(b.name));
 
-        // Pagination
+        const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+        if (currentPage > totalPages) {
+            currentPage = totalPages; // Réinitialiser currentPage si nécessaire
+        }
+
         const startIndex = (currentPage - 1) * itemsPerPage;
         const selectedData = filteredData.slice(startIndex, startIndex + itemsPerPage);
 
-        // Afficher les cartes d'animes
         selectedData.forEach(item => {
             const card = document.createElement('div');
             card.className = 'card_anime';
@@ -50,7 +50,6 @@ document.addEventListener('DOMContentLoaded', function() {
             container.appendChild(card);
         });
 
-        // Mettre à jour les informations de pagination
         updatePaginationInfo(filteredData.length);
     }
 
