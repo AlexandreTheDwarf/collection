@@ -1668,29 +1668,43 @@
     {
         "id": 120,
         "name": "World End Harem",
-        "tomes": 12,
+        "tomes": 16,
         "terminer": "X",
         "tomes_jap": 18,
         "terminer_jap": "V",
         "editeur": "Delcourt / Tonkam",
         "rangement": "Etagère 3",
         "prioritaire": "V",
-        "lu": "V",
+        "lu": "X",
         "link": "https://www.manga-news.com/index.php/serie/Worlds-End-Harem",
         "image_path": "./ressource/manga/worlds-End-Harem-1-delcourt.webp"
     },
     {
         "id": 121,
         "name": "World End Harem : Fantasy",
-        "tomes": 8,
+        "tomes": 10,
         "terminer": "X",
         "tomes_jap": 15,
         "terminer_jap": "X",
         "editeur": "Delcourt / Tonkam",
         "rangement": "Etagère 3",
         "prioritaire": "V",
-        "lu": "V",
+        "lu": "X",
         "link": "https://www.manga-news.com/index.php/serie/Worlds-End-Harem-Fantasy",
         "image_path": "./ressource/manga/worlds-end-harem-fantasy-1-delcourt.webp"
+    },
+    {
+        "id": 122,
+        "name": "Dark Souls Redemption",
+        "tomes": 1,
+        "terminer": "X",
+        "tomes_jap": 1,
+        "terminer_jap": "X",
+        "editeur": "Mana Books",
+        "rangement": "Etagère 1",
+        "prioritaire": "V",
+        "lu": "X",
+        "link": "https://www.manga-news.com/index.php/serie/Dark-Soul-Redemption",
+        "image_path": "./ressource/manga/Dark_Souls_Redemption_T01_-_Mana_Books.webp"
     }                                                                                                                                                                                                                                                
 ]
