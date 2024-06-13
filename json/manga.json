@@ -1603,9 +1603,9 @@
         "tomes_jap": 7,
         "terminer_jap": "V",
         "editeur": "Ki-oon",
-        "rangement": "Etagère 3",
+        "rangement": "Grande Etagère",
         "prioritaire": "X",
-        "lu": "X",
+        "lu": "V",
         "link": "https://www.manga-news.com/index.php/serie/Tsugumi-Project",
         "image_path": "./ressource/manga/tsugumi-project-1-ki-oon.webp"
     },
