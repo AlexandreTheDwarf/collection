@@ -8,6 +8,8 @@ document.addEventListener('DOMContentLoaded', function() {
             const item = data.find(item => item.id.toString() === id);
             if (item) {
                 const container = document.getElementById('detail-container');
+                const genres = Array.isArray(item.genre) ? item.genre.join(', ') : item.genre;
+                
                 container.innerHTML = `<div class="detail-card">
                                         <h1 class="anime_title">${item.name}</h1>
                                             <div class="anime_detail">
@@ -16,8 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
                                                         <p>Nom VO : ${item.name_vo}</p>
                                                         <p>Nombre de saison : ${item.saison}</p>
                                                         <p>Nombre d'épisode total : ${item.nb_episode}</p>
-                                                        <p>Genre : ${item.genre}</p>
-                                                        <p>Synospsis : <br>${item.synopsis}</p>
+                                                        <p>Genre : ${genres}</p>
+                                                        <p>Synopsis : <br>${item.synopsis}</p>
                                                 </div>
                                             </div>      
                                        </div>`;

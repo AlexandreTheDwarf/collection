@@ -22,10 +22,10 @@ document.addEventListener('DOMContentLoaded', function() {
         let filteredData = animeData.filter(item => {
             const nameMatch = (item.name && item.name.toLowerCase().includes(nameFilter)) || (item.name_vo && item.name_vo.toLowerCase().includes(nameFilter));
             return nameMatch;
-        });        
+        });
 
         if (selectedGenres.length > 0) {
-            filteredData = filteredData.filter(item => selectedGenres.some(genre => item.genre.map(g => g.toLowerCase()).includes(genre)));
+            filteredData = filteredData.filter(item => selectedGenres.every(genre => item.genre.map(g => g.toLowerCase()).includes(genre)));
         }
 
         filteredData.sort((a, b) => a.name.localeCompare(b.name));
@@ -33,6 +33,9 @@ document.addEventListener('DOMContentLoaded', function() {
         const totalPages = Math.ceil(filteredData.length / itemsPerPage);
         if (currentPage > totalPages) {
             currentPage = totalPages; // Réinitialiser currentPage si nécessaire
+        }
+        if (currentPage < 1) {
+            currentPage = 1; // S'assurer que currentPage ne soit pas inférieur à 1
         }
 
         const startIndex = (currentPage - 1) * itemsPerPage;
@@ -82,8 +85,14 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('prev_page').addEventListener('click', prevPage);
 
     // Écouteur d'événement pour les filtres
-    document.getElementById('name_filter').addEventListener('input', renderAnimeCards);
+    document.getElementById('name_filter').addEventListener('input', () => {
+        currentPage = 1; // Réinitialiser currentPage à 1
+        renderAnimeCards();
+    });
     document.querySelectorAll('.genre-checkbox').forEach(checkbox => {
-        checkbox.addEventListener('change', renderAnimeCards);
+        checkbox.addEventListener('change', () => {
+            currentPage = 1; // Réinitialiser currentPage à 1
+            renderAnimeCards();
+        });
     });
 });
