@@ -16,11 +16,12 @@ document.addEventListener('DOMContentLoaded', function() {
         const container = document.getElementById('cards_container');
         container.innerHTML = ''; // Vide le conteneur
 
-        const nameFilter = document.getElementById('name_filter').value.toLowerCase();
+        const nameFilterValue = document.getElementById('name_filter').value;
+        const safeNameFilterValue = sanitizeHTML(nameFilterValue.toLowerCase());
         const selectedGenres = Array.from(document.querySelectorAll('.genre-checkbox:checked')).map(checkbox => checkbox.value.toLowerCase());
 
         let filteredData = animeData.filter(item => {
-            const nameMatch = (item.name && item.name.toLowerCase().includes(nameFilter)) || (item.name_vo && item.name_vo.toLowerCase().includes(nameFilter));
+            const nameMatch = (item.name && item.name.toLowerCase().includes(safeNameFilterValue)) || (item.name_vo && item.name_vo.toLowerCase().includes(safeNameFilterValue));
             return nameMatch;
         });
 
@@ -44,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
         selectedData.forEach(item => {
             const card = document.createElement('div');
             card.className = 'card_anime';
-            card.innerHTML = `<img src="${item.image_path}" alt="${item.name}">`;
+            card.innerHTML = `<img src="${sanitizeHTML(item.image_path)}" alt="${sanitizeHTML(item.name)}">`;
 
             card.addEventListener('click', () => {
                 window.location.href = '/details_anime.html?id=' + item.id;
@@ -95,4 +96,11 @@ document.addEventListener('DOMContentLoaded', function() {
             renderAnimeCards();
         });
     });
+
+    // Fonction de sécurisation HTML pour échapper les caractères spéciaux
+    function sanitizeHTML(str) {
+        const temp = document.createElement('div');
+        temp.textContent = str;
+        return temp.innerHTML; // Échappe les caractères spéciaux et les balises HTML
+    }
 });
