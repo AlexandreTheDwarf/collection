@@ -1,0 +1,31 @@
+.navigation-buttons {
+    position: fixed;
+    bottom: 20px; /* Position à 20px du bas de la fenêtre */
+    left: 0;
+    width: 100%; /* Occupe la largeur complète de la fenêtre */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff; /* Fond blanc pour la visibilité */
+    padding: 10px 0; /* Rembourrage haut et bas pour l'espace interne */
+    z-index: 1000; /* Assurez-vous que les boutons apparaissent au-dessus du contenu */
+    
+    button {
+        margin: 0 10px;
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #333;
+        color: white;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        &:hover {
+            background-color: #111;
+        }
+    }
+    span {
+        margin: 0 10px;
+        font-size: 16px;
+        color: #333;
+    }
+}

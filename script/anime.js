@@ -48,6 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
             card.innerHTML = `<img src="${sanitizeHTML(item.image_path)}" alt="${sanitizeHTML(item.name)}">`;
 
             card.addEventListener('click', () => {
+                localStorage.setItem('filteredAnimeIds', JSON.stringify(filteredData.map(anime => anime.id)));
                 window.location.href = '/details_anime.html?id=' + item.id;
             });
 
