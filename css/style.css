@@ -269,6 +269,9 @@ nav ul li a:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre */
   padding: 30px; /* Espacement interne */
 }
+.manga_detail .manga_info strong {
+  font-weight: bold;
+}
 .manga_detail .manga_info p {
   line-height: 2rem;
 }
@@ -322,6 +325,9 @@ nav ul li a:hover {
   border-radius: 8px; /* Coins arrondis */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre */
   padding: 30px; /* Espacement interne */
+}
+.anime_detail .anime_info strong {
+  font-weight: bold;
 }
 .anime_detail .anime_info p {
   line-height: 2rem;

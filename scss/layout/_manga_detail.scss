@@ -47,6 +47,10 @@
         border-radius: 8px; /* Coins arrondis */
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre */
         padding: 30px; /* Espacement interne */
+        
+        strong{
+            font-weight: bold;
+        }
 
         p {
             line-height: 2rem;

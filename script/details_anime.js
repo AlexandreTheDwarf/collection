@@ -27,11 +27,11 @@ document.addEventListener('DOMContentLoaded', function() {
                                     <div class="anime_detail">
                                         <img class="anime_img" src="${sanitizeHTML(item.image_path)}" alt="${sanitizeHTML(item.name)}">
                                         <div class="anime_info">
-                                                <p>Nom VO : ${sanitizeHTML(item.name_vo)}</p>
-                                                <p>Nombre de saison : ${sanitizeHTML(item.nb_saison)}</p>
-                                                <p>Nombre d'épisode total : ${sanitizeHTML(item.nb_episode)}</p>
-                                                <p>Genre : ${sanitizeHTML(genres)}</p>
-                                                <p>Synopsis : <br>${sanitizeHTML(item.synopsis)}</p>
+                                                <p><strong>Nom VO :</strong> ${sanitizeHTML(item.name_vo)}</p>
+                                                <p><strong>Nombre de saison :</strong> ${sanitizeHTML(item.nb_saison)}</p>
+                                                <p><strong>Nombre d'épisode total :</strong> ${sanitizeHTML(item.nb_episode)}</p>
+                                                <p><strong>Genre :</strong> ${sanitizeHTML(genres)}</p>
+                                                <p><strong>Synopsis :</strong> <br>${sanitizeHTML(item.synopsis)}</p>
                                         </div>
                                     </div>
                                     <div class="navigation-buttons">

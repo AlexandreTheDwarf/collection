@@ -22,7 +22,7 @@
         "nb_saison" : 1,
         "nb_episode" : 12,
         "genre" : [
-            "Comedie",
+            "Comédie",
             "Fantastique",
             "Aventure",
             "Isekai"
@@ -37,7 +37,7 @@
         "nb_saison" : 2,
         "nb_episode" : 24,
         "genre" : [
-            "Comedie",
+            "Comédie",
             "Fantastique",
             "Action",
             "Science-fiction"
@@ -101,7 +101,7 @@
         "nb_saison" : 1,
         "nb_episode" : 12,
         "genre" : [
-            "Comedie",
+            "Comédie",
             "Fantastique",
             "Action",
             "Drame",
@@ -155,7 +155,7 @@
         "nb_saison" : 3,
         "nb_episode" : 32,
         "genre" : [
-            "Comedie",
+            "Comédie",
             "Fantastique",
             "Aventure",
             "Isekai",
@@ -171,7 +171,7 @@
         "nb_saison" : 2,
         "nb_episode" : 24,
         "genre" : [
-            "Comedie",
+            "Comédie",
             "Aventure",
             "Action",
             "Fantastique"
@@ -249,7 +249,7 @@
         "nb_saison" : 2,
         "nb_episode" : 24,
         "genre" : [
-            "Comedie",
+            "Comédie",
             "School Life",
             "Romance",
             "Shônen"
@@ -322,7 +322,7 @@
         "nb_episode" : 12,
         "genre" : [
             "Action",
-            "Comedie",
+            "Comédie",
             "Ecchi",
             "Fantastique",
             "Romance"
@@ -355,7 +355,7 @@
         "genre" : [
             "Action",
             "Aventure",
-            "Comedie",
+            "Comédie",
             "Fantastique",
             "Romance",
             "Tranche-de-vie"
@@ -371,7 +371,7 @@
         "nb_episode" : 24,
         "genre" : [
             "Aventure",
-            "Comedie",
+            "Comédie",
             "Drame",
             "Fantastique",
             "Romance"
@@ -388,7 +388,7 @@
         "genre" : [
             "Action",
             "Aventure",
-            "Comedie",
+            "Comédie",
             "Ecchi",
             "Fantastique",
             "Isekai"
@@ -404,7 +404,7 @@
         "nb_episode" : 11,
         "genre" : [
             "Action",
-            "Comedie",
+            "Comédie",
             "Fantastique",
             "Isekai"
         ],
@@ -422,7 +422,8 @@
             "Aventure",
             "Comédie",
             "Fantastique",
-            "Romance"
+            "Romance",
+            "Isekai"
         ],
         "synopsis" : "Par une rude journée pluvieuse, Usato Ken, un lycéen sans talent particulier, s'est retrouvé invoqué dans un autre autre monde avec deux autres personnes : un beau garçon et une belle fille, avec lesquels il a étrangement commencé à sympathiser aujourd'hui même. En tant qu'individu particulièrement dépourvu de talent et plutôt effacé, il pensait qu'il serait traité comme une personne inutile. Cependant, ils ont étonnamment été gentils. Usato, qui a retrouvé l'espoir dans cet autre monde, pensait ainsi. Cependant, il semblerait que la réalité soit différente. En effet, à cause d'un certain talent magique caché en lui, il a été forcé de sombrer en enfer au nom de son 'apprentissage'.",
         "image_path" : "./ressource/anime/chiyu_mahou_no_machigatta_tsukaikata_senjou_wo_kakeru_kaifuku_youin_10613.webp"
@@ -437,7 +438,8 @@
             "Action",
             "Aventure",
             "Drame",
-            "Fantastique"
+            "Fantastique",
+            "Heroic-fantasy"
         ],
         "synopsis" : "Dans une ville de morts, en ruine depuis longtemps et loin de la civilisation humaine, vit un seul enfant. Il s'appelle William et est élevé par trois morts-vivants : Blood, le chaleureux guerrier squelette, Mary, la gracieuse prêtresse momifiée et Gus, le grincheux sorcier fantôme. Ces trois morts-vivants aiment le garçon et lui enseignent tout ce qu'ils savent. Mais un jour, William commence à se demander qui il est vraiment. Le jeune garçon va ainsi devoir percer les mystères de ce lointain pays de morts et découvrir les circonstances qui l'ont amené dans ce lieu désolé. De plus, les trois morts-vivants vivants semblent lui cacher de nombreuses choses sur sa vraie nature...",
         "image_path" : "./ressource/anime/saihate_no_paladin_2nd_season_10910.webp"
@@ -638,7 +640,8 @@
         "nb_episode": 13,
         "genre": [
             "Comédie",
-            "Fantastique"
+            "Fantastique",
+            "Heroic-fantasy"
         ],
         "synopsis": "Rein est un aventurier travaillant comme dompteur de monstre. Depuis qu'il a rejoint le groupe du Héros, un fossé se creuse entre lui et les autres membres du groupe : il est trop faible. Un jour, il se fait exclure du groupe à cause de son niveau et de sa puissance trop faible. Mais cela ne l'a pas empêché de continuer à être un aventurier, même s'il n'appartient plus au groupe du Héros. Rein reprend donc une vie banale de faible aventurier en accomplissant de petites quêtes. Mais un jour, il rencontre une fille chat, une des races les plus forte dans le monde.",
         "image_path": "./ressource/anime/yuusha_party_wo_tsuihou_sareta_beast_tamer_saikyoushu_no_nekomimi_shoujo_to_deau_11188.webp"
@@ -832,283 +835,545 @@
     },
     {
         "id": 53,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "The Seven Deadly Sins",
+        "name_vo": "Nanatsu No Taizai",
+        "nb_saison": 4,
+        "nb_episode": 96,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "Romance",
+            "Shônen",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Les 'Seven Deadly Sins' sont un groupe de chevaliers qui ont conspiré pour renverser le royaume de Britannia. Ils ont été éradiqués par les Chevaliers Sacrés, cependant certaines rumeurs laissent prétendre qu'ils sont toujours en vie. Dix ans plus tard, les Chevaliers Sacrés ont fait un coup d'état, emprisonnant le Roi pour devenir les nouveaux dirigeants tyranniques du Royaume. Elizabeth, la troisième fille du Roi, passe ses journées à la recherche des 'Seven Deadly Sins', les seules personnes capables de récupérer le Royaume des mains de ces tyrans. Durant ses recherches, elle perd conscience dans la taverne de Meliodas, un jeune garçon parcourant le monde en compagnie de son cochon. Rapidement, Elizabeth va se rendre compte que Meliodas n'est pas qu'un simple propriétaire de taverne, mais une personne à la puissance démesurée.",
+        "image_path": "./ressource/anime/nanatsu_no_taizai_3605.webp"
     },
     {
         "id": 54,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "A Good Librarian Like a Good Shepherd",
+        "name_vo": "Daitoshokan no Hitsujikai",
+        "nb_saison": 1,
+        "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Ecchi",
+            "Romance",
+            "School Life"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "L'histoire se déroule dans l'Académie Shiomi, célèbre pour sa bibliothèque. Kyôtaro Kakei, membre du club de littérature, aime se rendre dans cette bibliothèque pour lire au calme. Mais un jour, il va faire la connaissance de Tsugumi Shirasaki, une deuxième année qu'il sauve grâce à une de ses 'prémonitions'.",
+        "image_path": "./ressource/anime/daitoshokan_no_hitsujikai_3186.webp"
     },
     {
         "id": 55,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "So, I Can't Play H!",
+        "name_vo": "Dakara boku wa, H ga Dekinai",
+        "nb_saison": 1,
+        "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Fantastique",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Ryõsuke est le pervers numéro 1 de son école, L'académie Tõen. Un jour, il rencontra une shinigami du nom de Lisara avec qui il passera un contrat qui permettra à cette dernière de gagner en puissance dès que 'l'esprit érotique' de Ryõsuke sera assez puissant. Mais ceci à un contre coût... Le jeune lycéen perdra tout cet esprit au point où il ne sera plus excité dès qu'il verra une fille se déshabiller. Il se demande donc si son adolescence n'est pas terminée...",
+        "image_path": "./ressource/anime/dakara_boku_wa_h_ga_dekinai_2297.webp"
     },
     {
         "id": 56,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Dan Machi",
+        "name_vo": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+        "nb_saison": 4,
+        "nb_episode": 60,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Ecchi",
+            "Heroic-fantasy",
+            "Fantastique",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "L'histoire se déroule dans la ville d'Orario, aussi appelée Dungeon car renfermant un sombre labyrinthe sous-terrain, où de nombreux guerriers intrépides veulent vivre dangereusement. Bell Cranel est un jeune garçon voulant devenir plus fort après avoir été sauvé d'un minotaure par la belle Aiz Wallenstein, dont il tombe éperdument amoureux.",
+        "image_path": "./ressource/anime/dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka_4026.webp"
     },
     {
         "id": 57,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Dan Machi : Sword Of Oratoria",
+        "name_vo": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden : Sword Oratoria",
+        "nb_saison": 1,
+        "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "Heroic-fantasy"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Série annexe de Dan Machi. La princesse épéiste, Aiz Wallenstein. Aujourd'hui, encore une fois, la plus puissante femme épéiste mène son équipe durant l'exploration de cet énorme labyrinthe que l'on appelle : Donjon. Au 5ème sous-sol du donjon, elle secourt un jeune homme du nom de Bell Cranel qui se fait poursuivre par un minotaure échappé du 17ème sous-sol. Cependant, en lui demandant s'il va bien, ce dernier s'enfuit. Ceci est le début d'une histoire entre un homme et une femme que tout sépare.",
+        "image_path": "./ressource/anime/dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka_gaiden_sword_oratoria_5329.webp"
     },
     {
         "id": 58,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Date A Live",
+        "name_vo": "Date A Live",
+        "nb_saison": 5,
+        "nb_episode": 58,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Fantastique",
+            "Romance",
+            "School Life",
+            "Science-fiction"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Itsuka Shido est un jeune lycéen vivant une vie paisible jusqu'à ce qu'une explosion détruise la ville et qu'une jeune fille en armure apparaisse devant lui. Quelques instants après, sa sœur adoptive Kotori, qui est en réalité commandante de l'organisation militaire Ratatoskr, lui apprend que la fille en question est un esprit qui déstabilise l'espace-temps. Le seul moyen d'arrêter cette menace est que Shido utilise son mystérieux pouvoir lui permettant de sceller les pouvoirs d'un esprit dans son corps. Cependant, cette méthode ne fonctionne que si l'esprit l'affectionne et a confiance en lui.",
+        "image_path": "./ressource/anime/date_a_live_2405.webp"
     },
     {
         "id": 59,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Death March to the Parallel World Rhapsody",
+        "name_vo": "Death March Kara Hajimaru Isekai Kyousoukyoku",
+        "nb_saison": 1,
+        "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "Romance",
+            "Slice of Life"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Suzuki Ichirou, un programmeur âgé de 29 ans se retrouve transporté dans le jeu qu'il était en train de créer. Dans 'le jeu', ce dernier se nomme Satou et est âgé de 15 ans. Bien qu'au départ il pensait être en train de rêver, il se rend compte que son jeu est un peu trop réel.Dû à sa puissance démesurée, il peut décimer une armée d'homme lézard en un instant. Il prend la décision de cacher son pouvoir pour rencontrer et vivre en paix avec les différents habitants de ce monde, cependant, des événements prévus à l'avance dans son jeu (comme le retour du roi démon) vont se mettre au travers de sa route.",
+        "image_path": "./ressource/anime/death_march_kara_hajimaru_isekai_kyousoukyoku_6412.webp"
     },
     {
         "id": 60,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Death Note",
+        "name_vo": "Death Note",
+        "nb_saison": 1,
+        "nb_episode": 37,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Drame",
+            "Fantastique",
+            "Mystère",
+            "Psychologique",
+            "Surnaturel",
+            "Thriller"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Light Yagami, un jeune étudiant surdoué, ramasse un jour le 'Death Note', un carnet tenu auparavant par un shinigami (Dieu de la mort), Ryuk, qui apparemment s'ennuyait dans son monde. Il suffit d'écrire le nom d'une personne dans ce carnet, et celle-ci meurt (selon certaines conditions que le shinigami expliquera à Light lors de leur rencontre). C'est ainsi qu'avec le 'Death Note' entre les mains, Light décide de débarrasser la planète de tous les criminels pour en faire un monde juste, un monde parfait.",
+        "image_path": "./ressource/anime/death_note_180.webp"
     },
     {
         "id": 61,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "The Legend of the Legendary Heroes",
+        "name_vo": "Densetsu no Yuusha no Densetsu",
+        "nb_saison": 1,
+        "nb_episode": 24,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Psychologique",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "L'histoire suit Ryner Lute, un élève paresseux 'étudiant' dans l'académie de magie de Roland. Un jour, alors qu'ils partent en guerre contre le pays voisin, Estaboole, tous les camarades de Ryner décèdent suite à la trahison de Kiefer Knolles, l'amie de Ryner. Encerclé par les ennemis, Ryner perd le contrôle de lui-même en voyant ses deux seuls amis se faire torturer. De ce fait, il réveille son pouvoir enfoui en lui : l'Alpha Stigma. Après avoir décimé la totalité des ennemis, il prend la place de Kiefer en prison et y passe plusieurs années.",
+        "image_path": "./ressource/anime/densetsu_no_yuusha_no_densetsu_1780.webp"
     },
     {
         "id": 62,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Dr stone",
+        "name_vo": "Dr stone",
+        "nb_saison": 3,
+        "nb_episode": 59,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantastique",
+            "Science-fiction",
+            "Shônen"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Un jour, une lumière brillante apparaît subitement dans le ciel pétrifiant en une fraction de seconde l'humanité entière. Des millénaires plus tard, Taiju parvient à briser son enveloppe de pierre et découvre un monde où le genre humain a disparu de la surface de la terre. Avec son ami Senku, ils décident de récréer la civilisation à partir de zéro !",
+        "image_path": "./ressource/anime/dr_stone_8290.webp"
     },
     {
         "id": 63,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Drifters",
+        "name_vo": "Drifters",
+        "nb_saison": 1,
+        "nb_episode": 13,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Heroic-fantasy",
+            "Historique",
+            "Seinen"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "L'histoire suit Shimazu Toyohisa, un jeune samouraï, lors de la bataille de Sekigahara. Ce dernier arrive à blesser gravement Ii Naomasa, le général ennemi mais se retrouve également dans un piteux état. Ce dernier marche alors sur le champ de bataille et se retrouve transporté dans un couloir rempli de portes où un homme l'attend au fond, cet homme nommé Murasaki l'envoie dans la porte la plus proche. En se réveillant, il s'aperçoit que le monde où il est, est différent de celui qu'il connaît. Dans ce monde, il rencontre d'autres guerriers surpuissants qui ont eux aussi été transportés dans ce monde. Ils font partie d'un groupe nommé 'Drifters' ou 'Vagabonds' en français.",
+        "image_path": "./ressource/anime/drifters_4726.webp"
     },
     {
         "id": 64,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Dungeon Of Black Company",
+        "name_vo": "Meikyuu Black Company",
+        "nb_saison": 1,
+        "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Aventure",
+            "Comédie",
+            "Fantastique"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "L'histoire se centre sur Kinji Ninomiya, un jeune homme ne possédant aucune éthique de travail qui se retrouve transporté dans un autre monde. Cependant, alors que ce dernier pensait être accueilli comme un héros, il se retrouve forcé de travailler en tant que simple aventurier. Désormais asservi par une société minière maléfique, Kinji est sur le point d'apprendre le véritable sens du travail acharné !",
+        "image_path": "./ressource/anime/meikyuu_black_company_9599.webp"
     },
     {
         "id": 65,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Farming Life in Another World",
+        "name_vo": "Isekai Nonbiri Nouka",
+        "nb_saison": 1,
+        "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Comédie",
+            "Fantastique",
+            "Isekai",
+            "Romance",
+            "Slice of Life"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Machio Hiraku est mort d'une maladie liée au surmenage. Quand il rencontre Dieu, il a l'opportunité de se réincarner dans un autre monde et reçoit quatre souhaits en plus pour son travail acharné. Ainsi, Machio souhaite un corps qui ne puisse jamais tomber malade, vivre dans un endroit paisible, connaître la langue de l'endroit où il va se réincarner et ... être fermier !",
+        "image_path": "./ressource/anime/isekai_nonbiri_nouka_11086.webp"
     },
     {
         "id": 66,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Food Wars!",
+        "name_vo": "Shokugeki no Souma",
+        "nb_saison": 5,
+        "nb_episode": 87,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "School Life"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Sôma Yukihira s'entraîne sans relâche pour accomplir son rêve : prendre la succession de son père à la tête de leur petit restaurant. Malheureusement ses plans sont bouleversés le jour où son père accepte à l'improviste, un poste dans un palace de New York. Sôma est alors envoyé à la prestigieuse école culinaire Tootsuki qui forme l'élite des chefs ! Bien décidé à ne pas décevoir son père, Sôma va devoir réussir le difficile test d'entrée de la belle et talentueuse Erina Nakiri plus connue sous le nom de Palais Divin !",
+        "image_path": "./ressource/anime/shokugeki_no_soma_3900.webp"
     },
     {
         "id": 67,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Freezing",
+        "name_vo": "Freezing",
+        "nb_saison": 2,
+        "nb_episode": 24,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Ecchi",
+            "Romance",
+            "Science-fiction",
+            "Seinen"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "'L'Académie Génétics' est une école ayant pour but d'entraîner des jeunes filles super sexy et impitoyables au combat, les 'Pandora', accompagnées d'un binôme masculin, afin qu'ils luttent contre une invasion extra-dimensionnelle, les 'Nova'. Kazuya, un jeune garçon décide de partir étudier là-bas afin de devenir un 'Freezing' Lors de son arrivée il aperçoit une fille. Il s'agit de Satellizer, la fille la plus forte et la plus féroce de tout le campus. Pourtant, il croit reconnaître en elle sa sœur morte sur le champ de bataille contre les 'Nova'...",
+        "image_path": "./ressource/anime/freezing_1896 (1).webp"
     },
     {
         "id": 68,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Fullmetal Alchemist Brotherhood",
+        "name_vo": "Hagane no Renkinjutsushi (2009)",
+        "nb_saison": 1,
+        "nb_episode": 64,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Psychologique",
+            "Surnaturel",
+            "Thriller"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Cette version est une seconde adaptation du manga de Hiromu Arakawa. Elle est bien plus fidèle au manga que la précédente version, et le design change quelque peu. Edward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist. Mais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
+        "image_path": "./ressource/anime/fullmetal_alchemist_brotherhood_1109.webp"
     },
     {
         "id": 69,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "name": "Fullmetal Alchemist",
+        "name_vo": "Hagane no Renkinjutsushi",
+        "nb_saison": 1,
+        "nb_episode": 51,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantastique",
+            "Surnaturel",
+            "Thriller"
         ],
-        "synopsis": "",
-        "image_path": "."
+        "synopsis": "Edward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist. Mais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
+        "image_path": "./ressource/anime/fullmetal_alchemist_12.webp"
     },
     {
         "id": 70,
+        "name": "School-Live!",
+        "name_vo": "Gakkou Gurashi",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Drame",
+            "Horreur",
+            "Mystère",
+            "Psychologique",
+            "School Life",
+            "Seinen",
+            "Slice of Life",
+            "Surnaturel"
+        ],
+        "synopsis": "Dans un univers mêlant 'moe' et 'horreur' nous suivons le quotidien tragique de quatre élèves nommées Yuki, Yuuri, Miki et Kurumi dans une école. Du jour au lendemain, une épidémie de zombie est déclarée dans l'école de ces quatre filles. Alors que cette épidémie a presque décimée toute leur école, les quatre filles, une poignée d'élèves et leurs professeurs vont tenter de survivre dans cet enfer. A cause de cet événement le quotidien paisible de ses filles dans leur Club de Vie va radicalement changer.",
+        "image_path": "./ressource/anime/gakkou_gurashi_4117.webp"
+    },
+    {
+        "id": 71,
+        "name": "Academy Battle City Asterisk",
+        "name_vo": "Gakusen Toshi Asterisk",
+        "nb_saison": 2,
+        "nb_episode": 24,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Romance",
+            "Science-fiction",
+            "Surnaturel"
+        ],
+        "synopsis": "Dans le passé, l'humanité a subi une catastrophe naturelle, nommée l'impact 'Invertia'. Cette catastrophe a détruit le monde entier. Mais grâce à cet événement, l'humanité a obtenu une nouvelle capacité nommée 'Genestella'. L'histoire se passe dans la ville Académique sur eau, nommée Rikka. Cette ville, est autrement connue comme 'l'Astérisque', célèbre pour être la plus grande scène du monde pour la guerre des étoiles. Les personnes de la Génération Starpulse appartenant à six académies différentes ont fait leurs voeux avec des fragments de météorite pour se disputer la suprématie de cette ville. Amagiri Ayato est l'un d'entre eux, après son arrivée à Rikka grâce à l'invitation du Président de Conseil d'Étudiant de l'Académie Seidoukan, une fille nommée Alexia van Riessfeld Julis, mécontente du fait que ce dernier l'ai vue en sous-vêtements, le provoque en duel.",
+        "image_path": "./ressource/anime/gakusen_toshi_asterisk_4254.webp"
+    },
+    {
+        "id": 72,
+        "name": "Gamers!",
+        "name_vo": "Gamers! Amano Keita to Seishun Continue",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Comédie",
+            "Romance",
+            "School Life"
+        ],
+        "synopsis": "Cette série nous entraîne dans le quotidien de jeunes lycéens jouant aux jeux vidéo dont : Keita Amano, un jeune homme solitaire et passionné de jeux vidéo, Karen Tendō la présidente du club de jeux vidéo, Chiaki Hoshinomori qui se dispute souvent avec Keita et Tasuku Uehara, qui se dit être heureux dans le monde réel, mais qui en réalité, adore les jeux vidéo.",
+        "image_path": "./ressource/anime/gamers_6194.webp"
+    },
+    {
+        "id": 73,
+        "name": "Gangsta",
+        "name_vo": "Gangsta",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Action",
+            "Drame",
+            "Seinen"
+        ],
+        "synopsis": "L'histoire se déroule dans la ville de Ergastulum un nid de crapules où s'affairent mafieux, criminels, policiers corrompus et prostituées. Nicolas Brown, mercenaire sourd, et Worick Arcangelo, gigolo finaud, y œuvrent comme hommes à tout faire, acceptant les petits travaux que personne d'autre n'accepte. Un jour, nos deux mercenaires vont croiser le chemin d'Alex, une prostituée qui va changer peu a peu leurs habitudes. Dans ce monde, il existe une race de surhommes appelés 'twilights' et Nicolas est l'un d'entre eux !",
+        "image_path": "./ressource/anime/gangsta_3970.webp"
+    },
+    {
+        "id": 74,
+        "name": "Gate : Au-delà de la porte ",
+        "name_vo": "Gate : Jieitai Kanochi nite, Kaku Tatakaeri",
+        "nb_saison": 2,
+        "nb_episode": 24,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis": "Un jour, un portail nommé Gate s'ouvre sur la Terre en plein centre de Tokyo. Ce portail reliant deux monde mène à une attaque sanglante de l'autre monde sur la Terre. Dans cette agitation, nous suivons l'otaku et militaire par la même occasion nommé Youji Itami. Ce dernier, abandonne sa convention pour venir en aide à un policier et pour mener à bien l'évacuation des survivants. Après que l'armée ait vaincu l'attaque surprise de l'autre monde, Youji est récompensé pour sa bravoure et son héroïsme et est promu second lieutenant de l'armée. Quelques mois plus tard, le gouvernement Japonais décide d'explorer le monde parallèle pour se protéger et anticiper une quelque seconde attaque. Après avoir passé la porte, nous suivrons l'unité de reconnaissance de Youji qui fait connaissance avec les habitants de ce monde et de ses problèmes.",
+        "image_path": "./ressource/anime/gate_jieitai_kanochi_nite_kaku_tatakaeri_4015.webp"
+    },
+    {
+        "id": 75,
+        "name": "Girls und panzer",
+        "name_vo": "Girls und panzer",
+        "nb_saison": 2,
+        "nb_episode": 16,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Slice of Life"
+        ],
+        "synopsis": "Dans un monde où le 'Sensha-do', l'art militaire de la conduite de tank est naturel, Nishizumi Miho est une lycéenne maladroite qui cherche par-dessus tout à fuir cette discipline dont sa famille s'est illustrée auparavant. Cependant, elle sera convoquée par la présidente du conseil des étudiants qui l'inscrira de force dans l'équipe. Malgré sa réticence Miho prend part à l'aventure avec ses nouvelles coéquipières : Saori, Hana, Yukari et Mako. Elles auront pour objectif ultime de remporter le tournoi national de 'Sensha-do'.",
+        "image_path": "./ressource/anime/girls_und_panzer_2363.webp"
+    },
+    {
+        "id": 76,
+        "name": "Goblin Slayer",
+        "name_vo": "Goblin Slayer!",
+        "nb_saison": 3,
+        "nb_episode": 25,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantastique",
+            "Heroic-fantasy",
+            "Horreur",
+            "Psychologique",
+            "Ecchi"
+        ],
+        "synopsis": "Une jeune prêtresse vient de former son premier groupe d'aventuriers, cependant ils se trouvent rapidement dans une situation dangereuse. Attaqués par une troupe de gobelins, ils se font sauver par le 'Goblin Slayer', une personne qui voue sa vie à l'extermination des gobelins, et par n'importe quel moyen.",
+        "image_path": "./ressource/anime/goblin_slayer_7603.webp"
+    },
+    {
+        "id": 77,
+        "name": "The Quintessential Quintuplets",
+        "name_vo": "Go-Toubun no Hanayome",
+        "nb_saison": 2,
+        "nb_episode": 24,
+        "genre": [
+            "Comédie",
+            "Romance",
+            "School Life",
+            "Shônen"
+        ],
+        "synopsis": "Fûtarô Uesugi obtient toujours les meilleures notes de son établissement, il est cependant plutôt antisocial et insensible. Un jour, une jeune fille s'assied à sa table et lui demande d'être son tuteur, il refuse et finissent par se disputer. Quelques heures plus tard, Uesugi reçoit un appel de sa sœur qui lui apprend que leur famille est endettée mais qu'ils ont la possibilité de s'en sortir si Uesugi accepte un travail de tutorat pour une famille riche. Il s'avère que son élève n'est autre que Itsuki Nakano, la personne à qui il a refusé d'enseigner, ainsi que de ses quatre sœurs. Pour pouvoir régler ce gros problème de dettes, il va devoir réconcilier les sœurs Nakano avec les études.",
+        "image_path": "./ressource/anime/go-toubun_no_hanayome_8096.webp"
+    },
+    {
+        "id": 78,
+        "name": "Record of Grancrest War",
+        "name_vo": "Grancrest Senki",
+        "nb_saison": 1,
+        "nb_episode": 24,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Romance"
+        ],
+        "synopsis": "L'histoire se passe sur un continent gouverné par le chaos. Les seules personnes capables de contrer cette menace et d'apaiser le peuple sont les Lords, des seigneurs possédant le Crest, un sceau sacré. Cependant, avant que tout le monde ne s'en rende compte, les Lords ont commencé petit à petit à rejeter leur devoir pour se disputer des parties de territoires. Cette série se centre sur Shiruka, une mage isolée qui déteste les Lords et d'un chevalier errant nommé Theo, qui recherche de la puissance pour libérer son village natale des griffes des Lords. Shiruka et Theo font le serment de reformer ce continent dominé par les guerres et le chaos.",
+        "image_path": "./ressource/anime/grancrest_senki_6193.webp"
+    },
+    {
+        "id": 79,
+        "name": "Grimgar, le Monde des Cendres et de Fantaisie",
+        "name_vo": "Hai to Gensou no Grimgar",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Romance",
+            "Slice of Life",
+            "Isekai"
+        ],
+        "synopsis": "Douze adolescents se réveillent un jour en ce monde sans aucun souvenir de leur vie antérieure en dehors de leurs noms. Ils sont alors conduits auprès de Britney, qui les incite à rejoindre l'Armée des Volontaires en tant qu'apprentis. N'ayant pas vraiment le choix, les adolescents décident de s'adapter à leur nouvelle vie et acceptent sa proposition. Le groupe se scinde alors en deux et chacun s'inscrit dans une guilde.",
+        "image_path": "./ressource/anime/hai_to_gensou_no_grimgar_4895.webp"
+    },
+    {
+        "id": 80,
+        "name": "Le Fruit de la Grisaia",
+        "name_vo": "Grisaia no Kajitsu",
+        "nb_saison": 2,
+        "nb_episode": 29,
+        "genre": [
+            "Drame",
+            "Ecchi",
+            "Romance",
+            "School Life",
+            "Seinen"
+        ],
+        "synopsis": "L'histoire se déroule dans l'académie Mihama, un établissement complètement coupé de l'extérieur. On y suit le quotidien de 5 jeunes filles, ainsi que de Yûji Kazami, seul garçon à avoir rejoint cette école. Il se rend compte que cette école n'est pas aussi normale qu'il le souhaitait car au fur et à mesure que le temps passe, ses camarades et lui ont en effets tous plusieurs points communs.",
+        "image_path": "./ressource/anime/grisaia_no_kajitsu_3659.webp"
+    },
+    {
+        "id": 81,
+        "name": "Guilty Crown",
+        "name_vo": "Guilty Crown",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Drame",
+            "Psychologique",
+            "Romance",
+            "Science-fiction"
+        ],
+        "synopsis": "Nous sommes en 2039, à Tokyo. Dix longues années se sont écoulées depuis la désastreuse épidémie d'un virus non identifié nommé 'Apocalypse'. Cet évènement est connu sous le nom de 'Lost Christmas'. A présent, le Japon est sous le contrôle d'une multinationale appelée GHQ. Ouma Shu est un jeune lycéen de 17 ans d'apparence normale, cependant sa vie va changer du tout au tout lorsqu'il rencontre la délicieuse et dévouée Yuzuriha Inori, membre d'un groupe d'une guérilla connue sous le nom de 'Undertaker' dont les membres, pilotant des armures Mécha, résistent à l'autorité mis en place et se battent contre le gouvernement. Celle-ci demande à Ouma Shu de livrer quelque chose au chef des 'Undertaker', mais le précieux objet va se briser, conférant le 'pouvoir du Roi' à Ouma Shu",
+        "image_path": "./ressource/anime/guilty_crown_2094.webp"
+    },
+    {
+        "id": 82,
+        "name": "Gurren Lagann",
+        "name_vo": "Tengen Toppa Gurren-Lagann",
+        "nb_saison": 1,
+        "nb_episode": 27,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Romance",
+            "Science-fiction"
+        ],
+        "synopsis": "Simon vit dans un petit village souterrain. Jour après jour, il fore le sol sans relâche et sans se poser de question, après tout, il n'est bon qu'à ça... Kamina, son grand frère spirituel, est un grand voyou casse-cou et arrogant qui rêve d'atteindre une 'surface' dont il est le seul à croire en l'existence. Pourtant un jour, suite à un terrible tremblement de terre le plafond du village s'effondre laissant apparaître le ciel. Un terrible robot descend alors dans le village et dit vouloir exterminer tous les habitants. Une fille du nom de Yoko, originaire du village voisin, débarque de nulle part bombardant l'ennemi et demande aux deux garçons de se mettre à l'abri... Ce que Kamina refuse de faire, décidant d'utiliser le dernier trésor que Simon à déterrer pour vaincre le robot : une espèce tête en métal.",
+        "image_path": "./ressource/anime/tengen_toppa_gurren-lagann_488.webp"
+    },
+    {
+        "id": 83,
+        "name": "The 8th Son? Are You Kidding Me?",
+        "name_vo": "Hachi-nan tte, Sore wa Nai deshou!",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantastique",
+            "Isekai",
+            "Romance"
+        ],
+        "synopsis": "Shingo Ichinomiya, un jeune homme de 25 ans travaillant dans une grande entreprise, s'endort encore une fois, en pensant à sa journée remplie du lendemain. Cependant, en se réveillant, il se trouve dans une chambre qu'il ne reconnaît pas et réalise qu'il est dans le corps d'un jeune garçon de 6 ans. Il va rapidement découvrir qu'il fait partie d'une famille pauvre, vivant dans un village reculé. Heureusement, il a été béni par un don très rare dans ce monde : la magie. Seulement, alors que son talent pourrait apporter la prospérité à sa famille se trouvant dans une situation difficile, il ne fait qu'empirer la situation et s'attirer des ennuis...",
+        "image_path": "./ressource/anime/hachi-nan_tte_sore_wa_nai_deshou_8354.webp"
+    },
+    {
+        "id": 84,
+        "name": "Aesthetica of a Rogue Hero",
+        "name_vo": "Hagure Yuusha no Estetika",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Fantastique",
+            "Romance",
+            "School Life",
+            "Science-fiction"
+        ],
+        "synopsis": "Babel est un organisme de formation international qui protège les jeunes gens revenant d'un autre monde. Akatsuki Ōsawa est un jeune homme capricieux qui revient du monde fantastique de magie et d'épée Alleyzard après y avoir battu le rois des démons. A la demande de celui ci, Akatsuki a ramené sa fille, une jolie jeune fille du nom de Myuu. Ils intègrent alors l'organisme Babel mais vont être confrontés à d'autres membres de l'organisation possédant des pouvoirs psychiques.",
+        "image_path": "./ressource/anime/hagure_y_sha_no_aestetica_2279.webp"
+    },
+    {
+        "id": 85,
         "name": "",
         "name_vo": "",
-        "nb_saison": 0,
-        "nb_episode": 10,
+        "nb_saison": 1,
+        "nb_episode": 12,
         "genre": [
+            "",
+            "",
+            "",
             "",
             "",
             "",
@@ -1116,6 +1381,101 @@
             ""
         ],
         "synopsis": "",
-        "image_path": "."
-    }    
+        "image_path": "./"
+    },
+    {
+        "id": 86,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 87,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 88,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 89,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 90,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    }      
 ]
