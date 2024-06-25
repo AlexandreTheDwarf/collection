@@ -1366,82 +1366,322 @@
     },
     {
         "id": 85,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "The Irregular at Magic High School",
+        "name_vo": "Mahouka Koukou no Rettousei",
+        "nb_saison": 4,
+        "nb_episode": 64,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Romance",
+            "School Life",
+            "Science-fiction",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "La 'Magie' que nous connaissons n'est issue ni des légendes, ni des contes de fées. Elle est devenue une réelle technologie depuis près d'un siècle. Plusieurs pays de ce monde s'opposent dans une course à la formation de 'Magiciens'. Tatsuya Shiba est un étudiant sans capacités magiques inscrit au Premier Lycée de Magie; il y étudie avec sa sœur Miyuki, qui se trouve être la meilleure élève parmi les première années.",
+        "image_path": "./ressource/anime/mahouka_koukou_no_rettousei_2975.webp"
     },
     {
         "id": 86,
-        "name": "",
-        "name_vo": "",
+        "name": "Harem in the Labyrinth of Another World",
+        "name_vo": "Isekai Meikyuu de Harem wo",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Ecchi",
+            "Fantastique",
+            "Isekai",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire nous entraîne dans le quotidien de Michio Kaga, un jeune homme dépressif recherchant un moyen de suicider sur Internet. Cependant, au lieu de ça, il se retrouve sur un site bizarre lui posant plusieurs questions et lui constituant une fiche personnage comme dans un jeu vidéo. Après avoir fini le questionnaire, une question lui est posée : 'Vous allez maintenant être transporté dans un monde avec les options et les capacités que vous avez choisies, l'acceptez-vous ?' Sans aucune hésitation, il accepte et se retrouve transporté dans un autre monde.",
+        "image_path": "./ressource/anime/isekai_meikyuu_de_harem_wo_9903.webp"
     },
     {
         "id": 87,
-        "name": "",
-        "name_vo": "",
+        "name": "Kemono Michi : Rise Up",
+        "name_vo": "Hataage! Kemono Michi",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Comédie",
+            "Fantastique",
+            "Isekai"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire nous entraîne dans le quotidien de Shibata Genzo, un catcheur professionnel passionné par les animaux et créatures en général. Un jour, il se retrouve dans un autre monde où une princesse lui demande de l'aide pour tuer des monstres. Cependant, énervé par cette proposition, il effectue un 'German suplex' (une prise de catch) sur la princesse. Au lieu d'exterminer les monstres de ce monde, Genzo décide d'ouvrir une boutique pour animaux et monstres de compagnie.",
+        "image_path": "./ressource/anime/hataage_kemono_michi_8434.webp"
     },
     {
         "id": 88,
-        "name": "",
-        "name_vo": "",
+        "name": "Heavy Object",
+        "name_vo": "Heavy Object",
         "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_episode": 24,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Science-fiction"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Qwenthur Barbotage est une jeune personne qui s'est engagé dans la base militaire de l'Alaska pour étudier les Heavy Objects. Les Heavy Objects sont des armes révolutionnaires qui ont complètement chamboulé le destin de la guerre. Qwenthur va faire la rencontre de Milinda Brantini qui est elle aussi une pilote d'Heavy Objects. A eux deux, ils vont vite découvrir les véritables enjeux concernant ces armes.",
+        "image_path": "./ressource/anime/heavy_object_4197.webp"
     },
     {
         "id": 89,
+        "name": "Chillin In Another World with Level.2 Super Cheat Powers",
+        "name_vo": "Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Isekai",
+            "Romance",
+            "Slice of Life"
+        ],
+        "synopsis": "Banaza a été convoqué dans un autre monde, dans le royaume de Kryrode. Alors que son destin était de postuler au titre de Héros, il se rend compte qu'il ne possède aucune capacité digne de ce nom. Il possède le même niveau qu'un citoyen ordinaire - il est par conséquent inutile et inapte à remplir la tâche de Héros. Ne pouvant plus revenir dans son monde d'origine suite à une erreur dans l'incantation de l'invocation, Banaza va devoir vivre dans le royaume de Kryrode. Cependant, lorsqu'un jour il passe le niveau 2, il acquière toutes les capacités, compétences magiques et statistiques possibles et inimaginables, dépassant de loin la puissance d'un simple Héros. Malgré ce gain soudain de puissance, il choisit tout de même de vivre une vie tranquille, à son rythme. Il se marie avec Lys, qui appartient à la race des Démons, et profite de sa vie de jeune marié sous un nouveau nom : Flio.",
+        "image_path": "./ressource/anime/lv2_kara_cheat_datta_moto_yuusha_kouho_no_mattari_isekai_life_12280.webp"
+    },
+    {
+        "id": 90,
+        "name": "Aria the Scarlet Ammo",
+        "name_vo": "Hidan no Aria",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Romance"
+        ],
+        "synopsis": "Tohyama Kinji est un étudiant de ce lycée, que l'on pourrait qualifier de banal à première vue. Mais il ne faut surtout pas se fier aux apparences, car celui-ci veut tout simplement faire en sorte de vivre le plus calmement et le plus normalement possible. En réalité, il veut cacher aux autres élèves que son corps possède un pouvoir assez particulier; ce corps peut passer en super-mode lorsqu'il s'avère stimulé par une certaine chose.",
+        "image_path": "./ressource/anime/hidan_no_aria_1966.webp"
+    },
+    {
+        "id": 91,
+        "name": "High School DxD",
+        "name_vo": "High School DxD",
+        "nb_saison": 4,
+        "nb_episode": 49,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Fantastique",
+            "Romance",
+            "School Life"
+        ],
+        "synopsis": "Issei Hyoudou est un lycéen ordinaire, obsédé par les filles mais il n'a aucun succès auprès de la gente féminine. Un jour, Yuuma lui demande de sortir avec lui. Le rendez-vous se passe bien en de fin de journée, Yuuma lui chuchote à l'oreille de mourir pour elle, puis se transforme en ange déchu et le tue. Le lendemain Issei se réveille pensant que les évènements de la veille avec Yuuma n'étaient qu'un mauvais rêve. Cependant, en fin d'après-midi, il est de nouveau attaqué par un autre ange déchu, Rias Gremory le sauve. Le lendemain, il se réveille en compagnie de Rias nue dans son lit. Cette dernière lui révèle qu'elle est un démon, qu'Issei n'est plus tout à fait humain et est devenu son serviteur.",
+        "image_path": "./ressource/anime/high_school_dxd_2138.webp"
+    },
+    {
+        "id": 92,
+        "name": "High School Prodigies Have It Easy Even in Another World!",
+        "name_vo": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Romance",
+            "Isekai"
+        ],
+        "synopsis": "L'histoire nous entraîne dans le quotidien de 7 lycéens, qui suite à un accident d'avion, se réveillent dans un monde différent où la magie et les hommes-bêtes existent. Malgré cette situation où la majorité cèderait à la panique, ils construisent une centrale nucléaire dans un monde sans électricité et contrôlent l'économie d'une grande ville en très peu de temps. De plus, ils déclarent la guerre aux nobles corrompus pour le bien de leurs bienfaiteurs. En réalité, ils ne sont pas des lycéens normaux car chacun d'entre eux sont des élites se tenant au sommet de la politique, la science et la médecine.",
+        "image_path": "./ressource/anime/choujin_koukousei-tachi_wa_isekai_demo_yoyuu_de_ikinuku_you_desu_8567.webp"
+    },
+    {
+        "id": 93,
+        "name": "High School Of The Dead",
+        "name_vo": "Gakuen Mokushiroku : Highschool of the Dead",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Drame",
+            "Ecchi",
+            "Horreur",
+            "Surnaturel",
+            "Thriller"
+        ],
+        "synopsis": "Le monde est plongé dans le chaos total, une étrange maladie mortelle semble toucher les habitants du monde entier, et ramène les morts à la vie... Devenant un véritable fléau, un groupe de jeune lycéen se regroupent dans une école afin de trouver une solution pour survivre dans cet univers apocalyptique !",
+        "image_path": "./ressource/anime/gakuen_mokushiroku_-_high_school_of_the_dead_1772.webp"
+    },
+    {
+        "id": 94,
+        "name": "Hortensia Saga",
+        "name_vo": "Hortensia Saga",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantastique",
+            "Heroic-fantasy",
+            "Mystère"
+        ],
+        "synopsis": "Il y a environ trois ans, le roi a été trahi et assassiné par l'un de ses ducs qui a ensuite construit son propre royaume à partir des cendres de l'ancien. Mais maintenant, l'héritière au trône est enfin devenue majeur. Se déguisant en homme, la princesse, accompagnée de son groupe de fidèles, va commencer sa quête visant à sauver sa patrie.",
+        "image_path": "./ressource/anime/hortensia_saga_9264.webp"
+    },
+    {
+        "id": 95,
+        "name": "Hundred",
+        "name_vo": "Hundred",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Romance",
+            "School Life",
+            "Science-fiction"
+        ],
+        "synopsis": "Les Hundred sont les seules armes qui peuvent éliminer les 'Savages', une mystérieuse forme de vie. Cette espèce inconnue est apparue sur notre planète bleue pour détruire l'humanité. L'histoire suit Kirasagi Hayato, une personne désirant devenir maître d'arts martiaux en utilisant un Hundred. Pour réaliser son souhait, il intègre une université spécialisée dans les Hundred, nommée Little Garden. Dès son arrivé, Hayato se fait rapidement remarquer car son Hundred possède une puissance colossale.",
+        "image_path": "./ressource/anime/hundred_4973.webp"
+    },
+    {
+        "id": 96,
+        "name": "Hunter x Hunter (2011)",
+        "name_vo": "Hunter x Hunter (2011)",
+        "nb_saison": 1,
+        "nb_episode": 148,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Shônen",
+            "Surnaturel",
+            "Thriller"
+        ],
+        "synopsis": "Le jeune Gon vit sur une petite île avec sa tante. Abandonné par son père qui est un Hunter, à la fois un aventurier et un chasseur de primes, Gon décide à l'âge de 12 ans de partir pour devenir un Hunter. Cela ne sera pas chose aisée, il devra passer une suite de tests et examens en compagnie de milliers d'autres prétendants au titre de Hunter.",
+        "image_path": "./ressource/anime/hunter_x_hunter_2011_2089.webp"
+    },
+    {
+        "id": 97,
+        "name": "The Master of Ragnarök & Blesser of Einherjar",
+        "name_vo": "Hyakuren no Haou to Seiyaku no Valkyria",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Fantastique",
+            "Romance",
+            "Isekai"
+        ],
+        "synopsis": "Yûto et son amie enfance Mitsuki Shimoya participent à un test de courage au tombeau de Tsukimiya. Comme preuve d'avoir réussi le test, ils doivent prendre en photo un miroir du tombeau, cependant, lorsque Yûto prend la photo, il est transporté dans un autre monde. En utilisant ses connaissances acquises à l'école et à partir de son smartphone alimenté à l'énergie solaire, il va venir en aide au clan des loups, les mêmes personnes qui prennent soin de lui, tout en gagnant l'adoration d'un groupe de jeunes guerrières connues sous le nom d'Einherjar.",
+        "image_path": "./ressource/anime/hyakuren_no_haou_to_seiyaku_no_valkyria_7714.webp"
+    },
+    {
+        "id": 98,
+        "name": "Demon King Daimao",
+        "name_vo": "Ichiban Ushiro no Dai Maou",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Romance"
+        ],
+        "synopsis": "Akuto est un jeune homme ordinaire qui, le jour de son examen pour entrer au collège Constantin Magic, se voit prédire son futur dans lequel il sera le seigneur des démons. C'est à partir de ce moment que sa vie va basculer, en effet il sera le poids de haine du président du comité Junko Hattori de l'académie et aussi sujet d'un examen rigoureux par un cyborg et une belle fille mystérieuse. Akuto est entraîné à plusieurs reprises dans une série de mésaventures qui semblent laisser entendre que le Roi des Démons a été réincarné. En plus de cela, il se retrouve impliqué avec une organisation gouvernementale secrète qui croit qu'il est dangereux et qu'il est aussi le Roi des Démons qu'ils vénèrent.",
+        "image_path": "./ressource/anime/ichiban_ushiro_no_daimaou_1642.webp"
+    },
+    {
+        "id": 99,
+        "name": "Recently, my sister is unusual.",
+        "name_vo": "Saikin, Imouto no Yousu ga Chotto Okaishiin Da Ga.",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Comédie",
+            "Ecchi",
+            "Romance",
+            "Slice of Life",
+            "Surnaturel"
+        ],
+        "synopsis": "Dans cette comédie romantique, une fille nommée Mitsuki Kanzaki vit avec son demi-frère, Yûya, après que sa mère se soit remariée. Un jour, Mitsuki se fait posséder par l'esprit d'une jeune fille, Hiyori Kotobuki. Cette dernière (dans le corps de Mitsuki) est dans l'obligation de tomber amoureuse de Yûya si elle veut avancer vers la 'Porte du Paradis'.",
+        "image_path": "./ressource/anime/saikin_imouto_no_yousu_ga_chotto_okaishiin_da_ga_2984.webp"
+    },
+    {
+        "id": 100,
+        "name": "In Another World With My Smartphone",
+        "name_vo": "Isekai wa Smartphone to Tomo ni.",
+        "nb_saison": 2,
+        "nb_episode": 24,
+        "genre": [
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "Romance",
+            "Isekai"
+        ],
+        "synopsis": "Tôya Mochizuki est accidentellement tué. Pour s'excuser, Dieu l'autorise à revivre dans un monde fantastique en exauçant l'un de ses vœux. Tôya décide de garder son téléphone dans ce nouveau monde. Dans sa deuxième vie, il va venir en aide à beaucoup de personnes importantes et découvrir par hasard le secret de ce monde. Il hérite ainsi de la puissance d'une civilisation antique et voyage nonchalamment en possédant des pouvoirs rivalisant avec les plus grands souverains de cet univers parallèle.",
+        "image_path": "./ressource/anime/isekai_wa_smartphone_to_tomo_ni_6735.webp"
+    },
+    {
+        "id": 101,
+        "name": "Infinite Dendrogram",
+        "name_vo": "Infinite Dendrogram",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Drame",
+            "Romance"
+        ],
+        "synopsis": "Durant l'année 2043, le premier VRMMO à succès nommé Infinite Dendrogram est publié. En plus de sa capacité à simuler parfaitement les cinq sens, ainsi que de nombreuses autres fonctionnalités étonnantes, le jeu promettait d'offrir aux joueurs un monde aux possibilités infinies. Un an et demi après la sortie du jeu, un jeune homme nommé Reiji Mukudori vient de finir ses examens d'entrée à l'université et peut enfin se permettre d'acheter une copie du jeu Infinite Dendrogram. Ainsi, avec l'aide de son frère Shu et de son partenaire Embryo, Reiji est prêt pour se lancer à l'aventure de ce fameux jeu.",
+        "image_path": "./ressource/anime/infinite_dendrogram_8445.webp"
+    },
+    {
+        "id": 102,
+        "name": "IS : Infinite Stratos",
+        "name_vo": "IS : Infinite Stratos",
+        "nb_saison": 2,
+        "nb_episode": 26,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Romance",
+            "Science-fiction"
+        ],
+        "synopsis": "Ichika jeune garçon téméraire et ambitieux fait parti d'une très grande école de pilotage utilisant des armes nommées 'Infinite Stratos', arme uniquement contrôlable par des filles... Les filles du monde entier rêvent d'intégrer cette école légendaire qui fait tant parler d'elle, seulement cette fois, ce sera un homme qui l'intégrera... En effet, Ichika est le seul homme capable de contrôler l'Infinite Stratos ! Ichika accompagné de Hôki Shinonono, son amie d'enfance, devra prouver aux autres qu'il est digne et assez fort pour combattre, et ainsi, prouver qu'il a sa place au sein de cet établissement...",
+        "image_path": "./ressource/anime/is_infinite_stratos_1903.webp"
+    },
+    {
+        "id": 103,
+        "name": "Last Hero Inuyashiki",
+        "name_vo": "Inuyashiki",
+        "nb_saison": 1,
+        "nb_episode": 11,
+        "genre": [
+            "Action",
+            "Drame",
+            "Psychologique",
+            "Science-fiction",
+            "Thriller"
+        ],
+        "synopsis": "L'histoire suit Inuyashiki Ichirou un vieil homme seulement âgé de 58 ans qui est complétement ignoré et méprisé par sa propre famille malgré tout ce qu'il a fait pour elle. Pour couronner le tout, le médecin vient de lui révéler qu'il avait un cancer et qu'il ne lui restait que trois mois à vivre. Juste quand cela ne pouvait être pire, il perd soudainement la vie à cause des extraterrestres. Il se réveille un peu plus tard, indemne, cependant, il remarque quelque chose de différent à propos de lui.",
+        "image_path": "./ressource/anime/inuyashiki_6438.webp"
+    },
+    {
+        "id": 104,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
@@ -1460,7 +1700,102 @@
         "image_path": "./"
     },
     {
-        "id": 90,
+        "id": 105,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 106,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 107,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 108,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 109,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 110,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
