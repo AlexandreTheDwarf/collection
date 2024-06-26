@@ -1682,101 +1682,281 @@
     },
     {
         "id": 104,
-        "name": "",
-        "name_vo": "",
+        "name": "Fantasy World Cheat Magician",
+        "name_vo": "Isekai Cheat Magician",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Isekai",
+            "Heroic-fantasy"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire se centre sur Taichi Nishimura et son amie Rin qui se retrouvent tout les deux transportés dans un monde fantastique. Alors que dans leur monde précédent, Taichi était juste une personne aux réflexes supérieurs à la moyenne, lui et Rin acquièrent des capacités physiques et magiques élevées et commencent ainsi leur nouvelle vie en tant que magiciens.",
+        "image_path": "./ressource/anime/isekai_cheat_magician_7765.webp"
     },
     {
         "id": 105,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "How Not to Summon a Demon Lord",
+        "name_vo": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+        "nb_saison": 2,
+        "nb_episode": 22,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Isekai",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Dans le MMORPG Cross Reverie, Takuma Sakamoto possède une force écrasante, assez pour se faire appeler le Roi Démon par les autres joueurs. Un jour, il est invoqué dans un autre monde avec son apparence du jeu par deux personnes s'autoproclamant 'Maître Invocateur'. Suite à ces événements, Takuma est obligé d'être un esclave à cause d'une magie utilisée par les invocateurs. Cependant, grâce à la capacité spéciale de Takuma, 'Magic Reflection', les deux invocateurs se transforment en esclaves à la place de ce dernier.",
+        "image_path": "./ressource/anime/isekai_maou_to_shoukan_shoujo_no_dorei_majutsu_7565.webp"
     },
     {
         "id": 106,
-        "name": "",
-        "name_vo": "",
+        "name": "Interspecies Reviewers",
+        "name_vo": "Ishuzoku Reviewers",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Aventure",
+            "Comédie",
+            "Ecchi",
+            "Fantasy",
+            "Romance",
+            "Shônen",
+            "Slice of Life"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Voilà un vaste monde, rempli de créatures aussi diverses qu'exotiques comme les harpies, les démons ou les elfes. Cette coexistence mena à la création de nombreux bordels pour assouvir les différents fantasmes des clients. Nous suivons alors les pérégrinations de Stank, un humain, et Zelf, un elfe, dans leur mission très spéciale : établir des compte-rendus de leurs expériences sexuelles avec les différentes espèces présentes dans les bordels de ce monde.",
+        "image_path": "./ressource/anime/ishuzoku_reviewers_8794.webp"
     },
     {
         "id": 107,
-        "name": "",
-        "name_vo": "",
+        "name": "Isuca",
+        "name_vo": "Isuca",
         "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_episode": 10,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Romance",
+            "School Life",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Pour payer son loyer, Shinichirô trouve un emploi dans une belle maison, où il est chargé de faire le ménage. Mais cette maison n'est pas n'importe laquelle... il s'agit de la demeure de Sakuya, une jeune fille dont la tâche est d'exorciser les créatures indésirables. Par mégarde, Shinichirô laisse s'échapper l'un de ces esprits malfaisants... commence alors pour nos deux héros une chasse au monstre des plus comiques.",
+        "image_path": "./ressource/anime/isuca_3687.webp"
     },
     {
         "id": 108,
-        "name": "",
-        "name_vo": "",
+        "name": "Actually, I am",
+        "name_vo": "Jitsu wa Watashi wa",
         "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_episode": 13,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Comédie",
+            "Fantastique",
+            "Romance",
+            "Shônen",
+            "Surnaturel",
+            "School Life"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Asahi Kuromine est un lycéen incapable de garder un secret pour lui. Et lorsqu'il avoue ses sentiments à sa camarade de classe Youko Shiragami, il découvre qu'elle est un vampire. Il lui jure alors de ne pas divulguer son secret, mais cela ne va pas être facile surtout face aux autres élèves du lycée !",
+        "image_path": "./ressource/anime/jitsu_wa_watashi_wa_4063.webp"
     },
     {
         "id": 109,
+        "name": "joker games",
+        "name_vo": "joker games",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Historique",
+            "Mystère",
+            "Thriller"
+        ],
+        "synopsis": "1937. Alors que le Japon est déjà en guerre contre la Chine et se prépare à des offensives majeures au Sud et à l'Est du pays, le lieutenant-colonel Yûki crée la toute première agence d'espionnage nippone. Il forme alors 8 jeunes gens, recrutés hors des cercles militaires, pour en faire de parfaits espions qui suivront sans hésiter la devise de l'Agence : 'ne pas mourir, ne pas tuer'. À l'issue de leur formation, les 8 agents sur-entraînés sont envoyés aux quatre coins du monde pour accomplir leurs missions, mais aussi pour prouver aux militaires l'importance stratégique qu'ils représentent, car ces derniers n'apprécient pas leurs méthodes et leur 'manque d'honneur'.",
+        "image_path": "./ressource/anime/joker_game_4663.webp"
+    },
+    {
+        "id": 110,
+        "name": "Castle Town Dandelion",
+        "name_vo": "Joukamachi no Dandelion",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Seinen",
+            "Slice of Life"
+        ],
+        "synopsis": "La famille Sakurada est une famille assez ordinaire d'onze personnes vivant dans une maison elle aussi ordinaire. Sauf que leur père est le roi et chacun des enfants a des pouvoirs spéciaux. Comme Sakurada Aoi qui a le pouvoir de l'ordre absolu ou aussi Akane Sakurada qui contrôle la gravité. Aussi, pour assurer leur sécurité, aider les citoyens et pour décider du prochain roi, la maison va être observée par plus de 2000 caméras de surveillance.",
+        "image_path": "./ressource/anime/joukamachi_no_dandelion_4292.webp"
+    },
+    {
+        "id": 111,
+        "name": "Maria the Virgin Witch",
+        "name_vo": "Junketsu no Maria",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Fantastique",
+            "Historique",
+            "Seinen"
+        ],
+        "synopsis": "L'histoire se déroule en France, vers la fin de la Guerre de Cent Ans. Maria est une sorcière vivant dans une forêt à proximité d'un petit village de paysans. Elle y vit seule avec Artémis, la succube qu'elle a créé, et qu'elle envoie la nuit aux soldats de l'armée britannique afin de changer le cours des combats. Toutefois, Maria n'aime pas les conflits. Alors quand Anne, la petite-fille d'une de ses amies, vient lui demander de sauver son père, elle décide d'intervenir pour faire cesser les combats. Elle va ainsi s'attirer les foudres de l'Archange Michael, qui lui impose une étrange malédiction : Maria perdra ses pouvoirs si elle perd sa virginité !",
+        "image_path": "./ressource/anime/junketsu_no_maria_3963.webp"
+    },
+    {
+        "id": 112,
+        "name": "Juni Taisen: Zodiac War",
+        "name_vo": "Juuni Taisen",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Fantastique",
+            "Heroic-fantasy",
+            "Surnaturel"
+        ],
+        "synopsis": "Dans un monde temporairement vide de toute population, douze guerriers portants les noms des douze signes astrologiques chinois s'affrontent pour réaliser un seul souhait. Leur objectif : être le seul survivant à la fin de cette guerre.",
+        "image_path": "./ressource/anime/juuni_taisen_6667.webp"
+    },
+    {
+        "id": 113,
+        "name": "Unlimited Fafnir",
+        "name_vo": "Juuou Mujin no Fafnir",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Fantastique",
+            "Romance"
+        ],
+        "synopsis": "Avec l'apparition soudaine de monstres appelés 'Dragons', le monde a connu de nombreux changements. Du côté des humains est apparu de nombreuses filles qui possèdent le pouvoir des 'Dragons'. Elles sont appelées 'D'. Bien que les garçons ne soient pas censés posséder ce genre de pouvoir, il existe une exception en la personne de Mononobe Yu. Il se retrouve dans l'obligation d'intégrer secrètement Midgar, l'académie qui forme ces filles spéciales. En ces lieux, il se retrouvera face à une de ces filles alors nue : Iris. Il découvrira également que Mitsuki, sa sœur qu'il n'a pas vu depuis de longues années est inscrite dans cette académie !",
+        "image_path": "./ressource/anime/juuou_mujin_no_fafnir_3995.webp"
+    },
+    {
+        "id": 114,
+        "name": "Wise Man's Grandchild",
+        "name_vo": "Kenja no Mago",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Fantastique",
+            "Romance",
+            "Isekai"
+        ],
+        "synopsis": "L'histoire se centre sur un jeune homme qui se réincarne dans le corps d'un nouveau-né suite à un accident mortel. Lors d'une expédition, le patriote Merlin Wolford retrouve ce nouveau-né et décide de l'élever comme son petit-fils. Il va lui apprendre la magie et tout ce qu'il connait de ce monde. Appelé Shin par Merlin, il a maintenant 15 ans. Cependant son grand-père d'adoption vient de remarquer qu'il a oublié de lui apprendre une chose : le bon sens ! Pour lui apprendre à se sociabiliser, Merlin décide d'envoyer Shin dans le royaume d'Earlshide pour lui faire intégrer l'Académie de magie avancée d'Earlshide.",
+        "image_path": "./ressource/anime/kenja_no_mago_7327.webp"
+    },
+    {
+        "id": 115,
+        "name": "Kiss X Sis",
+        "name_vo": "Kiss X Sis",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Comédie",
+            "Ecchi",
+            "Romance",
+            "Seinen"
+        ],
+        "synopsis": "Nous suivons la vie de Keita jeune homme tout a fait banal jusqu'au jour du remariage de son père, il se retrouve avec deux sœurs jumelles, Ako et Riko. Malheureusement tout ne se passe pas sans encombre car celles-ci aiment beaucoup leur nouveau frère voire un peu trop... C'est à ce moment là que les jumelles vont se livrer à une sorte de compétition pour voler le cœur de Keita.",
+        "image_path": "./ressource/anime/kiss_sis_1530.webp"
+    },
+    {
+        "id": 116,
+        "name": "Knight's & Magic",
+        "name_vo": "Knights and Magic",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Fantastique",
+            "Isekai",
+            "Romance",
+            "Science-fantasy"
+        ],
+        "synopsis": "Suite à un tragique accident de voiture, un jeune otaku fan de mecha meurt puis se réincarne dans le corps d'Ernesti Echevalier, surnommé Eru, tout en conservant ses souvenirs de sa vie antérieure. Peu à peu, Eru découvre qu'il est dans un autre monde et décide de travailler dur pour devenir pilote de Silhouette Knight, des armes humanoïdes qui le font rêver.",
+        "image_path": "./ressource/anime/knight_s_magic_6002.webp"
+    },
+    {
+        "id": 117,
+        "name": "Knights of Sidonia",
+        "name_vo": "Sidonia no Kishi",
+        "nb_saison": 2,
+        "nb_episode": 24,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Science-fiction",
+            "Space opera"
+        ],
+        "synopsis": "1000 ans après la destruction de la Terre par les Gaunas, ce qu'il reste de l'Humanité ère dans l'espace à bord du Sidonia, un gigantesque vaisseau spatial, et tente de survivre comme elle peut. Cependant, les Gaunas sont bien décidés à exterminer ce qu'il reste du genre humain et poursuivent le vaisseau sans relâche. Pour se défendre, les hommes ont alors créés des robots géants, les Sentinelles, afin de se défendre contre ces redoutables ennemis. Nagate Takinaze, un jeune habitant du Sidonia, qui vivait reclus dans les immenses sous-sol de celui-ci, va devenir le pilote d'un de ses robots protecteurs, le Tsugumori.",
+        "image_path": "./ressource/anime/sidonia_no_kishi_2830.webp"
+    },
+    {
+        "id": 118,
+        "name": "Kokoro Connect",
+        "name_vo": "Kokoro Connect",
+        "nb_saison": 1,
+        "nb_episode": 17,
+        "genre": [
+            "Comédie",
+            "Drame",
+            "Psychologique",
+            "Romance",
+            "School Life",
+            "Surnaturel"
+        ],
+        "synopsis": "Nous suivons le quotidien spécial de cinq jeunes garçons et filles au sein de leur club, dans le lycée Yamahoshi. Il s'agit du club de culture générale, mais celui-ci se démarque des autres en raison des activités particulières qui s'y déroulent. En effet, être capable d'échanger mutuellement son corps avec celui d'un autre est un phénomène pas très banal... Et ces cinq membres le prouvent. De cette étrange manière, ils vont peu à peu tisser des liens au delà de l'amitié...",
+        "image_path": "./ressource/anime/kokoro_connect_2235.webp"
+    },
+    {
+        "id": 119,
+        "name": "NAKAIMO - My Little Sister Is Among Them !",
+        "name_vo": "Kono Naka ni Hitori, Imouto ga Iru !",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Comédie",
+            "Ecchi",
+            "Romance",
+            "School Life"
+        ],
+        "synopsis": "Suite à la mort de son père, Mikadono Shougo est transféré dans une nouvelle école pour trouver sa future femme. Ce qu'il ne sait pas, c'est que sa soeur, dont il ignore l'identité, est également dans ce lycée ! Le jeune homme est très populaire auprès des jeunes filles. Sa jeune sœur fera tout ce qui est en son pouvoir pour se rapprocher de lui tout en conservant son secret. Shougo saura-t-il discerner le vrai du faux et trouver une petite amie tout en étant sûr qu'il ne sort pas avec sa sœur ?",
+        "image_path": "./ressource/anime/kono_naka_ni_hitori_im_to_ga_iru_2304.webp"
+    },
+    {
+        "id": 120,
+        "name": "Konosuba",
+        "name_vo": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "nb_saison": 4,
+        "nb_episode": 32,
+        "genre": [
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "Isekai",
+            "Surnaturel"
+        ],
+        "synopsis": "La vie de Satou Kazuma, un hikikomori aimant les jeux, se termine bien trop tôt, dû à un accident de la route... Alors que ce dernier est décédé, une déesse nommée Aqua apparaît devant lui et lui propose de se réincarner dans l'au delà, prenant l'aspect d'un monde fantastique de jeu vidéo. Après s'être bien adapté à ce monde et vivant avec une petite équipe dont fait partie la déesse Aqua, une magicienne du nom de Megumin et une paladin masochiste, Kazuma est chargé d'une mission : vaincre le roi-démon. Cependant, en raison de l'incapacité de son groupe à réussir des quêtes, ce dernier va très vite renoncer à cette idée et tenter de profiter de ce monde si parfait à ses yeux.",
+        "image_path": "./ressource/anime/kono_subarashii_sekai_ni_shukufuku_wo_4697.webp"
+    },
+    {
+        "id": 121,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
@@ -1795,7 +1975,159 @@
         "image_path": "./"
     },
     {
-        "id": 110,
+        "id": 122,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 123,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 124,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 125,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 126,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 127,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 128,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 129,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 130,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,

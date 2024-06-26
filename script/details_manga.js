@@ -13,17 +13,17 @@ document.addEventListener('DOMContentLoaded', function() {
                                             <div class="manga_detail">
                                                 <img class="manga_img" src="${item.image_path}" alt="${item.name}">
                                                 <div class="manga_info">
-                                                    <p><strong>Editeur :</strong> ${item.editeur}</p>
-                                                    <p><strong>Nombres de tomes possédé :</strong> ${item.tomes}</p>
-                                                    <p><strong>La série est rangée dans :</strong> ${item.rangement} </p>
-                                                    <p><strong>Nombres de tomes sortis au japon :</strong> ${item.tomes_jap}</p>
+                                                    <p><span class="detail-label">Editeur :</span> ${item.editeur}</p>
+                                                    <p><span class="detail-label">Nombres de tomes possédé :</span> ${item.tomes}</p>
+                                                    <p><span class="detail-label">La série est rangée dans :</span> ${item.rangement} </p>
+                                                    <p><span class="detail-label">Nombres de tomes sortis au japon :</span> ${item.tomes_jap}</p>
                                                     
-                                                    <p><strong>La série est-elle terminée ?</strong> ${item.terminer === "V" ? "Oui" : "Non"}</p>
-                                                    <p><strong>La série est-elle terminée au Japon ?</strong> ${item.terminer_jap === "V" ? "Oui" : "Non"}</p>
-                                                    <p><strong>La série est-elle une série prioritaire à l'achat ?</strong> ${item.prioritaire === "V" ? "Oui" : "Non"}</p>
-                                                    <p><strong>La série a-t-elle été complètement lue ?</strong> ${item.lu === "V" ? "Oui" : "Non"}</p>
+                                                    <p><span class="detail-label">La série est-elle terminée ?</span> ${item.terminer === "V" ? "Oui" : "Non"}</p>
+                                                    <p><span class="detail-label">La série est-elle terminée au Japon ?</span> ${item.terminer_jap === "V" ? "Oui" : "Non"}</p>
+                                                    <p><span class="detail-label">La série est-elle une série prioritaire à l'achat ?</span> ${item.prioritaire === "V" ? "Oui" : "Non"}</p>
+                                                    <p><span class="detail-label">La série a-t-elle été complètement lue ?</span> ${item.lu === "V" ? "Oui" : "Non"}</p>
 
-                                                    <a href="${item.link}" target="_blank">Lien manga News</a>
+                                                    <p><a href="${item.link}" target="_blank">Lien manga News</a></p>
                                                 </div>
                                             </div>
                                        </div>`;

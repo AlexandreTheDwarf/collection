@@ -269,7 +269,7 @@ nav ul li a:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre */
   padding: 30px; /* Espacement interne */
 }
-.manga_detail .manga_info strong {
+.manga_detail .manga_info .detail-label {
   font-weight: bold;
 }
 .manga_detail .manga_info p {
@@ -326,7 +326,7 @@ nav ul li a:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre */
   padding: 30px; /* Espacement interne */
 }
-.anime_detail .anime_info strong {
+.anime_detail .anime_info .detail-label {
   font-weight: bold;
 }
 .anime_detail .anime_info p {
