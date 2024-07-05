@@ -1957,158 +1957,239 @@
     },
     {
         "id": 121,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "Kabaneri of the Iron Fortress",
+        "name_vo": "Koutetsujou no Kabaneri",
+        "nb_saison": 2,
+        "nb_episode": 15,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Drame",
+            "Horreur",
+            "Mystère",
+            "Psychologique",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire se déroule dans un monde chaotique où les humains tentent tant bien que mal de survivre face à une menace grandissante : les Kabane. Ces derniers, dont le cœur est en acier, dévorent tous les humains qu'ils croisent. Afin de se préserver de cette menace, les populations se sont réfugiées dans d'immenses forteresses baptisées stations, reliées entre elle par des trains blindés, les Hayajiro.",
+        "image_path": "./ressource/anime/koutetsujou_no_kabaneri_4760.webp"
     },
     {
         "id": 122,
-        "name": "",
-        "name_vo": "",
+        "name": "Black Summoner",
+        "name_vo": "Kuro no Shoukanshi",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Isekai",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Après avoir remporté un tirage au sort inconnu, Kelvin se réveille dans un monde fantaisiste ressemblant à un RPG, avec tous ses souvenirs effacés. Rejoint par son guide invisible, Melfina, qui l'informe de ses nouveaux pouvoirs d'invocateur, Kelvin voyage maintenant dans ce nouveau monde pour monter en niveau, former une équipe et devenir le plus puissant invocateur !",
+        "image_path": "./ressource/anime/kuro_no_shoukanshi_10993.webp"
     },
     {
         "id": 123,
-        "name": "",
-        "name_vo": "",
+        "name": "Ladies versus Butlers!",
+        "name_vo": "Ladies versus Butlers!",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Comédie",
+            "Ecchi",
+            "Romance",
+            "School Life"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Akiharu Hino, qui a une apparence de jeune délinquant, s'inscrit dans une académie qui était une ancienne école pour jeune fille. Cette école apprend aux étudiants par un entrainement intensif le métier de maid (servante) ou de butler (majordome). Akahiru se retrouvera au cœur d'une bataille entre ces deux clans.",
+        "image_path": "./ressource/anime/ladies_versus_butlers_1560.webp"
     },
     {
         "id": 124,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "log horizon",
+        "name_vo": "log horizon",
+        "nb_saison": 3,
+        "nb_episode": 62,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "Isekai",
+            "Romance",
+            "Heroic-fantasy"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Shiroe est amateur de MMORPG. Un jour, alors qu'il joue à Elder Tales, il se retrouve piégé dans le jeu avec 30 000 autres personnes. Désormais, impossible d'utiliser le bouton de log out ou de se faire tuer. Peu à peu, les joueurs perdent la volonté de jouer, comprenant qu'ils y finiront leur vie. Mais Shiroe ne veut pas abandonner. Il débute alors un voyage afin de comprendre d'où vient le problème.",
+        "image_path": "./ressource/anime/log_horizon_2622.webp"
     },
     {
         "id": 125,
-        "name": "",
-        "name_vo": "",
+        "name": "Machine Doll wa Kizutsukanai",
+        "name_vo": "Kikou Shoujo wa Kizutsukanai",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Fantastique",
+            "Mystère",
+            "Romance",
+            "School Life",
+            "Science-fiction"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Au début du XXème siècle, les avancées technologiques permettent aux humains d'insuffler la vie à des objets, en combinant la science et la sorcellerie, puis de les contrôler. De nombreux automates sont ainsi utilisés dans des combats. Akabane Raishin, étudiant à l'Académie Royale des Arts Mécaniques de Walpurgis, accompagné de Yaya, sa marionnette, cherche à devenir le meilleur marionnettiste du monde. L'école organise un tournoi réunissant les cent meilleurs étudiants. Cependant, les notes de Raishin ne sont pas excellente bien qu'il se débrouille magnifiquement bien en combat. De plus, il va devoir lutter contre ses camarades de classe pour atteindre son objectif.",
+        "image_path": "./ressource/anime/kikou_shoujo_wa_kizutsukanai_2611.webp"
     },
     {
         "id": 126,
-        "name": "",
-        "name_vo": "",
+        "name": "Madan no Ō to Vanadis",
+        "name_vo": "Madan no Ou to Vanadis",
         "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_episode": 13,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Aventure",
+            "Ecchi",
+            "Fantastique",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Les Vanadis sont sept guerrières choisies par des dragons et possédant chacune une arme extraordinaire. Elles sont chargées de défendre un des sept territoires du royaume de Zhcted. A l'occasion d'une guerre entre Zhcted et son ennemi de toujours, le royaume de Brune, Eleonora Viltaria, l'une des Vanadis, est envoyée au combat. Sur le champs de bataille, elle fait la connaissance d'un archer exceptionnel, originaire de Brune : Tigrevurmud Vorn, qu'elle ramène dans son domaine en tant que prisonnier de guerre.",
+        "image_path": "./ressource/anime/madan_no_ou_to_vanadis_3484.webp"
     },
     {
         "id": 127,
-        "name": "",
-        "name_vo": "",
+        "name": "Majikoi",
+        "name_vo": "Maji de Watashi ni Koi Shinasai!!",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Romance",
+            "School Life"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Le lycée Kawakami est reconnu pour son système éducatif très particulier : le sport principal du lycée est le combat. L'histoire se centre sur Yamato et sa bande d'amis, lycéens en deuxième année de la classe F. Yamato n'est pas particulièrement fort mais c'est un brillant tacticien. Grâce à son cerveau, il espère pouvoir devenir l'égal de la fille qu'il aime, Momoyo, l'une des 4 meilleures combattantes de l'école. Mais la force de Momoyo va vite attirer de nombreuses rivales, aussi bien de l'école que de l'extérieur.",
+        "image_path": "./ressource/anime/majikoi_-_oh_samurai_girls_2090.webp"
     },
     {
         "id": 128,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "Maken-ki !",
+        "name_vo": "Maken-ki !",
+        "nb_saison": 3,
+        "nb_episode": 27,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Ōyama Takeru est un lycéen qui a décidé de faire ses études à Tenbi, tout simplement parce qu'il n'a pas besoin de passer un examen d'entrée. De plus, il existe des dortoirs pour les étudiants. Cependant, Tenbi est très loin d'être une école comme les autres ; en plus des cours de tous les jours, on peut apprendre à user de la magie via des Maken (souvent des repliques car il n'y a que 8 maken originaux) afin de s'en servir dans divers combats...",
+        "image_path": "./ressource/anime/maken-ki_2084.webp"
     },
     {
         "id": 129,
+        "name": "The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants",
+        "name_vo": "Maou Gakuin no Futekigousha",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Fantastique",
+            "Isekai",
+            "School Life"
+        ],
+        "synopsis": "Après 2000 ans, le seigneur démon, ayant la capacité de détruire les humains, les élémentaires et les dieux vient d'être réincarné ! Suite à une longue période d'innombrables guerres et de conflits, Anos, le seigneur démon, devint fatigué et aspira à un monde pacifique. Il décida donc de se réincarner. Cependant, le monde dans lequel il se réincarne est trop habitué à la paix et ses habitants sont donc trop faibles. Anos décide de s'inscrire à l'Académie Maou, qui est un établissement créé pour rechercher tous les étudiants susceptibles de représenter la réincarnation du seigneur démon. Néanmoins, ses pouvoirs sont trop extraordinaires pour que ceux de l'académie puissent le juger correctement. Il est donc considéré comme un «étudiant incompatible». Sous-estimé et évité par la plupart des habitants de la région, il décide de recruter Misha, une des seules personnes gentille avec lui, pour grimper au sommet de la hiérarchie des démons et ainsi récupérer son titre et statut antérieurs.",
+        "image_path": "./ressource/anime/maou_gakuin_no_futekigousha_9045.webp"
+    },
+    {
+        "id": 130,
+        "name": "Demon Lord, Retry!",
+        "name_vo": "Maou-sama, Retry!",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Isekai",
+            "Romance"
+        ],
+        "synopsis": "L'histoire se centre sur Akira Oono, un salarié ordinaire, créateur de Infinity Game, un jeu en ligne. Lorsqu'il y joue, il incarne la plus part du temps le personnage de Kunai Hakuto, le Seigneur-Démon. Un jour, il se voit transporté dans le jeu sous les traits de son avatar, le Seigneur-Démon. Là-bas, il fait la rencontre d'Aku, une petite fille qu'il a sauvée des griffes d'un démon. Ils décident alors de s'aventurer ensemble pour découvrir ce nouveau monde. Cependant, cela risque d'être une tâche difficile vu que le Seigneur-Démon est sans arrêt poursuivi par les autorités religieuses et les sectes démoniaques fanatiques !",
+        "image_path": "./ressource/anime/maou-sama_retry_8183.webp"
+    },
+    {
+        "id": 131,
+        "name": "Mayo Chiki !",
+        "name_vo": "Mayo Chiki !",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Comédie",
+            "Ecchi",
+            "Romance",
+            "School Life"
+        ],
+        "synopsis": "Konoe Subaru, un très beau garçon de 17 ans, se présente comme étant le majordome de Suzutsuki Kanade au lycée. Tout se déroule au mieux, jusqu'à ce qu'un camarade de classe de Kanade, Sakamachi Kinjirou, découvre par accident le secret compromettant de Subaru... Il apprend que celui-ci est en réalité une fille ! Il parait que si sa véritable identité est révélée, elle n'exercerait plus le travail de majordome. Avec ce qui vient de se produire, qu'arrivera-t-il à Subaru et aux autres ?",
+        "image_path": "./ressource/anime/mayo_chiki_2037.webp"
+    },
+    {
+        "id": 132,
+        "name": "The Lost Village",
+        "name_vo": "Mayoiga",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Drame",
+            "Horreur",
+            "Mystère",
+            "Psychologique",
+            "Surnaturel",
+            "Thriller"
+        ],
+        "synopsis": "Trente jeunes hommes et femmes entreprennent un voyage à bords d'un étrange bus à destination d'un village qui n'existe probablement pas. Dans cette 'ville' nommée Nanaki, nous pouvons, d'après une légende urbaine, vivre une existence sans regrets et recommencer sa vie à zéro. Une fois arrivé à destination, notre groupe s'étonne de ne voir aucun signe de vie dans ce village. En effet, la ville dont ils rêvaient tous, ressemble à une ville fantôme... Pour ne rien arranger, une atmosphère pesante plane sur le village...",
+        "image_path": "./ressource/anime/mayoiga_5140.webp"
+    },
+    {
+        "id": 133,
+        "name": "Recovery of an MMO Junkie",
+        "name_vo": "Net-juu no Susume : Recommendation of the Wonderful Virtual Life",
+        "nb_saison": 1,
+        "nb_episode": 10,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Romance"
+        ],
+        "synopsis": "Moriko Morioka est une femme célibataire de 30 ans. Après s'être échappé de la réalité, elle a laissé tomber sa recherche d'une vie épanouissante et a fini par devenir une NEET. Dans un nouveau jeu, elle a commencé sa nouvelle vie en tant que personnage incroyable et beau physiquement nommé Hayashi. Au début de sa nouvelle vie, elle va faire la rencontre d'un personnage nommé Lily, qu'elle va tenter d'aider. Pendant ce temps, dans le monde réel, une rencontre avec Yuuta Sakurai, un mystérieux employé d'une entreprise d'élite l'attend.",
+        "image_path": "./ressource/anime/netojuu_no_sususme_7118.webp"
+    },
+    {
+        "id": 134,
+        "name": "Moi quand je me reincarne en slime",
+        "name_vo": "Tensei Shitara Slime Datta Ken",
+        "nb_saison": 2,
+        "nb_episode": 54,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Isekai",
+            "Seinen",
+            "Heroic-fantasy"
+        ],
+        "synopsis": "atoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique. Son nouveau corps est équipé de deux compétences uniques : « Prédateur », lui permettant de récupérer les aptitudes de ses adversaires, et « Grand sage », grâce à laquelle il acquiert une compréhension aigüe de son environnement. Mais même muni de ces armes, ses chances de survie semblent encore limitées...",
+        "image_path": "./ressource/anime/tensei_shitara_slime_datta_ken_7628.webp"
+    },
+    {
+        "id": 135,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
@@ -2127,7 +2208,273 @@
         "image_path": "./"
     },
     {
-        "id": 130,
+        "id": 136,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 137,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 138,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 139,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 140,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 141,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 142,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 143,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 144,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 145,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 146,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 147,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 148,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 149,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 150,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
