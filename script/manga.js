@@ -49,6 +49,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 renderCards();
             }
 
+            function getTotalPages() {
+                return Math.ceil(filteredData.length / itemsPerPage);
+            }
+
             function renderCards() {
                 container.innerHTML = ''; // Clear the container
                 const startIndex = (currentPage - 1) * itemsPerPage;
@@ -64,21 +68,27 @@ document.addEventListener('DOMContentLoaded', function() {
                     container.appendChild(card);
                 });
 
-                pageInfo.textContent = `Page ${currentPage} sur ${Math.ceil(filteredData.length / itemsPerPage)}`;
+                pageInfo.textContent = `Page ${currentPage} sur ${getTotalPages()}`;
             }
 
             function nextPage() {
-                if (currentPage * itemsPerPage < filteredData.length) {
+                const totalPages = getTotalPages();
+                if (currentPage < totalPages) {
                     currentPage++;
-                    renderCards();
+                } else {
+                    currentPage = 1; // Retourner à la première page
                 }
+                renderCards();
             }
 
             function prevPage() {
+                const totalPages = getTotalPages();
                 if (currentPage > 1) {
                     currentPage--;
-                    renderCards();
+                } else {
+                    currentPage = totalPages; // Retourner à la dernière page
                 }
+                renderCards();
             }
 
             document.getElementById('apply_filters').addEventListener('click', applyFilters);

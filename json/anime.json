@@ -2751,231 +2751,192 @@
     },
     {
         "id": 169,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "The Eminence in Shadow",
+        "name_vo": "Kage no Jitsuryokusha ni Naritakute!",
+        "nb_saison": 2,
+        "nb_episode": 32,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Isekai"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Les grands héros et les méchants diaboliques sont le genre de personnages que les gens ont envie d'être mais pas Cid Kagenô. Il aspire à devenir le véritable cerveau derrière tout cela, à tirer les ficelles et à faire en sorte que ses machinations dirigent toute l'histoire. Dans sa vie antérieure, il n'avait pas pu atteindre son objectif. Cependant, il va désormais renaître dans un monde de magie et montrer la véritable éminence de l'ombre ! Alors que Cid prétend n'être qu'une personne dans la moyenne, il recrute des membres pour sa fausse organisation nommée Shadow Garden dans le but de faire tomber le faux mystérieux culte qui se cache dans l'ombre. Grâce à de nombreuses improvisations, Cid dirige sa fausse organisation contre l'infâme, et pourtant étonnamment réel, culte de Diabolos.",
+        "image_path": "./ressource/anime/kage_no_jitsuryokusha_ni_naritakute_10090.webp"
     },
     {
         "id": 170,
-        "name": "",
-        "name_vo": "",
+        "name": "Gloutons & Dragons",
+        "name_vo": "Dungeon Meshi",
         "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_episode": 24,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantastique"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Lorsque le jeune aventurier Laios et son équipe sont attaqués et battus à plates coutures par un dragon au fond d'un donjon, ils perdent tout leur argent, leurs provisions ainsi qu'une membre ! Ils sont déterminés à retourner la sauver, mais il y a un problème : s'ils partent sans nourriture, ni argent, ils sont sûrs de mourir de faim en chemin ! Mais Laios a une idée géniale : 'Mangeons les monstres !'. Slimes, basilisks et même des dragons... aucun n'est à l'abri de l'appétit de ces gourmands qui parcourent les donjons !",
+        "image_path": "./ressource/anime/dungeon_meshi_11326.webp"
     },
     {
         "id": 171,
-        "name": "",
-        "name_vo": "",
+        "name": "Sakura Quest",
+        "name_vo": "Sakura Quest",
         "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_episode": 25,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Comédie",
+            "Drame",
+            "Slice of Life"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire se centre sur cinq femmes travaillant dans le bureau de tourisme de leur petite ville provinciale. Provenant d'un mouvement national durant la période de la bulle économique japonaise, cette ville ranime leur programme de tourisme de 'micro-nation' et décide de placer les cinq femmes en tant que monarques (ambassadeurs du tourisme).",
+        "image_path": "./ressource/anime/sakura_quest_6411.webp"
     },
     {
         "id": 172,
-        "name": "",
-        "name_vo": "",
+        "name": "Beautiful Bones - Sakurako's Investigations",
+        "name_vo": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Drame",
+            "Mystère",
+            "Psychologique",
+            "Slice of Life"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire se déroule autour de Shōtarō Tatewaki qui est un lycéen normal et sérieux et de Sakurako Kujō qui est belle femme riche spécialisée dans l'analyse de squelette humain. Ensemble, ils vont résoudre des diverses enquêtes qui en général tournent autour de personnes mortes de diverses manières.",
+        "image_path": "./ressource/anime/sakurako-san_no_ashimoto_ni_wa_shitai_ga_umatteiru_4363.webp"
     },
     {
         "id": 173,
-        "name": "",
-        "name_vo": "",
+        "name": "Schwarzes Marken",
+        "name_vo": "Schwarzesmarken",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Drame",
+            "Historique",
+            "Psychologique",
+            "Romance",
+            "Science-fiction"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Schwarzesmarken est un spin-off de Muv-Luv Alternative. Il se passe en l'an 1983 en Europe. Ce spin-off suit le 666ème escadron de TSF nommé Schwarzesmarken de l'armée est-allemande. Cette unité est chargée de combattre les envahisseurs extraterrestres nommée BETA, cet objectif est important et ne doit subir aucun échec même si des alliés proches de la mort demandent de l'aide, rien ne doit les déranger jusqu'à l'accomplissement de la mission. L'unité 666 est principalement constitué de personnes pilotant des méchas de type Tactical Surface Fighters MiG-21, sauf le commandant Irisdena Bernhard qui elle pilote un MiG-21PF. Ses membres sont sous la surveillance de la terrifiante Stasi, la police politique qui contrôle totalement la RDA, suite à l'arrivée d'une pilote de l'armée ouest-allemande.",
+        "image_path": "./ressource/anime/schwarzesmarken_4802.webp"
     },
     {
         "id": 174,
-        "name": "",
-        "name_vo": "",
+        "name": "Muv-Luv Alternative",
+        "name_vo": "Muv-Luv ALTERNATIVE",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Drame",
+            "Ecchi",
+            "Science-fiction"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Le 19 avril 1973, les premiers BETAs, créatures extra-terrestre colonisant jusque là la Lune, atterrissent sur Terre. Peu à peu, elle se répandent sur la planète en massacrant tous ceux qui se trouvent sur leur chemin et en établissant des 'nids'. Juillet 1998. Après avoir mis une bonne partie de l'Asie et de l'Europe à feu et à sang, les BETAs débutent leur offensive contre le Japon en commençant par Kyushu Peu à peu, l'archipel est conquis et un nouveau nid, le 21è, est érigé à Sadogashima. Sayoko Komaki, à l'époque jeune pilote avec peu d'expérience, a assisté à la chute de la base de Sado. Une expérience traumatisante au cours de laquelle elle a malgré tout assisté à un miracle : le sauvetage d'une jeune civile.",
+        "image_path": "./ressource/anime/muv-luv_alternative_9086.webp"
     },
     {
         "id": 175,
-        "name": "",
-        "name_vo": "",
+        "name": "Seiken Tsukai no World Break",
+        "name_vo": "Seiken Tsukai no Kinshuu Eishou",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Fantastique",
+            "Romance",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire prend place dans un lycée spécial, dans lequel les élèves appelés Saviors (Sauveurs) disposent d'un pouvoir en rapport avec les souvenirs de leur vie antérieure. Il existe deux types de sauveurs, les Shirogane qui utilisent des armes issues de leurs corps et les Kuroma qui sont capables de manipuler la magie.",
+        "image_path": "./ressource/anime/seiken_tsukai_no_world_break_3785.webp"
     },
     {
         "id": 176,
-        "name": "",
-        "name_vo": "",
+        "name": "Seikoku no Dragonar",
+        "name_vo": "Seikoku no Ryuu Kishi",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Fantastique",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Apprendre à monter et dresser un dragon est facile pour la plupart des étudiants de l'académie Ansarivan Dragonar, mais l'étudiant de première année Ash Blake, connu par ses camarades de classe comme 'l'enfant à problème n°1', fait exception à la règle. Le pauvre Ash est la risée de l'école car, excepté sa vieille marque en forme d'étoile le désignant comme futur dragon master, il ne possède rien lui servant à prouver ce statut. Son dragon n'est jamais apparu. Du moins, jusqu'à maintenant. Au cours d'une journée marquée par le destin, le dragon d'Ash s'éveille dans toute sa splendeur, mais sous une apparence différente de celles des autres dragons : celle d'une jolie jeune fille ! Et le pire, c'est qu'Ash découvre bientôt que ce nouveau dragon possède une attitude particulière : elle informe rapidement le jeune homme que c'est elle le maître, et lui, le serviteur.",
+        "image_path": "./ressource/anime/seikoku_no_dragonar_3022.webp"
     },
     {
         "id": 177,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "Blade Dance of Elementalers",
+        "name_vo": "Seirei Tsukai no Blade Dance",
+        "nb_saison": 2,
+        "nb_episode": 17,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Fantastique",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Dans le monde fantaisiste dépeint par Seirei Tsukai no Blade Dance, seule une fille pure peut passer un contrat avec un esprit. L'Académie des Esprits Areisha rassemble les filles de nobles dans des classes d'élite pour en faire des élémentalistes spirituelles. Un garçon nommé Kamito est en pleine séance de voyeurisme avec pour cible une étudiante prenant son bain, Claire, lorsqu'il passe accidentellement un contrat avec un esprit à la place de l'objet de ses fantasmes. A partir de cet instant, Kamito devient quelque chose qui était jusqu'alors impensable en ce monde : un élémentaliste spirituel de sexe masculin.",
+        "image_path": "./ressource/anime/seirei_tsukai_no_blade_dance_3229.webp"
     },
     {
         "id": 178,
-        "name": "",
-        "name_vo": "",
+        "name": "Seisen Cerberus",
+        "name_vo": "Seisen Cerberus : Ryūkoku no Fatalite",
         "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_episode": 13,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Fantastique"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire se passe dans un continent où trois royaumes sont en période de paix très instable. Le moindre petit incident pourrait faire éclater cette paix factice. En plus de cette guerre imminente, un dragon, baptisé Daganzord, ravage les villes une à une. Pour tenter de le stopper, Bairo et Kismitete, de puissants guerriers, ont tenté de sceller ce monstre. Bien qu'aidé par des magiciens reconnus, ils échouèrent dans leur quête. Plusieurs années après cet événement, Hiiro et Giiru, les enfants de ces puissants guerriers, héritent du flambeau et tentent de battre Daganzord.",
+        "image_path": "./ressource/anime/seisen_cerberus_ryuu_koku_no_fatalite_5223.webp"
     },
     {
         "id": 179,
-        "name": "",
-        "name_vo": "",
+        "name": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+        "name_vo": "Sekai Saikou no Assassin, Isekai Kizoku ni Tensei Suru",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Isekai",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Quand le plus grand assassin de l'époque est tué, il se réveille devant une Déesse qui lui propose de le réincarner dans un autre monde. Cependant, elle a une condition : il doit assassiner le héros de ce monde. Ayant désormais un objectif précis, il se réincarne en tant que Lugh Tuatha, le dernier-né de la lignée d'assassins de la famille Tuatha Dé.",
+        "image_path": "./ressource/anime/sekai_saikou_no_assassin_isekai_kizoku_ni_tensei_suru_10081.webp"
     },
     {
         "id": 180,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "Sekirei",
+        "name_vo": "Sekirei",
+        "nb_saison": 2,
+        "nb_episode": 26,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Romance",
+            "Seinen"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Alors que Minato Sahashi apprend qu'il vient de rater pour la seconde fois le concours d'entrée de l'université de Shintô et qu'il s'interroge sur son avenir, il croise la route de Musibi, une jolie jeune fille poursuivie par deux jeunes femmes aux étranges pouvoirs. Musibi lui apprend alors qu'elle est une 'Sekirei', une combattante engagée dans un jeu de type Battle Royale organisé par Hiroto Minaka, patron de la puissante et mystérieuse multinationale MBI. Cette dernière a pris le contrôle de la ville et 108 Sekirei doivent s'y affronter.",
+        "image_path": "./ressource/anime/sekirei_pure_engagement_1779.webp"
     },
     {
         "id": 181,

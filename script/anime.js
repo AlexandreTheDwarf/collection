@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let animeData = []; // Variable pour stocker les données des animes
     const itemsPerPage = 12;
     let currentPage = 1;
+    let filteredData = []; // Ajoute une variable pour stocker les données filtrées
 
     fetch('./json/anime.json')
         .then(response => response.json())
@@ -20,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const safeNameFilterValue = sanitizeHTML(nameFilterValue.toLowerCase());
         const selectedGenres = Array.from(document.querySelectorAll('.genre-checkbox:checked')).map(checkbox => checkbox.value.toLowerCase());
 
-        let filteredData = animeData.filter(item => {
+        filteredData = animeData.filter(item => {
             const nameMatch = (item.name && item.name.toLowerCase().includes(safeNameFilterValue)) || (item.name_vo && item.name_vo.toLowerCase().includes(safeNameFilterValue));
             return nameMatch;
         });
@@ -31,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         filteredData.sort((a, b) => a.name.localeCompare(b.name));
 
-        const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+        const totalPages = getTotalPages();
         if (currentPage > totalPages) {
             currentPage = totalPages; // Réinitialiser currentPage si nécessaire
         }
@@ -58,28 +59,38 @@ document.addEventListener('DOMContentLoaded', function() {
         updatePaginationInfo(filteredData.length);
     }
 
+    // Fonction pour calculer le nombre total de pages
+    function getTotalPages() {
+        return Math.ceil(filteredData.length / itemsPerPage);
+    }
+
     // Mettre à jour les informations de pagination
     function updatePaginationInfo(totalItems) {
         const pageInfo = document.getElementById('current_page_info');
-        const totalPages = Math.ceil(totalItems / itemsPerPage);
+        const totalPages = getTotalPages();
         pageInfo.textContent = `Page ${currentPage} sur ${totalPages}`;
     }
 
     // Fonction pour passer à la page suivante
     function nextPage() {
-        const totalPages = Math.ceil(animeData.length / itemsPerPage);
+        const totalPages = getTotalPages();
         if (currentPage < totalPages) {
             currentPage++;
-            renderAnimeCards();
+        } else {
+            currentPage = 1; // Retourner à la première page
         }
+        renderAnimeCards();
     }
 
     // Fonction pour passer à la page précédente
     function prevPage() {
+        const totalPages = getTotalPages();
         if (currentPage > 1) {
             currentPage--;
-            renderAnimeCards();
+        } else {
+            currentPage = totalPages; // Retourner à la dernière page
         }
+        renderAnimeCards();
     }
 
     // Écouteurs d'événements pour les boutons de pagination
