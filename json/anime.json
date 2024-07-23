@@ -2679,7 +2679,7 @@
             "Romance",
             "School Life",
             "Science-fiction",
-            "Slice of Life"
+            "Tranche-de-vie"
         ],
         "synopsis": "Arata Kaizaki a 27 ans et est sans emploi. En effet, il rate tous ses entretiens et n'a tenu que trois mois dans sa dernière entreprise. Un jour, il fait la rencontre de Ryo Yoake, membre de l'institut ReLife Research qui lui propose d'être cobaye pour leur dernier projet ; un médicament qui lui permettra d'avoir l'apparence d'un lycéen de 17 ans et de pouvoir retourner au lycée, l'espace d'un an. Grâce à ce médicament, il va pouvoir rattraper ses précédents échecs dans la vie et donc avoir une seconde chance.",
         "image_path": "./ressource/anime/relife_4354.webp"
@@ -2790,7 +2790,7 @@
         "genre": [
             "Comédie",
             "Drame",
-            "Slice of Life"
+            "Tranche-de-vie"
         ],
         "synopsis": "L'histoire se centre sur cinq femmes travaillant dans le bureau de tourisme de leur petite ville provinciale. Provenant d'un mouvement national durant la période de la bulle économique japonaise, cette ville ranime leur programme de tourisme de 'micro-nation' et décide de placer les cinq femmes en tant que monarques (ambassadeurs du tourisme).",
         "image_path": "./ressource/anime/sakura_quest_6411.webp"
@@ -2805,7 +2805,7 @@
             "Drame",
             "Mystère",
             "Psychologique",
-            "Slice of Life"
+            "Tranche-de-vie"
         ],
         "synopsis": "L'histoire se déroule autour de Shōtarō Tatewaki qui est un lycéen normal et sérieux et de Sakurako Kujō qui est belle femme riche spécialisée dans l'analyse de squelette humain. Ensemble, ils vont résoudre des diverses enquêtes qui en général tournent autour de personnes mortes de diverses manières.",
         "image_path": "./ressource/anime/sakurako-san_no_ashimoto_ni_wa_shitai_ga_umatteiru_4363.webp"
@@ -2940,231 +2940,207 @@
     },
     {
         "id": 181,
-        "name": "",
-        "name_vo": "",
+        "name": "Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
+        "name_vo": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Comédie",
+            "Ecchi",
+            "School Life"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire se passe 16 années après l'application de la « Loi au maintien à l'ordre public et de la morale pour le développement de la Jeunesse » qui interdit le langage grossier ou les situations jugées indécentes en public dans le pays. Nous suivons Tanukichi Okuma qui s'inscrit dans une école d'élite de bonnes mœurs mais qui est enrôlé par l'Organisation Anti-Système (SOX). Tanukichi va prendre part aux actes obscènes contre l'école.",
+        "image_path": "./ressource/anime/shimoneta_to_iu_gainen_4060.webp"
     },
     {
         "id": 182,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "L'Attaque des Titans",
+        "name_vo": "Shingeki no Kyojin ",
+        "nb_saison": 4,
+        "nb_episode": 90,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Drame",
+            "Fantastique",
+            "Horreur",
+            "Mystère",
+            "Psychologique",
+            "Shônen",
+            "Surnaturel",
+            "Thriller"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Il y a 107 ans, les Titans ont presque exterminé la race humaine. Ces Titans mesurent principalement une dizaine de mètres et ils se nourrissent d'humains. Les humains ayant survécus à cette extermination ont construit une cité fortifiée avec des murs d'enceinte de 50 mètres de haut pour pouvoir se protéger des Titans. Pendant 100 ans les humains ont connu la paix. Eren est un jeune garçon qui rêve de sortir de la ville pour explorer le monde extérieur. Il mène une vie paisible avec ses parents et sa sœur Mikasa dans le district de Shiganshina. Mais un jour de l'année 845, un Titan de plus de 60 mètres de haut apparaît. Il démolit une partie du mur du district de Shiganshina et provoque une invasion de Titans. Eren verra sa mère se faire dévorer sous ses yeux sans rien pouvoir faire. Il décidera après ces événements traumatisants de s'engager dans les forces militaires de la ville avec pour but d'exterminer tous les Titans qui existent.",
+        "image_path": "./ressource/anime/212201.webp"
     },
     {
         "id": 183,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "The Testament of Sister New Devil",
+        "name_vo": "Shinmai Maou no Testament",
+        "nb_saison": 2,
+        "nb_episode": 22,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Ecchi",
+            "Romance",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Shinmai Maou no Keiyakusha nous entraîne dans le quotidien de Toujo Basara, qui se retrouve à vivre avec 2 belles-sœurs, suite au remariage de son père. Mais il s'avère que les deux sœurs Mio & Maria sont en réalité de jeunes démons. L'une est la Future Reine des démons et l'autre une Succube. Malgré cela, il deviendra Maître d'une de ses deux sœurs : Mio. Mais celle-ci est poursuivie par les autres tribus de démons et les clans des héros.",
+        "image_path": "./ressource/anime/shinmai_maou_no_keiyakusha_3951.webp"
     },
     {
         "id": 184,
-        "name": "",
-        "name_vo": "",
+        "name": "What do you do at the end of the world? Are you busy? Will you save us?",
+        "name_vo": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Aventure",
+            "Drame",
+            "Fantastique",
+            "Romance",
+            "Science-fiction",
+            "Seinen",
+            "Tranche-de-vie"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Cela fait maintenant 500 ans que l'humanité a disparu à cause des redoutables Bêtes. 500 ans que la Terre est laissée dans un état lamentable, preuve de destruction et d'anéantissement. Certaines races survivantes ont décidé de vivre sur des îles flottantes. Malheureusement, elles sont aussi menacées de mort par ces monstruosités, qui les guettent jour après jour. Seul un petit groupe de jeunes filles, des Leprechauns (synonyme de Lutins), peuvent manier des armes anciennes capables de vaincre ces créatures. L'histoire nous entraîne dans la lutte acharnée de ces filles, dont chaque combat peut facilement être leur dernier.. et de William Kumesh, le dernier humain de ce monde anéanti, qui se réveille après un long sommeil glacial...",
+        "image_path": "./ressource/anime/shuumatsu_nani_shitemasu_ka_isogashii_desu_ka_sukutte_moratte_ii_desu_ka_5641.webp"
     },
     {
         "id": 185,
-        "name": "",
-        "name_vo": "",
+        "name": "Skeleton Knight in an Another World",
+        "name_vo": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Isekai",
+            "Heroic-fantasy",
+            "Mystère"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Le protagoniste s'est endormi en jouant à un jeu en ligne. Cependant, à son réveil, il se retrouve dans un monde étrange avec l'apparence de son personnage. Après avoir retrouvé ses esprits, il remarque qu'il est équipé de son arme et de son armure les plus puissantes. Pour ne rien arranger, l'apparence de notre héros est celle d'un squelette, l'un des nombreux avatar du jeu. Le protagoniste veut vivre sans attirer l'attention, mais il fait la rencontre de Arianne, une elfe noire qui veut l'embaucher pour sauver son peuple.. ",
+        "image_path": "./ressource/anime/gaikotsu_kishi-sama_tadaima_isekai_e_odekakechuu_10258.webp"
     },
     {
         "id": 186,
-        "name": "",
-        "name_vo": "",
+        "name": "So, I'm a Spider, So What?",
+        "name_vo": "Kumo Desu ga, Nani ka?",
         "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_episode": 24,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Isekai",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Dans un monde parallèle, le héros et le roi démon se livrent à un combat d'une telle violence, que leur magie s'est ressentie sur la Terre, allant même jusqu'à détruire une classe remplie d'élèves. Cependant, toute les personnes mortes dans cet incident sont réincarnées dans un monde fantastique, dans lequel ils vont pouvoir trouver une nouvelle forme. L'histoire nous entraîne dans le quotidien d'une des victimes. Cette personne, ayant les plus mauvaises notes de la classe, se retrouve réincarnée en araignée. Malgré sa position peu avantageuse, elle accepte sa nouvelle vie et va tout faire pour pouvoir survivre, par la seule force de la volonté.",
+        "image_path": "./ressource/anime/kumo_desu_ga_nani_kay_8051.webp"
     },
     {
         "id": 187,
-        "name": "",
-        "name_vo": "",
+        "name": "Solo Leveling",
+        "name_vo": "Ore dake Level Up na Ken",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantastique"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Lorsque d'étranges portails sont apparus aux quatre coins du monde, l'humanité a dû trouver une solution pour ne pas finir massacrée par les monstres qui en sortent. Dans le même temps, certaines personnes ont développé des capacités permettant de les chasser. Ces combattants intrépides n'hésitent pas à foncer au cœur des donjons pour combattre les créatures qu'ils abritent. Jin-Woo Sung, un chasseur de rang E considéré comme le plus faible de tous, se rend avec une équipe dans un donjon de rang D. Cependant, alors qu'ils se retrouvent piégé dans une salle avec des monstres qui ne sont pas du tout du niveau du donjon, Jin-Woo succombe. Alors qu'il pensait être mort, il se réveille à l'hôpital avec une étrange capacité : une interface virtuelle qui lui permet de devenir de plus en plus fort.",
+        "image_path": "./ressource/anime/solo_leveling_11240.webp"
     },
     {
         "id": 188,
-        "name": "",
-        "name_vo": "",
+        "name": "Are You Lost?",
+        "name_vo": "Sounan desus ka ?",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Seinen",
+            "Tranche-de-vie"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "À la suite d'un crash de leur avion, un groupe de lycéennes se retrouve échoué sur une île déserte. Leur unique but désormais est de survivre, et pour cela, il faut se résigner à faire des choses qu'elles n'auraient jamais imaginé faire en temps normal : manger des insectes vivants, construire des pièges, apprendre à s'orienter en forêt...",
+        "image_path": "./ressource/anime/sounan_desu_kay_8530.webp"
     },
     {
         "id": 189,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "Strike the Blood",
+        "name_vo": "Strike the Blood",
+        "nb_saison": 5,
+        "nb_episode": 58,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Romance",
+            "School Life",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'île Itogami est une île artificielle située à environ 300km de Tokyo, dans l'Océan Pacifique, et dont la majorité des habitants sont des êtres extraordinaires : esprits, démons, sirènes, vampires... Ils y vivent contrôlés par les humains et servent à l'occasion de sujet d'étude. Kojô Akatsuki vit sur cette île depuis très longtemps, mais n'est qu'un simple humain. Du moins, il l'était jusqu'à ce qu'il devienne le 4è Primogéniteur, considéré comme le plus puissant vampire du monde. Un fardeau bien lourd à porter pour un adolescent qui ne rêve que d'une chose : vivre une vie normale. Ce qu'il arrivait plus ou moins à faire jusqu'à l'arrivée de Yukina Himeragi, membre le l'organisation Lion King (Shishiô). Très vite, elle avoue à Kojô que sa situation n'est absolument pas enviable : étant donné qu'il est considéré comme une arme de destruction massive à lui tout seul, elle a pour ordre de le suivre et de l'éliminer au moindre signe d'agressivité de sa part.",
+        "image_path": "./ressource/anime/strike_the_blood_2582.webp"
     },
     {
         "id": 190,
-        "name": "",
-        "name_vo": "",
+        "name": "AntiMagic Academy « The 35th Test Platoon »",
+        "name_vo": "Taimadou Gakuen 35 Shiken Shoutai",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "En transgressant les règles du code d'honneur des Inquisiteurs (des traqueurs de sorciers et de nécromanciens), Ôka Ôtori, une chasseuse aguerrie, fut déchue de son poste et rétrogradée à un rang inférieur. Obligée de rejoindre à contrecœur l'une des brigades les plus faibles de l'Académie Anti-Magie, un centre formant des guerriers en vue qu'ils deviennent de futurs Inquisiteurs, notre héroïne va vivre un quotidien infernal aux côtés des membres de cette fameuse escouade. En effet, le 35ième peloton doit sa triste renommée à son inefficacité sur le terrain et à son effectif particulier regroupant les pires cas de l'académie. Cette unité est composée entre autre de jeunes recrues comme Usagi Saionji, une jeune femme aux courbes généreuses, Ikaruga Suginami, une ado taciturne au tempérament flamboyant et Takeru Kusanagi, un jeune homme excellant dans le domaine de l'escrime mais n'ayant aucun don pour le maniement des armes à feu.",
+        "image_path": "./ressource/anime/taimado_gakuen_35_shiken_shotai_4390.webp"
     },
     {
         "id": 191,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "The Rising of the Shield Hero",
+        "name_vo": "Tate no Yuusha no Nariagari",
+        "nb_saison": 3,
+        "nb_episode": 50,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantastique",
+            "Isekai",
+            "Psychologique",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Naofumi se voit un jour invoqué dans un monde fantastique avec trois autres personnes afin de devenir les héros de ce monde. Dès leur arrivée, chacun se retrouve équipé d'une des quatre armes légendaires où Naofumi hérite d'un simple bouclier considéré comme le plus inutile des quatre équipements. En raison de son manque de charisme, Naofumi finit malheureusement avec une seule coéquipière tandis que les autres en avaient plusieurs. Et comme si cela ne suffisait pas, lors du deuxième jour, il a été trahi, accusé à tort et volé par ladite partenaire. Méprisé de tous, du roi aux paysans, le jeune homme ne pense désormais plus qu'à se venger !",
+        "image_path": "./ressource/anime/tate_no_yuusha_no_nariagari_7016.webp"
     },
     {
         "id": 192,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "The King's Avatar",
+        "name_vo": "Quan Zhi Gao Shou",
+        "nb_saison": 4,
+        "nb_episode": 28,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Seinen",
+            "Heroic-fantasy"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Ye Xiu est un joueur professionnel sur le jeu en ligne Glory sur lequel il a 10 ans d'expérience. Il y est connu sous le nom de Ye Qiu, un joueur légendaire ayant apporté la victoire à son club trois fois consécutive. Cependant, il se voit exclu du club et est obligé de céder son compte à leur nouveau chef, Sun Xiang. Il décidera alors de recommencer à jouer depuis le début sur le 10ème serveur de Glory, après avoir été embauché dans un cybercafé.",
+        "image_path": "./ressource/anime/quan_zhi_gao_shou_6475.webp"
     },
     {
         "id": 193,

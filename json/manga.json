@@ -1094,13 +1094,13 @@
     {
         "id": 79,
         "name": "My Hero Academia : Vigilante",
-        "tomes": 13,
-        "terminer": "X",
+        "tomes": 15,
+        "terminer": "V",
         "tomes_jap": 15,
         "terminer_jap": "V",
         "editeur": "Ki-oon",
         "rangement": "Etagère 3",
-        "prioritaire": "V",
+        "prioritaire": "X",
         "lu": "X",
         "link": "https://www.manga-news.com/index.php/serie/Vigilante-My-Hero-Academia-Illegals",
         "image_path": "./ressource/manga/vigilante-my-hero-academia-1-ki-oon.webp"
