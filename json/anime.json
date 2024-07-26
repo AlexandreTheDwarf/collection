@@ -143,6 +143,7 @@
             "Historique",
             "Surnaturel",
             "Drame",
+            "Nekketsu",
             "Shônen"
         ],
         "synopsis" : "Le Japon, au début du XXe siecle. Un petit marchand de charbon nommé Tanjiro vit une vie sans histoire dans les montagnes. Jusqu’au jour tragique où, après une courte absence, il retrouve son village et sa famille massacrés par un ogre ! La seule survivante de cette tragédie est sa jeune sœur Nezuko. Hélas, au contact de la bête, celle-ci s’est à son tour métamorphosée en monstre... Afin de renverser le processus et de venger sa famille, Tanjiro décide de partir en quête de vérité. Pour le jeune héros et sa sœur, c’est une longue aventure de sang et d’acier qui commence !",
@@ -680,8 +681,8 @@
         "id": 43,
         "name": "Blue exorcist",
         "name_vo": "Ao no Exorcist",
-        "nb_saison": 1,
-        "nb_episode": 26,
+        "nb_saison": 3,
+        "nb_episode": 39,
         "genre": [
             "Action",
             "Comédie",
@@ -2266,6 +2267,7 @@
         "genre": [
             "Action",
             "Comédie",
+            "Nekketsu",
             "Shônen",
             "School Life",
             "Surnaturel"
@@ -3144,22 +3146,21 @@
     },
     {
         "id": 193,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "Bleach",
+        "name_vo": "Bleach",
+        "nb_saison": 2,
+        "nb_episode": 418,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Nekketsu",
+            "Shônen",
+            "Surnaturel"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Kurosaki Ichigo, un étudiant de quinze ans aux cheveux orange qui aime la bagarre (comme son père) a la particularité de voir les fantômes ainsi que de pouvoir les toucher. Cela l'amène à rencontrer Kuchiki Rukia, un Shinigami (dieu de la mort) qui combat un Hollow. Le déroulement du combat amène Kuchiki à donner ses pouvoirs à Ichigo qui deviens alors lui même un Shinigami. C'est maintenant à son tour de protéger la ville des Hollows.",
+        "image_path": "./ressource/anime/bleach_24.webp"
     },
     {
         "id": 194,
