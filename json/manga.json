@@ -1706,5 +1706,33 @@
         "lu": "V",
         "link": "https://www.manga-news.com/index.php/serie/Dark-Soul-Redemption",
         "image_path": "./ressource/manga/Dark_Souls_Redemption_T01_-_Mana_Books.webp"
-    }                                                                                                                                                                                                                                                
+    },
+    {
+        "id": 123,
+        "name": "Heureuse Vengeance",
+        "tomes": 1,
+        "terminer": "X",
+        "tomes_jap": 2,
+        "terminer_jap": "X",
+        "editeur": "Komikku Editions",
+        "rangement": "Etagère 1",
+        "prioritaire": "V",
+        "lu": "X",
+        "link": "https://www.manga-news.com/index.php/serie/Heureuse-vengeance",
+        "image_path": "./ressource/manga/heureuse_vengeance_1_komikku.webp"
+    },
+    {
+        "id": 124,
+        "name": "Da",
+        "tomes": 1,
+        "terminer": "X",
+        "tomes_jap": 2,
+        "terminer_jap": "X",
+        "editeur": "",
+        "rangement": "Etagère 1",
+        "prioritaire": "V",
+        "lu": "X",
+        "link": "",
+        "image_path": "./"
+    }                                                                                                                                                                                                                                                    
 ]
