@@ -1717,13 +1717,13 @@
         "editeur": "Komikku Editions",
         "rangement": "Etagère 1",
         "prioritaire": "V",
-        "lu": "X",
+        "lu": "V",
         "link": "https://www.manga-news.com/index.php/serie/Heureuse-vengeance",
         "image_path": "./ressource/manga/heureuse_vengeance_1_komikku.webp"
     },
     {
         "id": 124,
-        "name": "Da",
+        "name": "",
         "tomes": 1,
         "terminer": "X",
         "tomes_jap": 2,
