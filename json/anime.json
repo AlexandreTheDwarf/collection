@@ -2213,7 +2213,7 @@
         "genre": [
             "Comédie",
             "Ecchi",
-            "Fantasy",
+            "Fantastique",
             "Romance",
             "Seinen",
             "Tranche-de-vie",
@@ -3146,252 +3146,270 @@
     },
     {
         "id": 193,
-        "name": "Bleach",
-        "name_vo": "Bleach",
+        "name": "The Legend of Heroes: Trails of Cold Steel - Northern War",
+        "name_vo": "Eiyū Densetsu Sen no Kiseki Northern War",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis": "Il s'agit d'un anime basée sur la série de jeux vidéo The Legend of Heroes: Trails of Cold Steel. Cette adaptation aura une histoire originale se déroulant dans la partie occidentale du continent Zemurian.",
+        "image_path": "./ressource/anime/eiyuu_densetsu_sen_no_kiseki_-_northern_war_10142.webp"
+    },
+    {
+        "id": 194,
+        "name": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+        "name_vo": "Tensei Ōjo to Tensai Reijō no Mahō Kakumei",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Drame",
+            "Shôjo",
+            "Romance"
+        ],
+        "synopsis": "Anisphia Wynn Palettia, princesse du royaume de Palettia, est née sans pouvoir magique, chose extrêmement rare pour une personne de sa condition. Mais, fascinée par la magie, elle ne s'apitoie pas sur son sort et développe la magicologie. Euphyllia Magenta est une jeune noble bien sous tout rapport. Fiancée à Algard, l'héritier du trône, elle a tout fait pour répondre aux attentes de la société. Mais son monde vole en éclat lorsque le jeune homme rompt publiquement leurs fiançailles. Humiliée, elle trouve refuge chez Anisphia, qui la prend sous son aile et lui propose de devenir son assistante.",
+        "image_path": "./ressource/anime/tensei_oujo_to_tensai_reijou_no_mahou_kakumei_11334.webp"
+    },
+    {
+        "id": 195,
+        "name": "The Unwanted Undead Adventurer",
+        "name_vo": "Nozomanu Fushi no Bōkensha",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Heroic-fantasy",
+            "Mystère",
+            "Surnaturel",
+            "Romance",
+            "Isekai"
+        ],
+        "synopsis": "Rentt Faina, un aventurier de vingt-cinq ans, chasse les monstres depuis environ une décennie. Toutefois, sans grand talent pour ce travail, Rentt se retrouve contraint de chasser des slimes et autres gobelins pour de bien maigres sommes d'argent. Il est cependant loin de se douter que tout cela est sur le point de changer lorsqu'il découvre un chemin apparemment inconnu dans le Labyrinthe du Reflet de la Lune. Ce qui l'attend au bout du chemin n'est n'est pas un trésor, mais un dragon légendaire qui ne tarde pas à le dévorer ! En se réveillant peu de temps après, Rentt s'apperçoit qu'il est devenu un Guerrier Squelette !",
+        "image_path": "./ressource/anime/nozomanu_fushi_no_boukensha_11118.webp"
+    },
+    {
+        "id": 196,
+        "name": "To Love-Ru",
+        "name_vo": "To Love-Ru",
+        "nb_saison": 3,
+        "nb_episode": 61,
+        "genre": [
+            "Comédie",
+            "Ecchi",
+            "Romance",
+            "Science-fiction",
+            "Shônen"
+        ],
+        "synopsis": "Rito Yuuki, jeune lycéen de 15 ans, vit en compagnie de sa sœur et de son père. C'est un jeune homme très timide et il est amoureux de la belle Haruna Sairenji depuis l'école primaire. Un jour, alors qu'il est sous la douche à avoir des mauvaises pensées sur Haruna, son bain explose et apparait une jeune femme nue...",
+        "image_path": "./ressource/anime/to_love-ru_-trouble-_628.webp"
+    },
+    {
+        "id": 197,
+        "name": "To The Abandoned Sacred Beasts",
+        "name_vo": "Katsute Kami Datta Kemono-tachi e",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Drame",
+            "Fantastique"
+        ],
+        "synopsis": "Au cours d'une guerre civile opposant le Nord et le Sud du pays, les habitants du Nord, moins nombreux, ont utilisé la magie noire pour créer des super-soldats monstrueux nommés «Divins» (Incarnates). Bien que leurs terres aient été sauvées, certains ont commencé à craindre ces Bêtes Sacrées. Elles sont ainsi traquées car tôt ou tard ils perdent la raison et deviennent une menace.",
+        "image_path": "./ressource/anime/katsute_kami_datta_kemono-tachi_e_8466.webp"
+    },
+    {
+        "id": 198,
+        "name": "Tokyo Ghoul",
+        "name_vo": "Tokyo Kushu",
         "nb_saison": 2,
-        "nb_episode": 418,
+        "nb_episode": 24,
+        "genre": [
+            "Action",
+            "Drame",
+            "Horreur",
+            "Mystère",
+            "Psychologique",
+            "Seinen",
+            "Surnaturel"
+        ],
+        "synopsis": "Tokyo est devenue une ville cruelle et impitoyable, un endroit où des créatures vicieuses appelées «goules» existent aux côtés des humains. Les habitants de cette grande métropole vivent dans la peur constante de ces sauvages sanguinaires et de leur soif de chair humaine. Cependant, la plus grande menace que ces goules posent est leur capacité dangereuse à se faire passer pour des humains et de se fondre dans la société.",
+        "image_path": "./ressource/anime/tokyo_ghoul_3182.webp"
+    },
+    {
+        "id": 199,
+        "name": "Trinity Seven",
+        "name_vo": "Trinity Seven",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "Fantastique",
+            "Romance",
+            "School Life",
+            "Shônen"
+        ],
+        "synopsis": "L'histoire se centre sur Arata Kasuga, un adolescent vivant avec sa cousine, Hijiri Kasuga. Un jour, il remarque que le soleil et la lune sont devenus noirs et qu'il est le seul à trouver cela étrange. Il rencontre alors une étrange jeune fille se nommant Lilith, qui lui explique que son monde a été détruit. Elle lui explique aussi qu'il est dans un monde virtuel qu'il a lui même crée à l'aide d'un Grimoire que lui a laissé sa cousine avant d'être absorbée par le soleil noir.",
+        "image_path": "./ressource/anime/trinity_seven_3440.webp"
+    },
+    {
+        "id": 200,
+        "name": "As the moon, so beautiful",
+        "name_vo": "Tsuki ga kirei",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Drame",
+            "Romance",
+            "School Life",
+            "Tranche-de-vie"
+        ],
+        "synopsis": "Kotarô Azumi et Akane Mizuno sont en troisième année de collège et sont pour la première fois camarade de classe. Ces deux personnes, très timides, vont peu à peu se rapprocher en développant des sentiments mutuels.",
+        "image_path": "./ressource/anime/tsuki_ga_kirei_6553.webp"
+    },
+    {
+        "id": 201,
+        "name": "Moon-led Journey Across Another World",
+        "name_vo": "Tsuki ga Michibiku Isekai Douchuu",
+        "nb_saison": 2,
+        "nb_episode": 37,
         "genre": [
             "Action",
             "Aventure",
             "Comédie",
             "Drame",
-            "Nekketsu",
-            "Shônen",
-            "Surnaturel"
+            "Fantastique",
+            "Isekai"
         ],
-        "synopsis": "Kurosaki Ichigo, un étudiant de quinze ans aux cheveux orange qui aime la bagarre (comme son père) a la particularité de voir les fantômes ainsi que de pouvoir les toucher. Cela l'amène à rencontrer Kuchiki Rukia, un Shinigami (dieu de la mort) qui combat un Hollow. Le déroulement du combat amène Kuchiki à donner ses pouvoirs à Ichigo qui deviens alors lui même un Shinigami. C'est maintenant à son tour de protéger la ville des Hollows.",
-        "image_path": "./ressource/anime/bleach_24.webp"
-    },
-    {
-        "id": 194,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
-        "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "synopsis": "",
-        "image_path": "./"
-    },
-    {
-        "id": 195,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
-        "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "synopsis": "",
-        "image_path": "./"
-    },
-    {
-        "id": 196,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
-        "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "synopsis": "",
-        "image_path": "./"
-    },
-    {
-        "id": 197,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
-        "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "synopsis": "",
-        "image_path": "./"
-    },
-    {
-        "id": 198,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
-        "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "synopsis": "",
-        "image_path": "./"
-    },
-    {
-        "id": 199,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
-        "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "synopsis": "",
-        "image_path": "./"
-    },
-    {
-        "id": 200,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
-        "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "synopsis": "",
-        "image_path": "./"
-    },
-    {
-        "id": 201,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
-        "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Misumi Makoto, un banal lycéen, se retrouve dans un autre monde après avoir été invoqué par le dieu Tsukuyomi dans le but de devenir un héros. Cependant, une certaine déesse ne semble pas vouloir de Makoto comme héros dans son monde et décide de le propulser dans les confins de celui-ci avec seulement la capacité de comprendre les langues des êtres non-humains. Tsukuyomi va donc intervenir et lui donner une partie de ses pouvoirs. Avant de disparaître, le dieu déclare que Makoto est à présent libre de trouver son propre chemin.",
+        "image_path": "./ressource/anime/tsuki_ga_michibiku_isekai_douchuu_9790.webp"
     },
     {
         "id": 202,
-        "name": "",
-        "name_vo": "",
+        "name": "Upotte !!",
+        "name_vo": "Upotte !!",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Ecchi",
+            "School Life",
+            "Tranche-de-vie"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'académie Seisho est réputée pour ses étudiants se démarquant par leur adresse au tir. Un jour, un professeur qui vient d'être transféré, est à la recherche du nouvel établissement où il va enseigner. Cet endroit n'est autre que l'Académie Seisho. Cependant, il ne parvient pas à trouver le lieu en question, ce qui l'amène à vouloir demander son chemin à ceux qu'ils croisent. C'est alors qu'il surprend à un festival d'été une jeune fille s'exerçant sur un stand de tir. Surpris du talent de cette dernière dans ce domaine, il apprend ensuite que FNC, la jeune fille en question, est non pas une étudiante de l'académie qu'il recherche, mais se présente comme un fusil d'assaut.",
+        "image_path": "./ressource/anime/upotte_2221.webp"
     },
     {
         "id": 203,
-        "name": "",
-        "name_vo": "",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "name": "Vinland Saga",
+        "name_vo": "Vinland Saga",
+        "nb_saison": 2,
+        "nb_episode": 48,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Aventure",
+            "Drame",
+            "Historique",
+            "Seinen"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "Thorfinn est le fils de l'un des plus grands guerriers Vikings, mais quand son père est tué au combat par le chef mercenaire Askeladd, il jure de se venger. Thorfinn rejoint alors le groupe d'Askeladd pour le défier en duel. Cependant, il se retrouve pris au milieu d'une guerre pour la couronne d'Angleterre.",
+        "image_path": "./ressource/anime/vinland_saga_7677.webp"
     },
     {
         "id": 204,
-        "name": "",
-        "name_vo": "",
+        "name": "Valkyrie Romanze",
+        "name_vo": "Walkure Romanze",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Action",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Romance"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "L'histoire de Walkure Romanze est centrée autour de Takahiro Mizuno, un étudiant qui souhaitait devenir chevalier. Il était le champion junior inégalée dans son propre pays en joute. Cependant, une blessure en finale d'un tournoi l'a forcée à se retirer. Suite à cela, Il décide d'être un begleiter (compagnon de chevalier).",
+        "image_path": "./ressource/anime/walkure_romanze_2629.webp"
     },
     {
         "id": 205,
-        "name": "",
-        "name_vo": "",
+        "name": "World's End Harem",
+        "name_vo": "Shuumatsu no Harem",
         "nb_saison": 1,
         "nb_episode": 12,
         "genre": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Drame",
+            "Ecchi",
+            "Mature",
+            "Romance",
+            "Science-fiction",
+            "Tranche-de-vie"
         ],
-        "synopsis": "",
-        "image_path": "./"
+        "synopsis": "En 2040, un jeune homme, Reito Mizuhara, victime d'une maladie rare est plongé dans un sommeil cryogénique pour 5 ans le temps qu'un remède soit trouvé. Il promet à sa copine d'enfance, Erisa, qu'ils se retrouveront à son réveil. Quand on le réveille en 2045, il découvre un monde dans lequel 99,9 % des hommes ont disparu suite au virus MK et est peuplé quasi uniquement des 5 milliards de femmes restantes !",
+        "image_path": "./ressource/anime/shuumatsu_no_harem_9525.webp"
     },
     {
         "id": 206,
+        "name": "My Teen Romantic Comedy SNAFU",
+        "name_vo": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+        "nb_saison": 3,
+        "nb_episode": 38,
+        "genre": [
+            "Comédie",
+            "Drame",
+            "Romance",
+            "School Life",
+            "Tranche-de-vie"
+        ],
+        "synopsis": "Hikigaya Hachiman est un lycéen qui voit la vie différemment des autres. N'ayant pas d'amis ou de vie sociale, il ne comprend pas pourquoi ses camarades voient que leur jeunesse est si importante. En fait, il pense que les adolescents ne font que mentir quand ils parlent de leurs vies excitantes. Il n'a pas de rêves et d'ambitions pour le futur et mène une vie bien vide. C'est en lisant un de ses essais scolaires que sa professeur se rend compte de son problème. Elle le convainc alors à rejoindre le club de services volontaires, qui n'a pour membre que la fille la plus populaire du lycée : Yukinoshita Yukino. Suite à cet événement, tout change dans la vie de Hikigaya.",
+        "image_path": "./ressource/anime/yahari_ore_no_seishun_love_come_wa_machigatteiru_2412.webp"
+    },
+    {
+        "id": 207,
+        "name": "Yamada-kun and the Seven Witches",
+        "name_vo": "Yamada-kun to 7-nin no Majo",
+        "nb_saison": 1,
+        "nb_episode": 14,
+        "genre": [
+            "Comédie",
+            "Ecchi",
+            "Mystère",
+            "Romance",
+            "School Life",
+            "Surnaturel"
+        ],
+        "synopsis": "Ryu Yamada est un lycéen âgé d'une quinzaine année qui est considéré par ses pairs comme étant un adolescent peu fréquentable. En effet, il est grossier, vulgaire, stupide, bref, c'est un mauvais garçon ! De ce fait, personne ne désire le fréquenter et notre héros se sent bien seul. Sa vie est des plus banales jusqu'au jour où il percute dans les escaliers de son lycée une belle et intelligente demoiselle répondant au nom d'Urara Shiraishi. Sans s'en rendre compte, Ryu et Urara vont permuter leurs esprits !",
+        "image_path": "./ressource/anime/yamada-kun_to_7-nin_no_majo_tv_3946.webp"
+    },
+    {
+        "id": 208,
+        "name": "The Reincarnation of the Strongest Exorcist in Another World",
+        "name_vo": "Saikyou In Youshi no Isekai Tenseiki - Geboku no Youka Domo ni Kurabete Monster ga Yowa Sugiru nda ga",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Heroic-fantasy",
+            "Isekai",
+            "Romance"
+        ],
+        "synopsis": "Haruyoshi, l'exorciste le plus fort de tous, qui était sur le point de mourir à cause de la trahison de ses amis, souhaitait être heureux dans sa prochaine vie et a essayé le secret de la réincarnation. Il réussit et se réincarne dans un autre monde ! Dans cette vie, Haruyoshi est né dans une famille noble de mages, mais on juge qu'il n'a pas de pouvoirs magiques. Mais la magie qu'il voit de près n'est même pas proche de celle de son exorcisme... Peut-être n'a-t-il même pas besoin de magie pour être le plus fort, après tout ?",
+        "image_path": "./ressource/anime/saikyou_onmyouji_no_isekai_tenseiki_geboku_no_youkai-domo_ni_kurabete_monster_ga_yowasugirunda_ga_10968.webp"
+    },
+    {
+        "id": 209,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
@@ -3408,5 +3426,5 @@
         ],
         "synopsis": "",
         "image_path": "./"
-    }     
+    }      
 ]
