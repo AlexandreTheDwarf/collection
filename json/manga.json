@@ -1723,16 +1723,16 @@
     },
     {
         "id": 124,
-        "name": "",
+        "name": "Monster girls in another world",
         "tomes": 1,
-        "terminer": "X",
-        "tomes_jap": 2,
-        "terminer_jap": "X",
-        "editeur": "",
-        "rangement": "Etagère 1",
-        "prioritaire": "V",
-        "lu": "X",
-        "link": "",
-        "image_path": "./"
-    }                                                                                                                                                                                                                                                    
+        "terminer": "V",
+        "tomes_jap": 1,
+        "terminer_jap": "V",
+        "editeur": "Niho Niba",
+        "rangement": "Etagère 2",
+        "prioritaire": "X",
+        "lu": "V",
+        "link": "https://www.manga-news.com/index.php/manga/Monster-girls-in-another-world",
+        "image_path": "./ressource/manga/Monster_Girls_in_another_world_-_Niho_Niba.webp"
+    }                                                                                                                                                                                                                                         
 ]
