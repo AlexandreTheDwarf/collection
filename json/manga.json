@@ -471,7 +471,7 @@
         "editeur" : "Mana Books",
         "rangement" : "Etagère 1",
         "prioritaire" : "V",
-        "lu" : "V",
+        "lu" : "X",
         "link" : "https://www.manga-news.com/index.php/serie/Elden-Ring-Le-chemin-vers-lArbre-Monde",
         "image_path" : "./ressource/manga/Elden_ring_1-mana.webp"
     },
@@ -1570,14 +1570,14 @@
     {
         "id": 113,
         "name": "The Unwanted Undead Adventurer",
-        "tomes": 11,
+        "tomes": 12,
         "terminer": "X",
         "tomes_jap": 12,
         "terminer_jap": "X",
         "editeur": "Meian",
         "rangement": "Etagère 2",
         "prioritaire": "V",
-        "lu": "V",
+        "lu": "X",
         "link": "https://www.manga-news.com/index.php/serie/The-Unwanted-Undead-Adventurer",
         "image_path": "./ressource/manga/the-unwanted-undead-adventurer-1-meian.webp"
     },
