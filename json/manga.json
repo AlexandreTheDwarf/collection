@@ -175,9 +175,9 @@
         "tomes_jap" :  3,
         "terminer_jap" : "V",
         "editeur" : "Komikku Editions",
-        "rangement" : "Etagère 1",
+        "rangement" : "Grande Etagère",
         "prioritaire" : "X",
-        "lu" : "X",
+        "lu" : "V",
         "link" : "https://www.manga-news.com/index.php/serie/Bastion-de-lAlchimiste-le",
         "image_path" : "./ressource/manga/Bastion_de_Alchimiste_1_komikku.webp"
     },
@@ -1577,7 +1577,7 @@
         "editeur": "Meian",
         "rangement": "Etagère 2",
         "prioritaire": "V",
-        "lu": "X",
+        "lu": "V",
         "link": "https://www.manga-news.com/index.php/serie/The-Unwanted-Undead-Adventurer",
         "image_path": "./ressource/manga/the-unwanted-undead-adventurer-1-meian.webp"
     },
