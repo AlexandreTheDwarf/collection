@@ -168,20 +168,6 @@
         "image_path" : "./ressource/manga/baltzar-1-meian.webp"
     },
     {
-        "id" : 13,
-        "name" : "Bastion de l'Alchimiste (le)",
-        "tomes" :  3,
-        "terminer" : "V",
-        "tomes_jap" :  3,
-        "terminer_jap" : "V",
-        "editeur" : "Komikku Editions",
-        "rangement" : "Grande Etagère",
-        "prioritaire" : "X",
-        "lu" : "V",
-        "link" : "https://www.manga-news.com/index.php/serie/Bastion-de-lAlchimiste-le",
-        "image_path" : "./ressource/manga/Bastion_de_Alchimiste_1_komikku.webp"
-    },
-    {
         "id" : 14,
         "name" : "Bounder",
         "tomes" :  1,
