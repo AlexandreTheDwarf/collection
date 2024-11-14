@@ -2174,8 +2174,8 @@
         "id": 134,
         "name": "Moi quand je me reincarne en slime",
         "name_vo": "Tensei Shitara Slime Datta Ken",
-        "nb_saison": 2,
-        "nb_episode": 54,
+        "nb_saison": 3,
+        "nb_episode": 78,
         "genre": [
             "Action",
             "Aventure",
@@ -2367,7 +2367,7 @@
         "name": "NieR:Automata Ver 1.1a",
         "name_vo": "NieR:Automata",
         "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_episode": 24,
         "genre": [
             "Action",
             "Science-fiction"
@@ -3410,6 +3410,113 @@
     },
     {
         "id": 209,
+        "name": "A Nobody's Way Up to an Exploration Hero LV",
+        "name_vo": "Mob kara Hajimaru Tansaku Eiyuutan",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis": "Kaito Takagi est un lycéen qui passe ses journées à chasser des slimes dans les 'Donjons' en solo. Un jour, il obtient d'un étrange slime une 'Carte de serviteur', un objet d'une valeur marchande d'un milliard capable d'invoquer des êtres mythiques. Après mûre réflexion, Kaito choisit d'invoquer la Valkyrie Sylphy. Un peu découragé par l'apparence menue de la jeune fille qui apparait devant lui, il se rend vite compte que Sylphy possède la compétences de classe la plus puissante !",
+        "image_path": "./ressource/anime/mob_kara_hajimaru_tansaku_eiyuutan_12444.webp"
+    },
+    {
+        "id": 210,
+        "name": "Dahliya, Artisane Magicienne",
+        "name_vo": "Madougushi Dahlia wa Utsumukanai : Kyou kara Jiyuu na Shokunin Life",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Comédie",
+            "Fantastique",
+            "Isekai",
+            "Romance",
+            "Tranche-de-vie"
+        ],
+        "synopsis": "Dans le royaume d'Ordine, où magie, slimes, alchimie et autres fantaisies inscrites dans nos contes existent bel et bien, une japonaise se réincarne sous le nom de Dahliya Rossetti, la fille d'un artisan d'objets magiques. Grâce à cette nouvelle chance, elle décide de vivre sa deuxième vie comme elle l'entend et sans regret. Elle réalise son rêve de créer des objets du quotidien en adaptant ceux de sa vie passée avec les techniques et la magie qui s'offrent à elle.",
+        "image_path": "./ressource/anime/madougushi_dahlia_wa_utsumukanai_kyou_kara_jiyuu_na_shokunin_life_12109.webp"
+    },
+    {
+        "id": 211,
+        "name": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
+        "name_vo": "Hazurewaku no 'Joutai Ijou Skill' de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Ecchi",
+            "Fantastique",
+            "Isekai"
+        ],
+        "synopsis": "Tôka Mimori, lycéen aussi discret qu'un 'PNJ appartenant au décor', a été invoqué dans un autre monde avec ses camarades de classe afin que tous deviennent des héros.Mais tandis qu'autour de lui se succèdent les attributions de rangs S ou A, lui se voit qualifié de rang E, autrement dit 'bon à jeter', et se retrouve expédié au fin fond de ruines dont personne n'est jamais ressorti vivant. C'est alors qu'il découvre que ses 'compétences d'altération d'état', à première vue inutiles, lui permettent en fait de terrasser de puissants monstres !",
+        "image_path": "./ressource/anime/hazurewaku_no_joutai_ijou_skill_de_saikyou_ni_natta_ore_ga_subete_wo_juurin_suru_made_12471.webp"
+    },
+    {
+        "id": 212,
+        "name": "The Seven Heavenly Virtues",
+        "name_vo": "Nanatsu no Bitoku",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Ecchi",
+            "Fantastique",
+            "Surnaturel"
+        ],
+        "synopsis": "Les '7 Péchés Capitaux' ont quitté les Enfers et étendent leurs pouvoirs et leurs fléaux sur Terre. Le Paradis est en proie aux chaos et les Anges appartenant aux '7 Vertus Célestes' sont donc envoyés sur Terre afin de chercher un candidat pouvant devenir le 'Vrai Messie' et donc sauver la Terre.",
+        "image_path": "./ressource/anime/nanatsu_no_bitoku_7457.webp"
+    },
+    {
+        "id": 213,
+        "name": "The Ossan Newbie Adventurer Trained to Death by the Most Powerful Party Became Invincible",
+        "name_vo": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Ecchi",
+            "Fantastique"
+        ],
+        "synopsis": "Rick Gladiator, lui, est dans la trentaine et n'est parvenu à devenir un aventurier de rang S que très tardivement comparé à ses semblables... Ce qui pourrait sembler être un handicap pour lui se révèle en fait être un atout : en effet, tous ses ennemis le sous-estiment, mais une fois en combat, Rick dévoile de grandes capacités.",
+        "image_path": "./ressource/anime/shinmai_ossan_boukensha_saikyou_party_ni_shinu_hodo_kitaerarete_muteki_ni_naru_11855.webp"
+    },
+    {
+        "id": 214,
+        "name": "The Strongest Magician in the Demon Lords Army was a Human",
+        "name_vo": "Maou-gun Saikyou no Majutsushi wa Ningen datta",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis": "Ike, petit-fils du célèbre démon Romberg, est considéré comme un puissant magicien et excellent stratège de l'armée du Roi Démon. Après avoir fait ses preuves à de nombreuses reprises sur le champ de bataille, et notamment grâce à ses connaissances de sa vie antérieure, Ike réussit à obtenir un poste de Capitaine de brigade. Poste sous le commandement direct de Cefiro, Générale de la 7e division.",
+        "image_path": "./ressource/anime/maou-gun_saikyou_no_majutsushi_wa_ningen_datta_12557.webp"
+    },
+    {
+        "id": 215,
+        "name": "Why Nobody Remember My In This World?",
+        "name_vo": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Ecchi",
+            "Fantastique",
+            "Romance"
+        ],
+        "synopsis": "La Grande Guerre pour la suprématie globale qui opposa les cinq races se solda par la victoire de l'humanité, menée par le héros Sid. Les ennemis furent scellés dans de gigantesques tombeaux, dont Kai assure aujourd'hui la surveillance. Mais soudain, le monde est 'réécrit' sous les yeux de ce dernier. Désormais, du fait de l'inexistence de Sid, des dragons et des démons dominent la surface, les humains doivent se cacher pour subsister et, étrangement, personne ne connaît Kai. Le jeune soldat n'a pas le choix : il va se rebeller contre ce destin réécrit pour tenter de remettre en place le monde tel qu'il était avant !",
+        "image_path": "./ressource/anime/naze_boku_no_sekai_wo_daremo_oboeteinai_no_kay_12042.webp"
+    },
+    {
+        "id": 216,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
@@ -3426,5 +3533,5 @@
         ],
         "synopsis": "",
         "image_path": "./"
-    }      
+    }                  
 ]
