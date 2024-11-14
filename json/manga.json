@@ -534,7 +534,7 @@
     {
         "id" : 40,
         "name" : "Fun Territory Defense by the Optimistic Lord",
-        "tomes" :  3,
+        "tomes" :  4,
         "terminer" : "X",
         "tomes_jap" :  4,
         "terminer_jap" : "X",
@@ -996,7 +996,7 @@
     {
         "id": 73,
         "name": "Monster Musume",
-        "tomes": 15,
+        "tomes": 17,
         "terminer": "X",
         "tomes_jap": 19,
         "terminer_jap": "X",
@@ -1486,7 +1486,7 @@
     {
         "id": 108,
         "name": "The Cave King",
-        "tomes": 5,
+        "tomes": 6,
         "terminer": "X",
         "tomes_jap": 6,
         "terminer_jap": "X",
