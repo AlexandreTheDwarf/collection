@@ -1734,5 +1734,19 @@
         "lu": "X",
         "link": "https://www.manga-news.com/index.php/serie/Mushoku-Tensei-Lepee-dEris",
         "image_path": "./ressource/manga/Mushoku-Tensei-Eris-wa-Honki-de-Kiba-wo-Togu-1-jp.webp"
-    }                                                                                                                                                                                                                                      
+    },
+    {
+        "id": 126,
+        "name": "Quintessential Quintuplets : Edition Couleur",
+        "tomes": 6,
+        "terminer": "X",
+        "tomes_jap": 14,
+        "terminer_jap": "V",
+        "editeur": "Pika",
+        "rangement": "Etagère 3",
+        "prioritaire": "X",
+        "lu": "X",
+        "link": "https://www.manga-news.com/index.php/serie/The-Quintessential-Quintuplets",
+        "image_path": "./ressource/manga/quintescence-quintuplets-couleur-1-pika_large.jpg"
+    }                                                                                                                                                                                                                                   
 ]
