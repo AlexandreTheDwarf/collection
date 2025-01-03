@@ -450,7 +450,7 @@
     {
         "id" : 34,
         "name" : "Elden Ring : Le Chemin Vers L'arbre Monde",
-        "tomes" :  5,
+        "tomes" :  6,
         "terminer" : "X",
         "tomes_jap" :  5,
         "terminer_jap" : "X",
@@ -1738,7 +1738,7 @@
     {
         "id": 126,
         "name": "Quintessential Quintuplets : Edition Couleur",
-        "tomes": 6,
+        "tomes": 9,
         "terminer": "X",
         "tomes_jap": 14,
         "terminer_jap": "V",
