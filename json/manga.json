@@ -1748,5 +1748,19 @@
         "lu": "X",
         "link": "https://www.manga-news.com/index.php/serie/The-Quintessential-Quintuplets",
         "image_path": "./ressource/manga/quintescence-quintuplets-couleur-1-pika_large.jpg"
-    }                                                                                                                                                                                                                                   
+    },
+    {
+        "id": 127,
+        "name": "JK Haru: Sex Worker in Another World",
+        "tomes": 6,
+        "terminer": "X",
+        "tomes_jap": 7,
+        "terminer_jap": "V",
+        "editeur": "Meian",
+        "rangement": "Etagère 3",
+        "prioritaire": "V",
+        "lu": "X",
+        "link": "https://www.manga-news.com/index.php/serie/Jk-Haru-Sex-Worker-in-Another-World",
+        "image_path": "./ressource/manga/Jk_Haru_Sex_Worker_in_Another_World_1_meian.webp"
+    }                                                                                                                                                                                                                                  
 ]
