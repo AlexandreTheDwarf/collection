@@ -1262,14 +1262,14 @@
     {
         "id": 92,
         "name": "Re Monster",
-        "tomes": 8,
+        "tomes": 9,
         "terminer": "X",
-        "tomes_jap": 8,
+        "tomes_jap": 9,
         "terminer_jap": "X",
         "editeur": "Ototo",
         "rangement": "Etagère 2",
         "prioritaire": "V",
-        "lu": "V",
+        "lu": "X",
         "link": "https://www.manga-news.com/index.php/serie/Re:Monster",
         "image_path": "./ressource/manga/re-montser-ototo.webp"
     },
@@ -1738,8 +1738,8 @@
     {
         "id": 126,
         "name": "Quintessential Quintuplets : Edition Couleur",
-        "tomes": 9,
-        "terminer": "X",
+        "tomes": 14,
+        "terminer": "v",
         "tomes_jap": 14,
         "terminer_jap": "V",
         "editeur": "Pika",
@@ -1762,5 +1762,19 @@
         "lu": "X",
         "link": "https://www.manga-news.com/index.php/serie/Jk-Haru-Sex-Worker-in-Another-World",
         "image_path": "./ressource/manga/Jk_Haru_Sex_Worker_in_Another_World_1_meian.webp"
-    }                                                                                                                                                                                                                                  
+    },
+    {
+        "id": 128,
+        "name": "Re Zero : Arc 4",
+        "tomes": 3,
+        "terminer": "X",
+        "tomes_jap": "10",
+        "terminer_jap": "X",
+        "editeur": "Ototo",
+        "rangement": "Etagère 3",
+        "prioritaire": "V",
+        "lu": "X",
+        "link": "https://www.manga-news.com/index.php/serie/Re:Zero-Quatrieme-Arc-Le-Sanctuaire-et-la-Sorciere-de-l-Avarice",
+        "image_path": "./ressource/manga/rezero-quatrieme-arc-volume1-manga.webp"
+    }                                                                                                                                                                                                                           
 ]
