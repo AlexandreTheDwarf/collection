@@ -571,8 +571,8 @@
         "id": 36,
         "name": "Arifureta Shokugyou de Sekai Saikyou",
         "name_vo": "Arifureta Shokugyou de Sekai Saikyou",
-        "nb_saison": 2,
-        "nb_episode": 26,
+        "nb_saison": 3,
+        "nb_episode": 42,
         "genre": [
             "Action",
             "Aventure",
@@ -681,8 +681,8 @@
         "id": 43,
         "name": "Blue exorcist",
         "name_vo": "Ao no Exorcist",
-        "nb_saison": 3,
-        "nb_episode": 39,
+        "nb_saison": 5,
+        "nb_episode": 73,
         "genre": [
             "Action",
             "Comédie",
@@ -2109,8 +2109,8 @@
         "id": 130,
         "name": "Demon Lord, Retry!",
         "name_vo": "Maou-sama, Retry!",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_saison": 2,
+        "nb_episode": 24,
         "genre": [
             "Action",
             "Aventure",
@@ -2262,8 +2262,8 @@
         "id": 139,
         "name": "My Hero Academia",
         "name_vo": "Boku no Hero Academia",
-        "nb_saison": 6,
-        "nb_episode": 143,
+        "nb_saison": 7,
+        "nb_episode": 159,
         "genre": [
             "Action",
             "Comédie",
@@ -2636,8 +2636,8 @@
         "id": 162,
         "name": "Re:ZERO Starting Life in Another World",
         "name_vo": "Re:Zero kara Hajimeru Isekai Seikatsu",
-        "nb_saison": 2,
-        "nb_episode": 50,
+        "nb_saison": 3,
+        "nb_episode": 66,
         "genre": [
             "Comédie",
             "Drame",
@@ -3517,6 +3517,164 @@
     },
     {
         "id": 216,
+        "name": "Let This Grieving Soul Retire!",
+        "name_vo": "Nageki no Bourei wa Intai shitai",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "Romance"
+        ],
+        "synopsis": "Krai Andrey a autrefois fait une promesse à ses amis, celle de devenir chasseur de trésor comme eux. Malheureusement, son absence de talent l'a bien vite poussé à revoir ses ambitions à la baisse, à l'inverse de ses amis qui cumulent les succès.",
+        "image_path": "./ressource/anime/nageki_no_bourei_wa_intai_shitai_12712.webp"
+    },
+    {
+        "id": 217,
+        "name": "Loner Life in Another World",
+        "name_vo": "Hitoribocchi no Isekai Kouryaku",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            " Action",
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "Isekai"
+        ],
+        "synopsis": "Haruka est un lycéen solitaire comme les autres qui s'occupe de ses affaires et se tient à carreau tout au long de sa scolarité. Un jour, il se fait soudainement transporter dans un autre monde avec le reste de sa classe ! Avant même de s'en rendre compte, il se retrouve face au dieu de ce nouveau monde qui lui présente une liste de compétences puissantes à choisir. Cependant, il y a un hic : le premier arrivé est le premier servi et ses camarades de classe l'ont déjà devancé. Haruka doit se contenter de ce qu'il peut obtenir pour se frayer un chemin dans ce nouveau monde en solitaire !",
+        "image_path": "./ressource/anime/hitoribocchi_no_isekai_kouryaku_12469.webp"
+    },
+    {
+        "id": 218,
+        "name": "Magic Maker: How to Create Magic in Another World",
+        "name_vo": "Magic Maker - Isekai Mahou no Tsukurikata",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Isekai",
+            "Tranche-de-vie"
+        ],
+        "synopsis": "Un homme rêvant d'utiliser la magie est réincarné sous les traits d'un jeune garçon prénommé Shion. Ses attentes sont immenses lorsqu'il comprend qu'il a atterri dans un autre monde, mais le désespoir ne tarde pas à le rattraper. La magie n'existe pas non plus dans celui-ci. Sa sœur décide alors de l'emmener au lac pour lui montrer un étrange phénomène...",
+        "image_path": "./ressource/anime/magic_maker_-_isekai_mahou_no_tsukurikata_12807.webp"
+    },
+    {
+        "id": 219,
+        "name": "Ranma ½",
+        "name_vo": "Ranma ½",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Comédie",
+            "Romance",
+            "Surnaturel",
+            "Ecchi"
+        ],
+        "synopsis": "Alors qu'il revient tout juste de Chine où il s'est entrainé à la pratique des arts martiaux avec son père, Ranma Saotome découvre brutalement la jeune fille à laquelle il a été fiancé alors qu'il la connait à peine. Il s'agit d'Akane, la fille d'un ami de son père qui tient un petit dojo familial. Mais le mariage s'annonce difficile, les deux jeunes gens ne s'appréciant pas vraiment. De plus, Ranma, maudit par les sources de Chine dans lesquelles il est tombé, se transforme en fille au contact de l'eau froide.",
+        "image_path": "./ressource/anime/ranma_1_2_2024_12767.webp"
+    },
+    {
+        "id": 220,
+        "name": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!",
+        "name_vo": "S-Rank Monster no 'Behemoth' Dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantaisie",
+            "Ecchi"
+        ],
+        "synopsis": "Après avoir perdu la vie lors d'un combat contre les forces du mal, un chevalier se réincarne en un bébé behemoth, une créature puissante ressemblant à un chaton. Il est recueilli par Aria, une aventurière elfe débutante, qui le prend pour un simple chat et le nomme Tama. Touché par sa gentillesse, Tama décide de devenir son protecteur et l'accompagne dans ses aventures, utilisant ses capacités exceptionnelles pour l'aider à explorer les donjons et affronter divers défis.",
+        "image_path": "./ressource/anime/s-rank_monster_no_behemoth_dakedo_neko_to_machigawarete_elf_musume_no_pet_toshite_kurashitemasu_12627.webp"
+    },
+    {
+        "id": 221,
+        "name": "Goodbye Dragon Life, Hello Human Life ",
+        "name_vo": "Sayonara Ryuusei, Konnichiwa Jinsei",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantasy"
+        ],
+        "synopsis": "Après avoir vécu pendant des siècles, le plus vieux et le plus puissant des dragons s'est finalement lassé de la vie et s'est laissé tuer par un groupe de jeunes guerriers. Mais alors que son âme allait rejoindre la Mer des Âmes, il décide finalement de se réincarner dans le corps d'un enfant humain, faisant de ce dernier un être aux pouvoirs exceptionnels.",
+        "image_path": "./ressource/anime/sayonara_ryuusei_konnichiwa_jinsei_12595.webp"
+    },
+    {
+        "id": 222,
+        "name": "Headhunted to Another World: From Salaryman to Big Four!",
+        "name_vo": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Aventure",
+            "Comédie",
+            "Fantastique",
+            "Isekai",
+            "Romance",
+            "Surnaturel"
+        ],
+        "synopsis": "Dennosuke Uchimura est un salarié ordinaire essayant de gravir les échelons de son entreprise. Mais un jour, il se fait écraser et succombe à ses blessures. Toutefois, lorsque Uchimura reprend connaissance, il se retrouve dans un monde fantastique où il fait face au roi des démons. Ce dernier lui propose de travailler pour lui en devenant l'un des quatre rois célestes de son armée.",
+        "image_path": "./ressource/anime/salaryman_ga_isekai_ni_ittara_shitennou_ni_natta_hanashi_12818.webp"
+    },  
+    {
+        "id": 223,
+        "name": " I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
+        "name_vo": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Comédie",
+            "Fantastique",
+            "Isekai",
+            "Heroic-fantasy",
+            "Romance"
+        ],
+        "synopsis": "Alors qu'il prenait son verre du soir, un homme du Japon moderne s'est tout à coup retrouvé dans un autre monde dans le corps d'un enfant. Cet enfant, nommé Liam, est le cinquième fils d'un noble de cet autre monde. La soudaineté de la situation le fait paniquer, mais il a toujours été fasciné par la magie, et comme il n'a pas à travailler, il décide de mener une vie tranquille en pratiquant la magie. Il semble que ce Liam avait un réel talent pour la magie, et qu'il maîtrisait les sorts les plus difficiles, comme la maîtrise de la magie des attributs, l'invocation d'esprits, l'obtention de puissants outils magiques et même un pouvoir de construction. Il est alors devenu un aventurier visant à s'affranchir de la chute de sa famille, et avant qu'il ne s'en rende compte, il est devenu non seulement l'un des plus grands sorciers du monde, mais aussi un noble de haut rang.",
+        "image_path": "./ressource/anime/botsuraku_yotei_no_kizoku_dakedo_hima_datta_kara_mahou_wo_kiwametemita_12726.webp"
+    },
+    {
+        "id": 224,
+        "name": "Someday Will I Be The Greatest Alchemist?",
+        "name_vo": "Izure Saikyou no Renkinjutsushi?",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Isekai",
+            "Romance"
+        ],
+        "synopsis": "Iruma Takumi, un salaryman de 40 ans, est transporté dans un autre monde suite à une invocation de héros. Séparé des autres héros par la déesse, il se retrouve rajeuni et doté d'une apparence plus attrayante. Aspirant à une vie paisible dans le secteur manufacturier, Takumi découvre que les capacités spéciales offertes par la déesse rendent cette tranquillité difficile à atteindre. Parviendra-t-il à mener la vie paisible qu'il désire dans ce monde différent ?",
+        "image_path": "./ressource/anime/izure_saikyou_no_renkinjutsushiy_12676.webp"
+    },
+    {
+        "id": 225,
+        "name": "The Healer Who was Banished From His Party is Actually the Strongest",
+        "name_vo": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Ecchi",
+            "Fantastique"
+        ],
+        "synopsis": "Rejeté par ses anciens compagnons sous prétexte qu'il manque de puissance, Laust, un guérisseur, est persuadé d'être un bon à rien. Il ne maîtrise que le sort de bas niveau 'heal'. Bientôt sur la paille, il décide de trouver de nouveaux compagnons pour reprendre ses raids et tombe sur une certaine Nalsena. Or celle-ci, contrairement aux autres, se rend vite compte de la vraie puissance de Laust. De plus, elle est intimement convaincue de l'avoir déjà croisé par le passé...",
+        "image_path": "./ressource/anime/party_kara_tsuihou_sareta_sono_chiyushi_jitsu_wa_saikyou_ni_tsuki_12500.webp"
+    },    
+    {
+        "id": 220,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
@@ -3525,13 +3683,9 @@
             "",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
             ""
         ],
         "synopsis": "",
         "image_path": "./"
-    }                  
+    }                                                  
 ]
