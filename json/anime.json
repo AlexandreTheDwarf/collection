@@ -305,8 +305,8 @@
         "id" : 20,
         "name" : "Shangri-La Frontier",
         "name_vo" : "Shangri-La Frontier",
-        "nb_saison" : 1,
-        "nb_episode" : 25,
+        "nb_saison" : 2,
+        "nb_episode" : 50,
         "genre" : [
             "Aventure",
             "Fantastique",
@@ -3048,13 +3048,14 @@
         "id": 187,
         "name": "Solo Leveling",
         "name_vo": "Ore dake Level Up na Ken",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_saison": 2,
+        "nb_episode": 25,
         "genre": [
             "Action",
             "Aventure",
             "Drame",
-            "Fantastique"
+            "Fantastique",
+            "Isekai"
         ],
         "synopsis": "Lorsque d'étranges portails sont apparus aux quatre coins du monde, l'humanité a dû trouver une solution pour ne pas finir massacrée par les monstres qui en sortent. Dans le même temps, certaines personnes ont développé des capacités permettant de les chasser. Ces combattants intrépides n'hésitent pas à foncer au cœur des donjons pour combattre les créatures qu'ils abritent. Jin-Woo Sung, un chasseur de rang E considéré comme le plus faible de tous, se rend avec une équipe dans un donjon de rang D. Cependant, alors qu'ils se retrouvent piégé dans une salle avec des monstres qui ne sont pas du tout du niveau du donjon, Jin-Woo succombe. Alors qu'il pensait être mort, il se réveille à l'hôpital avec une étrange capacité : une interface virtuelle qui lui permet de devenir de plus en plus fort.",
         "image_path": "./ressource/anime/solo_leveling_11240.webp"
@@ -3675,6 +3676,34 @@
     },    
     {
         "id": 220,
+        "name": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+        "name_vo": "Arafou Otoko no Isekai Tsuuhan",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Isekai",
+            "Fantastique",
+            "Ecchi"
+        ],
+        "synopsis": "Kenichi, un homme célibataire d'une quarantaine d'années, est soudainement transporté dans un autre monde. Alors qu'il se fraye un chemin à travers les forêts dangereuses de ce monde, il se rend compte qu'il peut utiliser un énorme site d'achat en ligne, qui existe dans sa réalité à lui.",
+        "image_path": "./ressource/anime/arafou_otoko_no_isekai_tsuuhan_12901.webp"
+    },
+    {
+        "id": 221,
+        "name": "Even Given the Worthless 'Appraiser' Class, I'm Actually the Strongest",
+        "name_vo": "Fuguushoku 'Kanteishi' ga Jitsu wa Saikyou Datta",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis": "Quand un enfant naît, il se voit attribuer un [métier] par la déesse de la lumière. Malheureusement, Ain n'a pas eu de chance et s'est fait attribuer le métier 'commun' d'analyste. Il n'a aucune capacité que celle d'évaluer les matériaux. À cause de ça, il est victime de brimades par ceux qui ont des métiers de rang plus 'rares'. Mais Ain ne veut plus se laisser faire et décide donc de partir à l'aventure, une aventure qui le changera...",
+        "image_path": "./ressource/anime/fuguushoku_kanteishi_ga_jitsu_wa_saikyou_datta_12779.webp"
+    },
+    {
+        "id": 222,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
@@ -3687,5 +3716,5 @@
         ],
         "synopsis": "",
         "image_path": "./"
-    }                                                  
+    }                                                         
 ]
