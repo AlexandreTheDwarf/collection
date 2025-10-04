@@ -3115,8 +3115,8 @@
         "id": 191,
         "name": "The Rising of the Shield Hero",
         "name_vo": "Tate no Yuusha no Nariagari",
-        "nb_saison": 3,
-        "nb_episode": 50,
+        "nb_saison": 4,
+        "nb_episode": 62,
         "genre": [
             "Action",
             "Aventure",
@@ -3703,6 +3703,123 @@
         "image_path": "./ressource/anime/fuguushoku_kanteishi_ga_jitsu_wa_saikyou_datta_12779.webp"
     },
     {
+        "id": 223,
+        "name": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+        "name_vo": "Isekai Mokushiroku Mynoghra - Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Aventure",
+            "Drame",
+            "Fantastique",
+            "Isekai"
+        ],
+        "synopsis": "Takuto Ira est le joueur n°1 de Eternal Nations, l'un des jeux de stratégie le plus en vogue dans le monde, connu pour avoir terminé le jeu au plus haut niveau de difficulté avec la race la plus faible. Accablé par la maladie, le jeune homme finit par mourir dans sa chambre d'hôpital. Il se retrouve alors réincarné dans un monde fantastique avec Atô, son personnage préféré de Eternal Nations, en tant que seigneur maléfique du royaume de Mynoghra, la civilisation de la ruine et de la destruction. Pour survivre, une seule solution : conquérir le reste du monde !",
+        "image_path": "./ressource/anime/isekai_mokushiroku_mynoghra_hametsu_no_bunmei_de_hajimeru_sekai_seifuku_12762.webp"
+    },
+    {
+        "id": 224,
+        "name": "Sakamoto Days",
+        "name_vo": "Sakamoto Days",
+        "nb_saison": 2,
+        "nb_episode": 22,
+        "genre": [
+            "Action",
+            "Comédie"
+        ],
+        "synopsis": "L'histoire nous entraîne aux côtés de Taro Sakamoto, un assassin légendaire craint de tous...du moins c'était le cas il y a quelques années. En effet, après être tombé amoureux, Sakamoto s'est marié, a eu un enfant et a commencé à prendre du poids. Travaillant désormais dans une petite épicerie avec sa famille, Sakamoto ne semble être plus que l'ombre de lui-même. Un jour, l'arrivée de Shin, un jeune assassin télépathe, va forcer le père de famille à reprendre du service.",
+        "image_path": "./ressource/anime/sakamoto_days_12701.webp"
+    },
+    {
+        "id": 225,
+        "name": "Clevatess - The King of Devil Beast, The baby, and The Brave of Undead",
+        "name_vo": "Clevatess - Majuu no Ou to Akago to Shikabane no Yuusha",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Drame",
+            "Fantastique",
+            "Heroic-fantasy"
+        ],
+        "synopsis": "Le puissant démon Clevatess est dérangé dans son antre par une troupe de héros venue l'éliminer. Voilà un millénaire qu'il n'avait pas fait face à des humains. Ceux-ci s'élancent vaillamment... et sont décimés ! Malgré tout, leurs épées, forgées dans un métal rare, ont égratigné ses cornes... La créature s'interroge. Comment ces insectes insignifiants ont-ils pu développer de telles armes ? Pourquoi veulent-ils sa mort ?",
+        "image_path": "./ressource/anime/clevatess_-_majuu_no_ou_to_akago_to_shikabane_no_yuusha_12805.webp"
+    },
+    {
+        "id": 226,
+        "name": "New Saga",
+        "name_vo": "Tsuyokute New Saga",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Isekai",
+            "Romance"
+        ],
+        "synopsis": "Après une année de guerre qui a presque détruit le monde, Kaïl et ses alliés lancent une attaque suicide sur le château du Roi démon et tuent ce dernier. En tentant de saisir la source du pouvoir, Kaïl perd connaissance. Il se réveille, quatre ans en arrière dans son village natal qui aurait dû être détruit. Bien que son physique ne soit pas encore adapté au combat, il a conservé ses souvenirs et va les utiliser pour repartir à l'aventure et sauver le monde !",
+        "image_path": "./ressource/anime/tsuyokute_new_saga_11571.webp"
+    },
+    {
+        "id": 227,
+        "name": "From Old Country Bumpkin to Master Swordsman",
+        "name_vo": "Katainaka no Ossan, Kensei ni Naru",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Heroic-fantasy",
+            "Comédie"
+        ],
+        "synopsis": "Beryl Gardinant, qui s'autoproclame 'humble vieillard', enseigne le maniement du sabre dans son dojo situé dans un village perdu de la campagne. Dans sa jeunesse, il rêvait de gloire en tant que maître épéiste mais cette époque est loin derrière lui. Un jour, il reçoit la visite d'un ancien et célèbre élève qui lui apporte une nouvelle bouleversante : il a été nommé instructeur spécial pour les chevaliers de l'Ordre de Liberion ! Beryl se rend donc à la capitale et retrouve certains de ses anciens élèves : des chevaliers d'élite, un prodige de la magie et même un aventurier qui a atteint le rang le plus élevé possible dans une guilde. Mais pourquoi veulent-ils tous bénéficier de ses enseignements ? En ce qui le concerne, ils n'ont manifestement plus besoin de lui. ",
+        "image_path": "./ressource/anime/katainaka_no_ossan_kensei_ni_naru_12830.webp"
+    },
+    {
+        "id": 228,
+        "name": "The Brilliant Healer's New Life in the Shadows",
+        "name_vo": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Fantastique",
+            "Tranche-de-vie",
+            "Comédie"
+        ],
+        "synopsis": "Zenos errait sans but jusqu'à ce qu'il rencontre Lili, une esclave elfe gravement blessée, et lui sauve la vie. Cette rencontre conduit Zenos à ouvrir une clinique en tant que guérisseur obscur non agréé. La rumeur du guérisseur se répand de bouche à oreille, et atteint bientôt la cour royale !",
+        "image_path": "./ressource/anime/isshun_de_chiryou_shiteita_noni_yakutatazu_to_tsuihou_sareta_tensai_chiyushi_yami_healer_toshite_tanoshiku_ikiru_12722.webp"
+    },
+    {
+        "id": 229,
+        "name": "The Beginning After the End",
+        "name_vo": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Isekai"
+        ],
+        "synopsis": "Après une mort mystérieuse, le roi Grey renaît sur le continent magique de Dicathen sous le nom d'Arthur Leywin. Bien qu'il entame sa seconde vie sous la forme d'un bébé, il conserve sa sagesse d'antan. Au fil des ans, il commence à maîtriser la magie et à se forger sa propre voie, cherchant à corriger les erreurs de sa vie passée.",
+        "image_path": "./ressource/anime/saikyou_no_ousama_nidome_no_jinsei_wa_nani_wo_suruy_12997.webp"
+    },
+    {
+        "id": 230,
+        "name": "The Unaware Atelier Meister",
+        "name_vo": "Kanchigai no Atelier Meister - Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantastique"
+        ],
+        "synopsis": "Kuruto est mal vu auprès des héros parce qu'il est jugé inutile. Cependant, il découvre que dans tout le reste, comme la cuisine, la construction, la fabrication d'outils magiques, etc., il excelle, surpassant largement ses coéquipiers.",
+        "image_path": "./ressource/anime/kanchigai_no_atelier_meister_-_eiyuu_party_no_moto_zatsuyougakari_ga_jitsu_wa_sentou_igai_ga_sss_rank_datta_to_iu_yoku_aru_hanashi_13190.webp"
+    },
+    {
         "id": 222,
         "name": "",
         "name_vo": "",
@@ -3716,5 +3833,5 @@
         ],
         "synopsis": "",
         "image_path": "./"
-    }                                                         
+    }                                                                
 ]
