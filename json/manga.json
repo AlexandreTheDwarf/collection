@@ -464,7 +464,7 @@
     {
         "id" : 35,
         "name" : "A Fantasy Lazy Life",
-        "tomes" :  15,
+        "tomes" :  17,
         "terminer" : "X",
         "tomes_jap" :  19,
         "terminer_jap" : "X",
@@ -1668,7 +1668,7 @@
     {
         "id": 121,
         "name": "World End Harem : Fantasy",
-        "tomes": 11,
+        "tomes": 13,
         "terminer": "X",
         "tomes_jap": 15,
         "terminer_jap": "X",

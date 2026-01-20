@@ -788,8 +788,8 @@
         "id": 50,
         "name": "Hero Skill - Achats en ligne",
         "name_vo": "Tondemo Skill de Isekai Hōrō Meshi",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_saison": 2,
+        "nb_episode": 24,
         "genre": [
             "Action",
             "Aventure",
@@ -991,8 +991,8 @@
         "id": 62,
         "name": "Dr stone",
         "name_vo": "Dr stone",
-        "nb_saison": 3,
-        "nb_episode": 59,
+        "nb_saison": 4,
+        "nb_episode": 83,
         "genre": [
             "Action",
             "Aventure",
@@ -2262,8 +2262,8 @@
         "id": 139,
         "name": "My Hero Academia",
         "name_vo": "Boku no Hero Academia",
-        "nb_saison": 7,
-        "nb_episode": 159,
+        "nb_saison": 8,
+        "nb_episode": 170,
         "genre": [
             "Action",
             "Comédie",
@@ -3521,7 +3521,7 @@
         "name": "Let This Grieving Soul Retire!",
         "name_vo": "Nageki no Bourei wa Intai shitai",
         "nb_saison": 1,
-        "nb_episode": 13,
+        "nb_episode": 24,
         "genre": [
             "Action",
             "Aventure",
@@ -3568,8 +3568,8 @@
         "id": 219,
         "name": "Ranma ½",
         "name_vo": "Ranma ½",
-        "nb_saison": 1,
-        "nb_episode": 12,
+        "nb_saison": 2,
+        "nb_episode": 24,
         "genre": [
             "Comédie",
             "Romance",
@@ -3820,7 +3820,226 @@
         "image_path": "./ressource/anime/kanchigai_no_atelier_meister_-_eiyuu_party_no_moto_zatsuyougakari_ga_jitsu_wa_sentou_igai_ga_sss_rank_datta_to_iu_yoku_aru_hanashi_13190.webp"
     },
     {
-        "id": 222,
+        "id": 231,
+        "name": "Hero Without a Class Who Even Needs Skills",
+        "name_vo": "Mushoku no Eiyū: Betsu ni Skill Nanka Iranakattan da ga",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Comédie",
+            "Fantastique"
+        ],
+        "synopsis": "Dans un monde où chacun reçoit une 'classe' à l'âge de 10 ans, la vie tourne autour des compétences ainsi acquises. Mais que se passe-t-il lorsque le sort ne nous attribue aucune classe ? C'est ce que doit découvrir Arel qui, malgré ce handicap, a bien l'intention de marquer les esprits.",
+        "image_path": "./ressource/anime/mushoku_no_eiyuu_betsu_ni_skill_nanka_iranakatta_n_da_ga_12325.webp"
+    },
+    {
+        "id": 232,
+        "name": "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon Im Out for Revenge",
+        "name_vo": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift 'Mugen Gacha' de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & 'Zamaa!' Shimasu!",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis": "L'histoire se déroule dans un monde où les humains sont traités comme une espèce inférieure. Light, un garçon humain qui portait les bagages d'un groupe d'aventuriers appelé 'Gathering of the Tribes', est condamné à être banni au plus profond du donjon le plus mortel du monde, 'l'Abysse'. Afin de survivre dans les abysses, Light utilise sa seule compétence, 'Infinite Gacha', dans une tentative désespérée. En réponse, Light se fait de nouveaux amis, qui se vantent d'une force écrasante de 'niveau 9999' ! Trois ans plus tard. Light, qui est devenu de niveau 9999 lui-même, est accompagnée par de jolies filles qui lui jurent fidélité, et commence une marche rapide vers la surface avec son pouvoir écrasant.",
+        "image_path": "./ressource/anime/shinjite_ita_nakama.webp"
+    },
+    {
+        "id": 233,
+        "name": "My Status as an Assassin Obviously Exceeds the Heros",
+        "name_vo": "Assassin de Aru Ore no Sutetasu ga Yuusha yori mo Akiraka ni Tsuyoi Nodaga",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Isekai",
+            "Romance"
+        ],
+        "synopsis": "Un jour, la classe d'Akira est transportée par magie dans un autre monde. Dès leur arrivée, ses camarades et lui se voient attribuer des pouvoirs fantastiques. Mais alors que l'un d'entre eux a la chance de devenir un véritable Héros, Akira se retrouve dans la peau d'un simple Assassin. Cependant, contre toute attente, l'Assassin pourrait bien être le rôle le plus puissant de tous ! Ayant des doutes sur les intentions du roi, Akira utilise ses nouvelles capacités en tant que maître de l'ombre pour découvrir les secrets et les conspirations de la couronne.",
+        "image_path": "./ressource/anime/assassin_de_aru_ore_no_sutetasu_ga_yuusha_yori_mo_akiraka_ni_tsuyoi_nodaga_13213.webp"
+    },
+    {
+        "id": 234,
+        "name": "Night of the Living Cat",
+        "name_vo": "Nyaight of the Living Cat",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Surnaturel",
+            "Horreur"
+        ],
+        "synopsis": "Contaminée par un mystérieux virus, l'humanité est au bord de l'extinction ! En effet, il suffit d'un câlin pour se transformer en félin. Peu d'humains ont su résister à la tentation et les survivants sont rares. Kunagi est l'un d'entre eux, mais saura-t-il résister à ses adorables ennemis ?",
+        "image_path": "./ressource/anime/nyaight_of_the_living_cat_12549.webp"
+    },
+    {
+        "id": 235,
+        "name": "Private Tutor to the Dukes Daughter",
+        "name_vo": "Koujo Denka no Kateikyoushi",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Comédie",
+            "Fantastique",
+            "Romance",
+            "Tranche-de-vie"
+        ],
+        "synopsis": "L'histoire se déroule dans un monde où la magie fait partie du quotidien. Après avoir échoué à l'examen qui lui aurait ouvert les portes du travail de ses rêves, Allen décide de rentrer chez lui et de vivre une vie sans histoires. Malheureusement, il n'a plus un sou en poche et ne peut même pas s'offrir un billet de train ! De son côté, le duc Howard, un homme puissant, cherche un précepteur pour sa fille, Tina, qui semble dépourvue de magie.",
+        "image_path": "./ressource/anime/koujo_denka_no_kateikyoushi_12339.webp"
+    },
+    {
+        "id": 236,
+        "name": "Ruri Rocks",
+        "name_vo": "Ruri no Houseki",
+        "nb_saison": 1,
+        "nb_episode": 13,
+        "genre": [
+            "Nature",
+            "Scientifique"
+        ],
+        "synopsis": "Ruri Tanigawa, une lycéenne qui est passionnée de bijoux et d'accessoires, est fascinée par un cristal qu'elle voit dans un magasin. Elle prend la direction des montagnes où son grand-père avait l'habitude de collecter des cristaux pour trouver des minéraux intéressants. Sur la route de montagne, elle rencontre par hasard Arato Nagi, une étudiante diplômée en minéralogie, qui lui montre un gisement de pegmatite. Cela conduit Ruri à accompagner Nagi dans ses expéditions de collecte de minéraux.",
+        "image_path": "./ressource/anime/ruri_no_houseki_13230.webp"
+    },
+    {
+        "id": 237,
+        "name": "Scooped Up by an S-Rank Adventurer",
+        "name_vo": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru - Kono Shiromadoushi ga Kikakugai Sugiru",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique",
+            "Romance"
+        ],
+        "synopsis": "Lloyd, un mage blanc, est un jour exclu de l'équipe du héros. Lloyd a perdu son emploi, mais à cette époque, personne ne savait que le groupe s'effondrerait et que Lloyd deviendrait célèbre pour ses capacités exceptionnelles.",
+        "image_path": "./ressource/anime/yuusha_party_wo_tsuihou_sareta_shiromadoushi_s-rank_boukensha_ni_hirowareru_kono.webp"
+    },
+    {
+        "id": 238,
+        "name": "Sword of the Demon Hunter Kijin Gentosho",
+        "name_vo": "Kijin Gentoushou",
+        "nb_saison": 1,
+        "nb_episode": 24,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Surnaturel",
+            "Historique"
+        ],
+        "synopsis": "L'histoire débute à l'époque d'Edo et se centre sur Jinta, le garde du corps d'une prêtresse dans un village de montagne isolé. Bien que Jinta soit un étranger pour le village, on lui confie la tâche de traquer un démon dans la forêt afin de le tuer. Mais lors de sa rencontre avec le démon, celui-ci lui annonce un avenir mystérieux et déroutant. L'histoire s'étend sur 170 ans, de la période Edo à l'ère Heisei, durant laquelle les protagonistes voyagent à travers l'espace et le temps, tout en cherchant à comprendre pourquoi ils manient la lame.",
+        "image_path": "./ressource/anime/kijin_gentoushou_10651.webp"
+    },
+    {
+        "id": 239,
+        "name": "The Banished Court Magician Aims to Become the Strongest",
+        "name_vo": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Fantastique"
+        ],
+        "synopsis": "Alec Yugret était autrefois un membre de la célèbre équipe qui réussit à franchir les 68 étages du donjon de la capitale – un exploit jamais réitéré depuis. Magicien à la cour, il vient d'être renvoyé de la troupe d'aventuriers car jugé incapable de produire autre chose que des sorts de soutien. Il décide alors de monter son propre groupe, et pour cela, il fait appel à une charmante jeune fille avec qui il a étudié auparavant...",
+        "image_path": "./ressource/anime/mikata_ga_yowasugite_hojo_mahou_ni_tesshiteita_kyuutei_mahoushi_tsuihou_sarete_saikyou_wo_mezashimasu_13325.webp"
+    },
+    {
+        "id": 240,
+        "name": "The Water Magician",
+        "name_vo": "Mizu Zokusei no Mahoutsukai",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Isekai"
+        ],
+        "synopsis": "Après s'être réincarné dans le monde de Phi, Ryô découvre qu'il maîtrise une magie lui permettant de contrôler l'eau à sa convenance. Il est également le détenteur d'une compétence qui lui confère la jeunesse éternelle. Fort de cela, il décide de vivre une vie oisive, mais le monde de Phi n'est pas propice à la villégiature.",
+        "image_path": "./ressource/anime/mizu_zokusei_no_mahoutsukai_13211.webp"
+    },
+    {
+        "id": 241,
+        "name": "Tougen Anki",
+        "name_vo": "Tōgen Anki",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Drame",
+            "Surnaturel"
+        ],
+        "synopsis": "Shiki Ichinose est aux premiers abords un simple ado rebelle mais il se trouve qu'il est l'héritier du sang d'Oni. Ce dernier a vécu toute son enfance en ignorant ce qu'il était vraiment. C'est lorsqu'un inconnu tente de l'assassiner chez lui qu'il se voit révéler la vérité par son beau-père. L'homme qui tenta de s'en prendre à Shiki est un Momotarou, les Oni et les Momotarou n'ont jamais pu coexister et ont toujours mené une guerre sans fin. Que fera Shiki après toutes ces révélations ? Pourra-t-il réconcilier les Oni et Momotarou ?",
+        "image_path": "./ressource/anime/tougen_anki_12673.webp"
+    },
+    {
+        "id": 242,
+        "name": "Uglymug Epicfighter",
+        "name_vo": "Busamen Gachi Fighter",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Comédie",
+            "Fantastique",
+            "Isekai"
+        ],
+        "synopsis": "Traumatisé après avoir été jugé coupable d'un délit sexuel qu'il n'a pas commis, Shigeru Yoshioka s'est renfermé sur lui-même jusqu'à devenir un NEET. Complexé par son apparence et ne percevant plus de futur dans sa vie, l'ex-salaryman se laisse tenter par une rumeur apparue sur le web lui promettant un nouveau départ dans un autre monde. Et c'est en échange d'une apparence aussi terrible que possible que Yoshioka démarre sa nouvelle vie dans un monde de fantasy... en ayant la puissance d'un véritable dieu vivant !",
+        "image_path": "./ressource/anime/busamen_gachi_fighter_13103.webp"
+    },
+    {
+        "id": 243,
+        "name": "Dad Is a Hero Mom Is a Spirit Im a Reincarnator",
+        "name_vo": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Fantastique",
+            "Isekai",
+            "Comédie"
+        ],
+        "synopsis": "Mon père est un ancien héros, et ma mère est une reine des esprits !? Avec ma connaissance de ma vie passée et mes pouvoirs dans ce monde, je protégerai le bonheur de ma famille!",
+        "image_path": "./ressource/anime/chichi_wa_eiyuu_haha_wa_seirei_musume_no_watashi_wa_tenseisha_12486.webp"
+    },
+    {
+        "id": 244,
+        "name": "A Gatherers Adventure in Isekai",
+        "name_vo": "Sozai Saishuka no Isekai Ryokouki",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "Action",
+            "Aventure",
+            "Isekai",
+            "Romance"
+        ],
+        "synopsis": "Après avoir été transféré dans le monde magique de Madeus, Takeru Kamishiro, autrefois modeste employé de bureau, se trouve affublé de nombreux talents. Une nouvelle vie commence pour lui.",
+        "image_path": "./ressource/anime/sozai_saishuka_no_isekai_ryokouki_13295.webp"
+    },
+    {
+        "id": 240,
+        "name": "",
+        "name_vo": "",
+        "nb_saison": 1,
+        "nb_episode": 12,
+        "genre": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "synopsis": "",
+        "image_path": "./"
+    },
+    {
+        "id": 240,
         "name": "",
         "name_vo": "",
         "nb_saison": 1,
